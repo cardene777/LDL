@@ -1,0 +1,12 @@
+[I 09:11:01.171 NotebookApp] Serving notebooks from local directory: /Users/akira/Desktop/local/develop/LDL
+[I 09:11:01.171 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 09:11:01.171 NotebookApp] http://localhost:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+[I 09:11:01.171 NotebookApp]  or http://127.0.0.1:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+[I 09:11:01.171 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:11:01.174 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/akira/Library/Jupyter/runtime/nbserver-8382-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+     or http://127.0.0.1:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
