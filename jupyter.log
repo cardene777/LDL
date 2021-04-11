@@ -221,3 +221,4 @@ To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriat
 [W 10:27:44.773 NotebookApp] Notebook formula.ipynb is not trusted
 [I 10:29:45.620 NotebookApp] Saving file at /formula.ipynb
 [W 10:29:45.621 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:38:54.882 NotebookApp] Starting buffering for 04d84cc5-73d4-48bb-91bb-8d5dcceb3ee1:5e1e4510056d41fb8afd0b7abd5d4324
