@@ -1,0 +1,1494 @@
+[I 09:11:01.171 NotebookApp] Serving notebooks from local directory: /Users/akira/Desktop/local/develop/LDL
+[I 09:11:01.171 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 09:11:01.171 NotebookApp] http://localhost:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+[I 09:11:01.171 NotebookApp]  or http://127.0.0.1:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+[I 09:11:01.171 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:11:01.174 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/akira/Library/Jupyter/runtime/nbserver-8382-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+     or http://127.0.0.1:8888/?token=0fb0e7d003ae8a6b8422e780dff0c75a4b02e0f6b7ae5a24
+[I 09:14:54.810 NotebookApp] Creating new file in 
+[W 09:15:21.672 NotebookApp] delete /untitled.txt
+[I 13:04:19.655 NotebookApp] Creating new notebook in /Intuitive_Deep_Learning
+[I 13:04:20.717 NotebookApp] Kernel started: 24404585-1eb2-4488-a38b-cf2385877fef, name: python3
+[I 13:06:21.931 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 13:32:20.649 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 13:33:43.781 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 13:33:44.209 NotebookApp] Kernel restarted: 24404585-1eb2-4488-a38b-cf2385877fef
+[I 13:33:44.217 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 13:33:45.535 NotebookApp] Replaying 3 buffered messages
+[I 13:34:20.661 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 13:36:20.877 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+2021-04-10 13:37:19.762410: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-10 13:37:19.763188: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 13:38:20.641 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 13:40:20.658 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 13:42:20.651 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 13:44:20.653 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 14:24:59.857 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 14:25:02.170 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 15:59:40.345 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 15:59:41.860 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 16:38:10.301 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 16:38:12.238 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 17:43:05.857 NotebookApp] Creating new notebook in 
+[I 17:43:06.608 NotebookApp] Kernel started: 85c9d83d-6094-47d3-bee3-15725eb57014, name: python3
+[I 17:45:06.876 NotebookApp] Saving file at /practice.ipynb
+[I 18:54:16.054 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 18:54:16.055 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 18:54:17.759 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 18:54:17.779 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 18:56:22.501 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 18:56:22.502 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 18:56:24.937 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 18:56:24.959 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:11:37.274 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:11:37.294 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 19:11:40.134 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:11:40.158 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 19:13:13.366 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 19:13:13.368 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:13:15.255 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 19:13:15.278 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:29:02.644 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:29:02.646 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 19:29:04.333 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 19:29:04.399 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:00:24.429 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:00:24.433 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 20:00:27.142 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:00:27.163 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 20:10:21.458 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 20:10:21.493 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:10:24.339 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 20:10:24.360 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:55:24.621 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:55:24.623 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 20:55:25.984 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 20:55:26.005 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 09:19:25.218 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 09:19:25.256 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 09:19:27.946 NotebookApp] Restoring connection for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[I 09:19:27.966 NotebookApp] Restoring connection for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 09:45:34.100 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:45:35.592 NotebookApp] Starting buffering for 24404585-1eb2-4488-a38b-cf2385877fef:94ceb9b889eb428e864330cbd522dd6d
+[I 09:46:51.326 NotebookApp] Creating new notebook in /Building_Deep_Learning_from_Scratch
+[I 09:46:52.059 NotebookApp] Kernel started: 7f075f8f-e13e-45e2-8844-41728fb8d6c2, name: python3
+[W 09:47:53.375 NotebookApp] 400 GET /api/contents/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local?type=file&format=text&_=1618102073324 (::1): /Users/akira/Desktop/local/develop/LDL/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local is not UTF-8 encoded
+[W 09:47:53.376 NotebookApp] /Users/akira/Desktop/local/develop/LDL/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local is not UTF-8 encoded
+[W 09:47:53.377 NotebookApp] 400 GET /api/contents/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local?type=file&format=text&_=1618102073324 (::1) 3.350000ms referer=http://localhost:8888/edit/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local
+[W 09:48:27.309 NotebookApp] 400 GET /api/contents/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local?type=file&format=text&_=1618102107255 (::1): /Users/akira/Desktop/local/develop/LDL/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local is not UTF-8 encoded
+[W 09:48:27.309 NotebookApp] /Users/akira/Desktop/local/develop/LDL/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local is not UTF-8 encoded
+[W 09:48:27.310 NotebookApp] 400 GET /api/contents/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local?type=file&format=text&_=1618102107255 (::1) 2.730000ms referer=http://localhost:8888/edit/Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14/events.out.tfevents.1618029439.Akiras-MacBook-Pro.local
+[I 09:48:52.401 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/activation_function.ipynb
+[I 09:49:07.585 NotebookApp] Creating new notebook in 
+[I 09:49:08.250 NotebookApp] Kernel started: 04d84cc5-73d4-48bb-91bb-8d5dcceb3ee1, name: python3
+[I 09:51:08.248 NotebookApp] Saving file at /formula.ipynb
+[W 09:54:00.348 NotebookApp] Notebook Building_Deep_Learning_from_Scratch/neural_network.ipynb is not trusted
+[I 09:54:00.559 NotebookApp] Kernel started: 3df972e2-5b6c-4271-9c6d-58f3c4876e20, name: python3
+[I 09:54:04.147 NotebookApp] Starting buffering for 3df972e2-5b6c-4271-9c6d-58f3c4876e20:8c77168d17134c79b643df2eaf4d7bbf
+[I 09:55:08.246 NotebookApp] Saving file at /formula.ipynb
+[I 09:57:08.234 NotebookApp] Saving file at /formula.ipynb
+[I 09:58:41.625 NotebookApp] Saving file at /formula.ipynb
+[I 09:58:43.103 NotebookApp] Starting buffering for 04d84cc5-73d4-48bb-91bb-8d5dcceb3ee1:37648657e93f4e888fd0428578ba7684
+[I 09:58:43.599 NotebookApp] Starting buffering for 7f075f8f-e13e-45e2-8844-41728fb8d6c2:9a2bb3d9375249498b55fbf5bd6388d7
+[W 09:58:49.150 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:58:52.321 NotebookApp] Starting buffering for 04d84cc5-73d4-48bb-91bb-8d5dcceb3ee1:a259d20b37b747b98ad422e16aba57e5
+[W 09:59:02.407 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:59:09.224 NotebookApp] Starting buffering for 04d84cc5-73d4-48bb-91bb-8d5dcceb3ee1:1fdceb27bd8641aa9efbfef30ccc3637
+[W 09:59:14.721 NotebookApp] Notebook Building_Deep_Learning_from_Scratch/activation_function.ipynb is not trusted
+[I 09:59:16.816 NotebookApp] Starting buffering for 7f075f8f-e13e-45e2-8844-41728fb8d6c2:9f3be322e2a4484ea36ef391392592df
+[I 09:59:27.525 NotebookApp] Kernel shutdown: 7f075f8f-e13e-45e2-8844-41728fb8d6c2
+[W 09:59:27.736 NotebookApp] delete /Building_Deep_Learning_from_Scratch/activation_function.ipynb
+[I 09:59:38.885 NotebookApp] Starting buffering for 85c9d83d-6094-47d3-bee3-15725eb57014:85207dca58cd41a6b262a60a970c0def
+[W 09:59:44.639 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:07:20.425 NotebookApp] Creating new notebook in /Building_Deep_Learning_from_Scratch
+[I 10:07:21.118 NotebookApp] Kernel started: 225f1ebe-fdd4-4da1-b946-58adca6b8094, name: python3
+[I 10:07:34.127 NotebookApp] Starting buffering for 225f1ebe-fdd4-4da1-b946-58adca6b8094:9b7ceee9f513470fbfcf33f44b387646
+[I 10:07:38.185 NotebookApp] Kernel shutdown: 225f1ebe-fdd4-4da1-b946-58adca6b8094
+[W 10:07:41.348 NotebookApp] delete /Building_Deep_Learning_from_Scratch/numpy.ipynb
+[I 10:07:45.711 NotebookApp] Saving file at /formula.ipynb
+[W 10:07:45.713 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:07:46.042 NotebookApp] Creating new directory in 
+[I 10:08:21.143 NotebookApp] Creating new notebook in /numpy
+[I 10:08:21.808 NotebookApp] Kernel started: 7887eaff-78c6-4c3e-afb1-0cf066e5e1ca, name: python3
+[W 10:08:37.085 NotebookApp] delete /numpy
+[I 10:08:46.699 NotebookApp] Kernel shutdown: 85c9d83d-6094-47d3-bee3-15725eb57014
+[W 10:08:46.913 NotebookApp] delete /practice.ipynb
+[W 10:08:55.061 NotebookApp] 404 GET /api/contents/numpy?type=directory&_=1618013467230 (::1): No such file or directory: numpy
+[W 10:08:55.061 NotebookApp] No such file or directory: numpy
+[W 10:08:55.062 NotebookApp] 404 GET /api/contents/numpy?type=directory&_=1618013467230 (::1) 2.180000ms referer=http://localhost:8888/tree/numpy
+[W 10:10:22.330 NotebookApp] 404 GET /api/contents/numpy/Untitled.ipynb?content=0&_=1618103301680 (::1): No such file or directory: numpy/Untitled.ipynb
+[W 10:10:22.332 NotebookApp] No such file or directory: numpy/Untitled.ipynb
+[W 10:10:22.333 NotebookApp] 404 GET /api/contents/numpy/Untitled.ipynb?content=0&_=1618103301680 (::1) 3.670000ms referer=http://localhost:8888/notebooks/numpy/Untitled.ipynb?kernel_name=python3
+[I 10:10:22.339 NotebookApp] Uploading file to /numpy/Untitled.ipynb
+[E 10:10:22.345 NotebookApp] Error while saving file: numpy/Untitled.ipynb [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+    Traceback (most recent call last):
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/filemanager.py", line 477, in save
+        self._save_notebook(os_path, nb)
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 290, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/opt/anaconda3/envs/local/lib/python3.7/contextlib.py", line 112, in __enter__
+        return next(self.gen)
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 210, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/opt/anaconda3/envs/local/lib/python3.7/contextlib.py", line 112, in __enter__
+        return next(self.gen)
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 105, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+[W 10:10:22.350 NotebookApp] 500 PUT /api/contents/numpy/Untitled.ipynb (::1): Unexpected error while saving file: numpy/Untitled.ipynb [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+[W 10:10:22.350 NotebookApp] Unexpected error while saving file: numpy/Untitled.ipynb [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+[E 10:10:22.352 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "471",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"89\", \"Chromium\";v=\"89\", \";Not A Brand\";v=\"99\"",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Xsrftoken": "2|90929d5d|84cb6bf37784bae18bb4761e770ae469|1617435734",
+      "X-Requested-With": "XMLHttpRequest",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36",
+      "Content-Type": "application/json",
+      "Origin": "http://localhost:8888",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8888/notebooks/numpy/Untitled.ipynb?kernel_name=python3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "Pycharm-da6ac25b=1836f6de-d770-4ff7-8745-2b39f1f9f119; username-localhost-8889=\"2|1:0|10:1616889023|23:username-localhost-8889|44:YWI4NWIwNjEwNzJkNDc5MThlM2U2OWNiN2Y2NzZhMDQ=|b1b2df35dba82a9231b84dcb60d4434ceb55203b6a122212d06aad490960a2f7\"; csrftoken=kh5fLgrmuY0dkYNTWKvGjNhwra7Wuaa47NnGwdrSeecDx6dxFwPlwOJZnaUQI2Hr; _xsrf=2|90929d5d|84cb6bf37784bae18bb4761e770ae469|1617435734; username-localhost-8888=\"2|1:0|10:1618013462|23:username-localhost-8888|44:ZDM5NDM1NGYwOTQ4NGFlYzg3YTllNzY4YjgyZGE4MjA=|b41a8df4d7e73eaedc699a894efbd940067ddb24ce243e755a2524cc009b85da\""
+    }
+[E 10:10:22.352 NotebookApp] 500 PUT /api/contents/numpy/Untitled.ipynb (::1) 13.850000ms referer=http://localhost:8888/notebooks/numpy/Untitled.ipynb?kernel_name=python3
+[W 10:12:22.344 NotebookApp] 404 GET /api/contents/numpy/Untitled.ipynb?content=0&_=1618103301681 (::1): No such file or directory: numpy/Untitled.ipynb
+[W 10:12:22.345 NotebookApp] No such file or directory: numpy/Untitled.ipynb
+[W 10:12:22.346 NotebookApp] 404 GET /api/contents/numpy/Untitled.ipynb?content=0&_=1618103301681 (::1) 3.580000ms referer=http://localhost:8888/notebooks/numpy/Untitled.ipynb?kernel_name=python3
+[I 10:12:22.366 NotebookApp] Uploading file to /numpy/Untitled.ipynb
+[E 10:12:22.370 NotebookApp] Error while saving file: numpy/Untitled.ipynb [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+    Traceback (most recent call last):
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/filemanager.py", line 477, in save
+        self._save_notebook(os_path, nb)
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 290, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/opt/anaconda3/envs/local/lib/python3.7/contextlib.py", line 112, in __enter__
+        return next(self.gen)
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 210, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/opt/anaconda3/envs/local/lib/python3.7/contextlib.py", line 112, in __enter__
+        return next(self.gen)
+      File "/opt/anaconda3/envs/local/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 105, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+[W 10:12:22.371 NotebookApp] 500 PUT /api/contents/numpy/Untitled.ipynb (::1): Unexpected error while saving file: numpy/Untitled.ipynb [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+[W 10:12:22.371 NotebookApp] Unexpected error while saving file: numpy/Untitled.ipynb [Errno 2] No such file or directory: '/Users/akira/Desktop/local/develop/LDL/numpy/Untitled.ipynb'
+[E 10:12:22.372 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "471",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"89\", \"Chromium\";v=\"89\", \";Not A Brand\";v=\"99\"",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Xsrftoken": "2|90929d5d|84cb6bf37784bae18bb4761e770ae469|1617435734",
+      "X-Requested-With": "XMLHttpRequest",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36",
+      "Content-Type": "application/json",
+      "Origin": "http://localhost:8888",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8888/notebooks/numpy/Untitled.ipynb?kernel_name=python3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "Pycharm-da6ac25b=1836f6de-d770-4ff7-8745-2b39f1f9f119; username-localhost-8889=\"2|1:0|10:1616889023|23:username-localhost-8889|44:YWI4NWIwNjEwNzJkNDc5MThlM2U2OWNiN2Y2NzZhMDQ=|b1b2df35dba82a9231b84dcb60d4434ceb55203b6a122212d06aad490960a2f7\"; csrftoken=kh5fLgrmuY0dkYNTWKvGjNhwra7Wuaa47NnGwdrSeecDx6dxFwPlwOJZnaUQI2Hr; _xsrf=2|90929d5d|84cb6bf37784bae18bb4761e770ae469|1617435734; username-localhost-8888=\"2|1:0|10:1618013462|23:username-localhost-8888|44:ZDM5NDM1NGYwOTQ4NGFlYzg3YTllNzY4YjgyZGE4MjA=|b41a8df4d7e73eaedc699a894efbd940067ddb24ce243e755a2524cc009b85da\""
+    }
+[E 10:12:22.372 NotebookApp] 500 PUT /api/contents/numpy/Untitled.ipynb (::1) 8.550000ms referer=http://localhost:8888/notebooks/numpy/Untitled.ipynb?kernel_name=python3
+[I 10:14:11.676 NotebookApp] Starting buffering for 7887eaff-78c6-4c3e-afb1-0cf066e5e1ca:9e3807ddf5954aa7823c120021748189
+[I 10:15:45.625 NotebookApp] Saving file at /formula.ipynb
+[W 10:15:45.626 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:17:44.806 NotebookApp] Saving file at /formula.ipynb
+[W 10:17:44.807 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:21:44.790 NotebookApp] Saving file at /formula.ipynb
+[W 10:21:44.790 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:23:44.784 NotebookApp] Saving file at /formula.ipynb
+[W 10:23:44.785 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:25:44.784 NotebookApp] Saving file at /formula.ipynb
+[W 10:25:44.785 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:27:44.772 NotebookApp] Saving file at /formula.ipynb
+[W 10:27:44.773 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:29:45.620 NotebookApp] Saving file at /formula.ipynb
+[W 10:29:45.621 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:38:54.882 NotebookApp] Starting buffering for 04d84cc5-73d4-48bb-91bb-8d5dcceb3ee1:5e1e4510056d41fb8afd0b7abd5d4324
+[I 12:31:12.614 NotebookApp] Serving notebooks from local directory: /Users/akira/Desktop/local/develop/LDL
+[I 12:31:12.614 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 12:31:12.614 NotebookApp] http://localhost:8888/?token=8336967918444099bdb5e968562365a6baa0e169572fe40f
+[I 12:31:12.614 NotebookApp]  or http://127.0.0.1:8888/?token=8336967918444099bdb5e968562365a6baa0e169572fe40f
+[I 12:31:12.615 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:31:12.618 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/akira/Library/Jupyter/runtime/nbserver-3342-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8336967918444099bdb5e968562365a6baa0e169572fe40f
+     or http://127.0.0.1:8888/?token=8336967918444099bdb5e968562365a6baa0e169572fe40f
+[W 12:31:16.944 NotebookApp] Notebook formula.ipynb is not trusted
+[I 12:31:17.241 NotebookApp] Kernel started: 6f6026f8-8737-4f17-8e3f-30c112e78b66, name: python3
+[I 12:49:17.174 NotebookApp] Saving file at /formula.ipynb
+[W 12:49:17.175 NotebookApp] Notebook formula.ipynb is not trusted
+[I 13:09:17.727 NotebookApp] Saving file at /formula.ipynb
+[W 13:09:17.728 NotebookApp] Notebook formula.ipynb is not trusted
+[I 13:11:18.048 NotebookApp] Saving file at /formula.ipynb
+[W 13:11:18.049 NotebookApp] Notebook formula.ipynb is not trusted
+[I 13:12:38.061 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 13:12:38.281 NotebookApp] Kernel restarted: 6f6026f8-8737-4f17-8e3f-30c112e78b66
+[I 13:12:38.289 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 13:12:39.313 NotebookApp] Replaying 3 buffered messages
+[I 13:13:17.101 NotebookApp] Saving file at /formula.ipynb
+[I 13:15:02.035 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 13:15:02.469 NotebookApp] Kernel restarted: 6f6026f8-8737-4f17-8e3f-30c112e78b66
+[I 13:15:02.478 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 13:15:02.991 NotebookApp] Replaying 3 buffered messages
+[I 13:15:17.090 NotebookApp] Saving file at /formula.ipynb
+[I 13:19:17.079 NotebookApp] Saving file at /formula.ipynb
+[I 13:21:17.082 NotebookApp] Saving file at /formula.ipynb
+[I 13:23:17.081 NotebookApp] Saving file at /formula.ipynb
+[I 13:25:17.081 NotebookApp] Saving file at /formula.ipynb
+[I 13:27:17.695 NotebookApp] Saving file at /formula.ipynb
+[I 13:29:17.075 NotebookApp] Saving file at /formula.ipynb
+[I 13:31:17.067 NotebookApp] Saving file at /formula.ipynb
+[I 13:39:17.035 NotebookApp] Saving file at /formula.ipynb
+[I 13:41:17.033 NotebookApp] Saving file at /formula.ipynb
+[I 13:43:17.030 NotebookApp] Saving file at /formula.ipynb
+[I 13:53:17.009 NotebookApp] Saving file at /formula.ipynb
+[I 13:55:17.007 NotebookApp] Saving file at /formula.ipynb
+[I 13:57:17.005 NotebookApp] Saving file at /formula.ipynb
+[I 13:59:17.203 NotebookApp] Saving file at /formula.ipynb
+[I 14:00:51.459 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:00:51.887 NotebookApp] Kernel restarted: 6f6026f8-8737-4f17-8e3f-30c112e78b66
+[I 14:00:51.897 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:00:52.412 NotebookApp] Replaying 3 buffered messages
+[I 14:01:17.000 NotebookApp] Saving file at /formula.ipynb
+[I 14:03:26.903 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:03:28.268 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:28:45.359 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:28:47.524 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:36:26.532 NotebookApp] Saving file at /formula.ipynb
+[I 14:38:26.522 NotebookApp] Saving file at /formula.ipynb
+[I 14:40:26.526 NotebookApp] Saving file at /formula.ipynb
+[I 14:42:26.823 NotebookApp] Saving file at /formula.ipynb
+[I 14:44:26.674 NotebookApp] Saving file at /formula.ipynb
+[I 14:50:42.263 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 14:50:43.891 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:02:10.365 NotebookApp] Saving file at /formula.ipynb
+[I 15:04:08.648 NotebookApp] Saving file at /formula.ipynb
+[I 15:08:09.108 NotebookApp] Saving file at /formula.ipynb
+[I 15:10:08.640 NotebookApp] Saving file at /formula.ipynb
+[I 15:12:08.638 NotebookApp] Saving file at /formula.ipynb
+[I 15:14:05.894 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:14:07.629 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:24:30.709 NotebookApp] Saving file at /formula.ipynb
+[I 15:27:34.295 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:27:35.552 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:39:26.653 NotebookApp] Saving file at /formula.ipynb
+[I 15:41:26.923 NotebookApp] Saving file at /formula.ipynb
+[I 15:43:26.647 NotebookApp] Saving file at /formula.ipynb
+[I 15:45:26.646 NotebookApp] Saving file at /formula.ipynb
+[I 15:46:26.140 NotebookApp] Saving file at /formula.ipynb
+[I 15:46:29.599 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:46:30.029 NotebookApp] Kernel restarted: 6f6026f8-8737-4f17-8e3f-30c112e78b66
+[I 15:46:30.039 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[I 15:46:31.062 NotebookApp] Replaying 3 buffered messages
+[I 15:46:32.884 NotebookApp] Saving file at /formula.ipynb
+[I 15:46:34.290 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:80a78571313349e58ea177c3bf8dcda8
+[W 15:46:52.835 NotebookApp] Notebook Building_Deep_Learning_from_Scratch/neural_network.ipynb is not trusted
+[I 15:46:53.056 NotebookApp] Kernel started: c34b29e1-67a0-491f-a461-09409b41ee2f, name: python3
+[I 15:48:53.795 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 15:50:53.064 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 15:52:53.044 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 15:54:53.052 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 15:56:53.050 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 15:57:26.118 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 15:57:26.441 NotebookApp] Kernel restarted: c34b29e1-67a0-491f-a461-09409b41ee2f
+[I 15:57:26.450 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 15:57:26.986 NotebookApp] Replaying 3 buffered messages
+[I 15:58:53.041 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[W 15:59:45.269 NotebookApp] Notebook formula.ipynb is not trusted
+[I 16:00:53.043 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 16:02:45.931 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:02:46.258 NotebookApp] Kernel restarted: c34b29e1-67a0-491f-a461-09409b41ee2f
+[I 16:02:46.266 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:02:46.738 NotebookApp] Replaying 3 buffered messages
+[I 16:02:53.491 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 16:03:38.952 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:03:39.277 NotebookApp] Kernel restarted: c34b29e1-67a0-491f-a461-09409b41ee2f
+[I 16:03:39.289 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:03:39.733 NotebookApp] Replaying 3 buffered messages
+[I 16:04:53.031 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 16:11:09.853 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:11:10.181 NotebookApp] Kernel restarted: c34b29e1-67a0-491f-a461-09409b41ee2f
+[I 16:11:10.190 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:11:10.679 NotebookApp] Replaying 3 buffered messages
+[I 16:12:20.706 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:12:21.037 NotebookApp] Kernel restarted: c34b29e1-67a0-491f-a461-09409b41ee2f
+[I 16:12:21.047 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:12:21.423 NotebookApp] Replaying 3 buffered messages
+[I 16:12:53.001 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 16:14:53.798 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 16:15:46.513 NotebookApp] Saving file at /formula.ipynb
+[W 16:15:46.514 NotebookApp] Notebook formula.ipynb is not trusted
+[I 16:16:22.086 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 16:32:55.846 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 16:32:55.849 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:32:57.488 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 16:32:58.215 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:46:32.878 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:46:32.879 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 16:46:34.607 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 16:46:34.632 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 16:51:01.188 NotebookApp] Saving file at /formula.ipynb
+[W 16:51:01.190 NotebookApp] Notebook formula.ipynb is not trusted
+[I 16:53:01.353 NotebookApp] Saving file at /formula.ipynb
+[W 16:53:01.356 NotebookApp] Notebook formula.ipynb is not trusted
+[I 16:55:01.183 NotebookApp] Saving file at /formula.ipynb
+[W 16:55:01.185 NotebookApp] Notebook formula.ipynb is not trusted
+[I 16:57:01.347 NotebookApp] Saving file at /formula.ipynb
+[W 16:57:01.348 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:05:01.369 NotebookApp] Saving file at /formula.ipynb
+[W 17:05:01.371 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:07:01.345 NotebookApp] Saving file at /formula.ipynb
+[W 17:07:01.346 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:16:08.570 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 17:18:08.565 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 17:20:08.563 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 17:22:09.331 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 17:39:01.117 NotebookApp] Saving file at /formula.ipynb
+[W 17:39:01.118 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:41:01.285 NotebookApp] Saving file at /formula.ipynb
+[W 17:41:01.286 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:55:01.091 NotebookApp] Saving file at /formula.ipynb
+[W 17:55:01.093 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:57:01.094 NotebookApp] Saving file at /formula.ipynb
+[W 17:57:01.095 NotebookApp] Notebook formula.ipynb is not trusted
+[I 17:59:01.112 NotebookApp] Saving file at /formula.ipynb
+[W 17:59:01.114 NotebookApp] Notebook formula.ipynb is not trusted
+[I 18:02:05.682 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 18:02:05.683 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 18:02:06.958 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 18:02:07.519 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 18:39:44.466 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 18:39:44.468 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 18:39:46.881 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 18:39:47.341 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 18:45:11.058 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 18:45:11.060 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 18:45:13.145 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 18:45:13.165 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 18:47:14.219 NotebookApp] Saving file at /formula.ipynb
+[W 18:47:14.221 NotebookApp] Notebook formula.ipynb is not trusted
+[I 18:49:14.204 NotebookApp] Saving file at /formula.ipynb
+[W 18:49:14.205 NotebookApp] Notebook formula.ipynb is not trusted
+[I 18:55:14.186 NotebookApp] Saving file at /formula.ipynb
+[W 18:55:14.188 NotebookApp] Notebook formula.ipynb is not trusted
+[I 18:57:54.750 NotebookApp] Saving file at /formula.ipynb
+[W 18:57:54.751 NotebookApp] Notebook formula.ipynb is not trusted
+[I 18:58:21.595 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 19:00:22.322 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 19:02:21.598 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 19:23:14.291 NotebookApp] Saving file at /formula.ipynb
+[W 19:23:14.293 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:25:14.143 NotebookApp] Saving file at /formula.ipynb
+[W 19:25:14.145 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:29:14.136 NotebookApp] Saving file at /formula.ipynb
+[W 19:29:14.137 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:33:14.119 NotebookApp] Saving file at /formula.ipynb
+[W 19:33:14.121 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:35:14.293 NotebookApp] Saving file at /formula.ipynb
+[W 19:35:14.294 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:37:14.120 NotebookApp] Saving file at /formula.ipynb
+[W 19:37:14.121 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:45:14.109 NotebookApp] Saving file at /formula.ipynb
+[W 19:45:14.110 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:47:14.266 NotebookApp] Saving file at /formula.ipynb
+[W 19:47:14.268 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:49:14.090 NotebookApp] Saving file at /formula.ipynb
+[W 19:49:14.091 NotebookApp] Notebook formula.ipynb is not trusted
+[I 19:50:23.890 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:50:23.891 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 19:50:25.406 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 19:50:25.426 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:51:58.687 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:51:58.688 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 19:52:00.078 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:52:00.405 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 20:33:57.367 NotebookApp] Saving file at /formula.ipynb
+[W 20:33:57.369 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:35:57.538 NotebookApp] Saving file at /formula.ipynb
+[W 20:35:57.541 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:41:57.535 NotebookApp] Saving file at /formula.ipynb
+[W 20:41:57.538 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:47:04.757 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 20:47:44.774 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:47:45.094 NotebookApp] Kernel restarted: c34b29e1-67a0-491f-a461-09409b41ee2f
+[I 20:47:45.100 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:47:45.606 NotebookApp] Replaying 3 buffered messages
+[I 20:49:04.737 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 20:51:05.504 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 20:53:03.466 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:53:03.467 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 20:53:05.496 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:53:06.013 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 22:02:23.792 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 22:02:23.794 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:02:25.975 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 22:02:25.999 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:09:42.532 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 22:09:42.533 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:09:44.048 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:09:44.695 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 09:01:24.265 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 09:03:25.167 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 09:05:25.167 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 09:11:24.252 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 09:28:16.839 NotebookApp] Saving file at /formula.ipynb
+[W 09:28:16.841 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:30:16.825 NotebookApp] Saving file at /formula.ipynb
+[W 09:30:16.826 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:32:16.825 NotebookApp] Saving file at /formula.ipynb
+[W 09:32:16.826 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:34:16.994 NotebookApp] Saving file at /formula.ipynb
+[W 09:34:16.996 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:36:16.817 NotebookApp] Saving file at /formula.ipynb
+[W 09:36:16.820 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:38:16.816 NotebookApp] Saving file at /formula.ipynb
+[W 09:38:16.817 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:40:16.820 NotebookApp] Saving file at /formula.ipynb
+[W 09:40:16.822 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:42:16.985 NotebookApp] Saving file at /formula.ipynb
+[W 09:42:16.986 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:44:00.861 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 09:44:00.862 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 09:44:02.976 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 09:44:03.516 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 09:52:28.154 NotebookApp] Saving file at /formula.ipynb
+[W 09:52:28.157 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:56:28.152 NotebookApp] Saving file at /formula.ipynb
+[W 09:56:28.153 NotebookApp] Notebook formula.ipynb is not trusted
+[I 10:07:47.636 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 10:07:47.640 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 10:07:49.148 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 10:07:49.338 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 10:55:30.036 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 10:55:30.038 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 10:55:31.748 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 10:55:31.771 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:08:50.732 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:08:50.735 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:08:53.305 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:08:53.329 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:21:20.087 NotebookApp] Saving file at /formula.ipynb
+[W 11:21:20.089 NotebookApp] Notebook formula.ipynb is not trusted
+[I 11:29:03.438 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:29:03.440 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:29:05.622 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:29:05.644 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:35:13.311 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:35:13.312 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:35:15.242 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:35:15.265 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:51:11.883 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:51:11.885 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:51:14.532 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 11:51:14.557 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 11:58:16.325 NotebookApp] Saving file at /formula.ipynb
+[W 11:58:16.327 NotebookApp] Notebook formula.ipynb is not trusted
+[I 12:00:16.489 NotebookApp] Saving file at /formula.ipynb
+[W 12:00:16.492 NotebookApp] Notebook formula.ipynb is not trusted
+[I 12:02:54.174 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 12:02:54.175 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 12:02:56.242 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 12:02:56.346 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:43:58.417 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:43:58.419 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 19:44:00.735 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 19:44:00.759 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 20:04:34.857 NotebookApp] Saving file at /formula.ipynb
+[W 20:04:34.860 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:06:34.855 NotebookApp] Saving file at /formula.ipynb
+[W 20:06:34.856 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:08:34.863 NotebookApp] Saving file at /formula.ipynb
+[W 20:08:34.865 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:10:34.851 NotebookApp] Saving file at /formula.ipynb
+[W 20:10:34.853 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:12:34.874 NotebookApp] Saving file at /formula.ipynb
+[W 20:12:34.876 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:14:34.860 NotebookApp] Saving file at /formula.ipynb
+[W 20:14:34.862 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:16:34.856 NotebookApp] Saving file at /formula.ipynb
+[W 20:16:34.858 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:20:34.849 NotebookApp] Saving file at /formula.ipynb
+[W 20:20:34.851 NotebookApp] Notebook formula.ipynb is not trusted
+[I 20:33:17.092 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 20:33:17.094 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:33:19.042 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 20:33:19.410 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:43:19.168 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:43:19.169 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 20:43:21.373 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 20:43:21.395 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 21:52:41.605 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 21:52:41.607 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 21:52:43.127 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 21:52:43.808 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:10:39.065 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:10:39.067 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 22:10:42.055 NotebookApp] Restoring connection for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[I 22:10:42.073 NotebookApp] Restoring connection for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 09:07:37.615 NotebookApp] Saving file at /formula.ipynb
+[W 09:07:37.619 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:09:37.591 NotebookApp] Saving file at /formula.ipynb
+[W 09:09:37.592 NotebookApp] Notebook formula.ipynb is not trusted
+[I 09:11:11.902 NotebookApp] Saving file at /Building_Deep_Learning_from_Scratch/neural_network.ipynb
+[I 09:11:13.325 NotebookApp] Starting buffering for c34b29e1-67a0-491f-a461-09409b41ee2f:262af5dde6f149ac8c029da2239a6645
+[W 09:11:23.614 NotebookApp] delete /Intuitive_Deep_Learning/keras_MINST_V1_Sat_10_Apr_2021_04_37_14
+[W 09:11:26.223 NotebookApp] Notebook Intuitive_Deep_Learning/keras_mnist.ipynb is not trusted
+[I 09:11:26.337 NotebookApp] Kernel started: ede7f393-2cfc-415b-bdfe-ac0dc917dc42, name: python3
+[I 09:13:26.478 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:14:10.956 NotebookApp] Starting buffering for 6f6026f8-8737-4f17-8e3f-30c112e78b66:ab771fbbd0cc42ef8d15482311189311
+[I 09:14:47.765 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 09:14:47.988 NotebookApp] Kernel restarted: ede7f393-2cfc-415b-bdfe-ac0dc917dc42
+[I 09:14:47.996 NotebookApp] Restoring connection for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 09:14:48.507 NotebookApp] Replaying 3 buffered messages
+2021-04-13 09:14:52.480260: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 09:14:52.481075: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 09:15:26.309 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:17:03.250 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 09:17:04.533 NotebookApp] Restoring connection for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 09:17:27.024 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:19:27.027 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:21:27.035 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:23:27.020 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:25:27.015 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:27:27.035 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:29:27.001 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:31:26.991 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:33:26.995 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:35:26.991 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:37:26.994 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:39:27.001 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:41:26.992 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:43:26.980 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:45:26.977 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:47:26.985 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:49:27.014 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:51:27.003 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:53:27.011 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:55:27.006 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:57:27.001 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 09:59:27.120 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:01:27.450 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:03:27.009 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:05:27.002 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:07:26.997 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:09:27.017 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:20:21.859 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 10:20:23.026 NotebookApp] Kernel restarted: ede7f393-2cfc-415b-bdfe-ac0dc917dc42
+[I 10:20:23.035 NotebookApp] Restoring connection for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 10:20:23.579 NotebookApp] Replaying 3 buffered messages
+2021-04-13 10:20:26.453418: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 10:20:26.453936: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:21:26.986 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:23:26.987 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:25:26.984 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:26:48.224 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 10:26:50.114 NotebookApp] Restoring connection for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 10:26:50.115 NotebookApp] Replaying 34 buffered messages
+[I 10:27:26.978 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:29:01.506 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 10:29:03.324 NotebookApp] Restoring connection for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 10:29:03.324 NotebookApp] Replaying 33 buffered messages
+[I 10:32:07.247 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:34:07.382 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:36:07.371 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:38:07.369 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:40:53.369 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:42:52.511 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:44:07.242 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:46:07.359 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:48:07.378 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:50:07.373 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:52:09.416 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:54:53.363 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:56:07.363 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:58:47.718 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 10:59:01.126 NotebookApp] Creating new notebook in 
+[I 10:59:01.810 NotebookApp] Kernel started: 98b0102e-c1d0-43ce-a775-fde7b8bffc79, name: python3
+[I 11:00:42.229 NotebookApp] Kernel interrupted: 98b0102e-c1d0-43ce-a775-fde7b8bffc79
+[I 11:00:45.102 NotebookApp] Saving file at /model.ipynb
+[I 11:00:47.628 NotebookApp] Starting buffering for 98b0102e-c1d0-43ce-a775-fde7b8bffc79:c881ac01e5504468a25970a09d7692fe
+[W 11:00:47.793 NotebookApp] Notebook model.ipynb is not trusted
+[I 11:00:54.986 NotebookApp] Starting buffering for 98b0102e-c1d0-43ce-a775-fde7b8bffc79:7afbbcb4716d48f7b8976b5dbcb4977d
+[I 11:00:55.203 NotebookApp] Kernel restarted: 98b0102e-c1d0-43ce-a775-fde7b8bffc79
+[I 11:00:55.210 NotebookApp] Restoring connection for 98b0102e-c1d0-43ce-a775-fde7b8bffc79:7afbbcb4716d48f7b8976b5dbcb4977d
+[I 11:00:56.225 NotebookApp] Replaying 3 buffered messages
+[I 11:02:47.865 NotebookApp] Saving file at /model.ipynb
+[I 11:04:47.859 NotebookApp] Saving file at /model.ipynb
+[I 11:05:27.101 NotebookApp] Creating new notebook in 
+[I 11:05:27.768 NotebookApp] Kernel started: 021d5faf-91b7-4b9d-bf01-bd49a5e023b4, name: python3
+[I 11:05:36.398 NotebookApp] Saving file at /model.ipynb
+[I 11:05:37.583 NotebookApp] Starting buffering for 98b0102e-c1d0-43ce-a775-fde7b8bffc79:7afbbcb4716d48f7b8976b5dbcb4977d
+[I 11:05:40.517 NotebookApp] Kernel shutdown: 98b0102e-c1d0-43ce-a775-fde7b8bffc79
+[I 11:07:27.746 NotebookApp] Saving file at /callback.ipynb
+[I 11:09:27.735 NotebookApp] Saving file at /callback.ipynb
+[I 11:11:27.737 NotebookApp] Saving file at /callback.ipynb
+[I 11:13:27.737 NotebookApp] Saving file at /callback.ipynb
+[I 11:15:27.736 NotebookApp] Saving file at /callback.ipynb
+[I 11:19:27.724 NotebookApp] Saving file at /callback.ipynb
+[I 11:21:27.729 NotebookApp] Saving file at /callback.ipynb
+[I 11:23:27.755 NotebookApp] Saving file at /callback.ipynb
+[I 11:25:27.754 NotebookApp] Saving file at /callback.ipynb
+[I 11:27:27.760 NotebookApp] Saving file at /callback.ipynb
+[I 11:29:27.753 NotebookApp] Saving file at /callback.ipynb
+[I 11:34:07.642 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 11:35:55.175 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 11:35:56.031 NotebookApp] Kernel restarted: ede7f393-2cfc-415b-bdfe-ac0dc917dc42
+[I 11:35:56.039 NotebookApp] Restoring connection for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 11:35:57.058 NotebookApp] Replaying 3 buffered messages
+[I 11:36:07.498 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 11:38:07.267 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 12:17:48.059 NotebookApp] Saving file at /Intuitive_Deep_Learning/keras_mnist.ipynb
+[I 12:17:49.748 NotebookApp] Starting buffering for ede7f393-2cfc-415b-bdfe-ac0dc917dc42:d521872949574fda8eaaba9080be3d12
+[I 12:17:54.111 NotebookApp] Saving file at /callback.ipynb
+[I 12:17:55.382 NotebookApp] Starting buffering for 021d5faf-91b7-4b9d-bf01-bd49a5e023b4:3e1c486124df4dee9035a78a07dc3743
+[I 12:17:58.885 NotebookApp] Kernel shutdown: 021d5faf-91b7-4b9d-bf01-bd49a5e023b4
+[I 12:17:59.205 NotebookApp] Kernel shutdown: 6f6026f8-8737-4f17-8e3f-30c112e78b66
+[I 12:18:06.127 NotebookApp] Kernel shutdown: ede7f393-2cfc-415b-bdfe-ac0dc917dc42
+[I 12:19:01.757 NotebookApp] Creating new notebook in /Intuitive_Deep_Learning
+[I 12:19:02.435 NotebookApp] Kernel started: d2d740f7-d8f8-41d5-a868-90817cbebdea, name: python3
+2021-04-13 12:19:41.711095: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 12:19:41.712304: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 12:21:02.409 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:23:02.407 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:25:02.397 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:27:02.397 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:29:02.391 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:31:02.387 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:33:02.385 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:35:02.388 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:37:02.385 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:39:02.379 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:41:02.469 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:42:33.788 NotebookApp] Saving file at /Intuitive_Deep_Learning/lenet.ipynb
+[I 12:42:35.190 NotebookApp] Starting buffering for d2d740f7-d8f8-41d5-a868-90817cbebdea:affa6efced9744fa80bb21d3d2a958b8
+[I 12:42:47.606 NotebookApp] Creating new notebook in /Intuitive_Deep_Learning
+[I 12:42:48.225 NotebookApp] Kernel started: 52aaab6d-02b6-49f3-a317-95f914c958d4, name: python3
+[I 12:44:48.231 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 12:46:48.230 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+2021-04-13 12:48:11.464491: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 12:48:11.465899: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 12:48:48.227 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 12:50:48.211 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 12:52:48.211 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 12:54:48.209 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 12:56:48.313 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 12:58:48.205 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:00:48.300 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:02:48.351 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:04:53.290 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:06:55.171 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:08:53.664 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:10:56.293 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 13:12:54.275 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 14:13:32.024 NotebookApp] Starting buffering for 52aaab6d-02b6-49f3-a317-95f914c958d4:fc0725efb24b431b9f6c6b823817a9f8
+[I 14:13:33.708 NotebookApp] Restoring connection for 52aaab6d-02b6-49f3-a317-95f914c958d4:fc0725efb24b431b9f6c6b823817a9f8
+[I 16:50:21.016 NotebookApp] Starting buffering for 52aaab6d-02b6-49f3-a317-95f914c958d4:fc0725efb24b431b9f6c6b823817a9f8
+[I 16:50:22.501 NotebookApp] Restoring connection for 52aaab6d-02b6-49f3-a317-95f914c958d4:fc0725efb24b431b9f6c6b823817a9f8
+[I 17:25:34.363 NotebookApp] Saving file at /Intuitive_Deep_Learning/cifar-10.ipynb
+[I 17:25:35.822 NotebookApp] Starting buffering for 52aaab6d-02b6-49f3-a317-95f914c958d4:fc0725efb24b431b9f6c6b823817a9f8
+[I 17:25:42.800 NotebookApp] Creating new notebook in /Intuitive_Deep_Learning
+[I 17:25:43.694 NotebookApp] Kernel started: 89bda969-fe41-4a14-9961-ce8e1f65a5c8, name: python3
+2021-04-13 17:25:56.370804: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:25:56.371659: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:27:44.333 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+[I 17:31:13.636 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:31:14.294 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:31:14.306 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:31:16.326 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:31:42.154721: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:31:42.155682: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:31:43.860 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint: This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 17:31:50.300 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89bda969-fe41-4a14-9961-ce8e1f65a5c8 restarted
+[I 17:33:17.416 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:33:17.801 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:33:17.815 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:33:19.184 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:33:35.638912: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:33:35.639517: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 17:33:41.806 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89bda969-fe41-4a14-9961-ce8e1f65a5c8 restarted
+[I 17:33:43.701 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+[I 17:34:42.901 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:34:43.131 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:34:43.144 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:34:43.665 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:34:45.359423: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:34:45.359785: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:35:44.378 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+[I 17:36:29.785 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:36:30.540 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:36:30.549 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:36:31.171 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:36:32.905423: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:36:32.905841: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:37:38.168 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:37:39.033 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:37:39.047 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:37:39.733 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:37:41.373226: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:37:41.373643: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:37:43.645 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 17:37:48.036 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89bda969-fe41-4a14-9961-ce8e1f65a5c8 restarted
+[I 17:38:08.447 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:38:08.667 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:38:08.675 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:38:09.026 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:38:10.787954: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:38:10.788515: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 17:38:17.672 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89bda969-fe41-4a14-9961-ce8e1f65a5c8 restarted
+[I 17:38:28.595 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:38:28.818 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:38:28.828 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:38:29.353 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:38:31.057077: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:38:31.057498: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[W 17:39:08.673 NotebookApp] Timeout waiting for kernel_info_reply: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:39:31.047 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:39:31.686 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:39:31.695 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:39:32.308 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:39:34.315043: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:39:34.315566: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:39:44.539 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[I 17:39:54.196 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:39:54.733 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:39:54.740 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:39:55.201 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:39:56.954731: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:39:56.955179: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 17:40:03.737 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89bda969-fe41-4a14-9961-ce8e1f65a5c8 restarted
+[I 17:40:13.406 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:40:13.630 NotebookApp] Kernel restarted: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:40:13.639 NotebookApp] Restoring connection for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:40:14.029 NotebookApp] Replaying 3 buffered messages
+2021-04-13 17:40:15.410780: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-13 17:40:15.411282: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 17:41:43.639 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+[I 17:42:03.421 NotebookApp] Saving file at /Intuitive_Deep_Learning/vgg_16.ipynb
+[I 17:42:05.375 NotebookApp] Starting buffering for 89bda969-fe41-4a14-9961-ce8e1f65a5c8:83308d5acdba469e8adfecd881b24458
+[I 17:42:11.082 NotebookApp] Kernel shutdown: 52aaab6d-02b6-49f3-a317-95f914c958d4
+[I 17:42:12.960 NotebookApp] Kernel shutdown: 89bda969-fe41-4a14-9961-ce8e1f65a5c8
+[I 17:42:13.618 NotebookApp] Kernel shutdown: d2d740f7-d8f8-41d5-a868-90817cbebdea
+[I 17:42:14.465 NotebookApp] Kernel shutdown: c34b29e1-67a0-491f-a461-09409b41ee2f
+[W 17:42:14.896 NotebookApp] 404 DELETE /api/sessions/532aeb69-5138-4050-9ec4-2234ae38751e (::1): Session not found: session_id='532aeb69-5138-4050-9ec4-2234ae38751e'
+[W 17:42:14.896 NotebookApp] Session not found: session_id='532aeb69-5138-4050-9ec4-2234ae38751e'
+[W 17:42:14.896 NotebookApp] 404 DELETE /api/sessions/532aeb69-5138-4050-9ec4-2234ae38751e (::1) 1.460000ms referer=http://localhost:8888/tree/Intuitive_Deep_Learning
+[I 19:53:04.289 NotebookApp] Creating new notebook in /Intuitive_Deep_Learning
+[I 19:53:06.096 NotebookApp] Kernel started: 11bccc63-a215-46c8-af4d-7f5dc94795ba, name: python3
+[W 19:53:37.025 NotebookApp] Notebook Intuitive_Deep_Learning/vgg_16.ipynb is not trusted
+[I 19:53:37.114 NotebookApp] Kernel started: 22391418-c2ee-4dc7-b75d-cd2589e42701, name: python3
+[I 19:54:23.399 NotebookApp] Starting buffering for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 19:54:23.833 NotebookApp] Kernel restarted: 11bccc63-a215-46c8-af4d-7f5dc94795ba
+[I 19:54:23.846 NotebookApp] Restoring connection for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 19:54:24.431 NotebookApp] Replaying 3 buffered messages
+[I 19:55:06.835 NotebookApp] Saving file at /Intuitive_Deep_Learning/gan.ipynb
+[I 19:56:39.879 NotebookApp] Starting buffering for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 19:56:40.415 NotebookApp] Kernel restarted: 11bccc63-a215-46c8-af4d-7f5dc94795ba
+[I 19:56:40.432 NotebookApp] Restoring connection for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 19:56:41.449 NotebookApp] Replaying 3 buffered messages
+[I 19:57:05.961 NotebookApp] Saving file at /Intuitive_Deep_Learning/gan.ipynb
+[I 19:59:06.812 NotebookApp] Saving file at /Intuitive_Deep_Learning/gan.ipynb
+[I 19:59:22.673 NotebookApp] Starting buffering for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 19:59:23.211 NotebookApp] Kernel restarted: 11bccc63-a215-46c8-af4d-7f5dc94795ba
+[I 19:59:23.218 NotebookApp] Restoring connection for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 19:59:24.156 NotebookApp] Replaying 3 buffered messages
+[I 20:01:05.966 NotebookApp] Saving file at /Intuitive_Deep_Learning/gan.ipynb
+[I 20:01:21.490 NotebookApp] Starting buffering for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 20:01:22.135 NotebookApp] Kernel restarted: 11bccc63-a215-46c8-af4d-7f5dc94795ba
+[I 20:01:22.145 NotebookApp] Restoring connection for 11bccc63-a215-46c8-af4d-7f5dc94795ba:39c3feb0850b4bdf99cb6ff91fc8273b
+[I 20:01:22.705 NotebookApp] Replaying 3 buffered messages
+[I 20:03:06.824 NotebookApp] Saving file at /Intuitive_Deep_Learning/gan.ipynb
+[I 20:03:55.112 NotebookApp] Starting buffering for 22391418-c2ee-4dc7-b75d-cd2589e42701:a5cd151283384429864dd9e49d6366c2
+[I 20:04:00.602 NotebookApp] Kernel shutdown: 11bccc63-a215-46c8-af4d-7f5dc94795ba
+[W 20:04:01.235 NotebookApp] delete /Intuitive_Deep_Learning/gan.ipynb
+[W 20:04:01.282 NotebookApp] 404 DELETE /api/sessions/8169e9bc-9e62-412a-ac37-76b05d1fa140 (::1): Session not found: session_id='8169e9bc-9e62-412a-ac37-76b05d1fa140'
+[W 20:04:01.282 NotebookApp] Session not found: session_id='8169e9bc-9e62-412a-ac37-76b05d1fa140'
+[W 20:04:01.283 NotebookApp] 404 DELETE /api/sessions/8169e9bc-9e62-412a-ac37-76b05d1fa140 (::1) 1.810000ms referer=http://localhost:8888/notebooks/Intuitive_Deep_Learning/gan.ipynb
+[I 20:25:26.591 NotebookApp] Creating new directory in 
+[I 20:25:46.912 NotebookApp] Creating new notebook in /create_application
+[I 20:25:47.824 NotebookApp] Kernel started: 21ee85b9-ac07-4154-b8c0-ac2790996cad, name: python3
+[I 20:27:47.794 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:29:47.797 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:31:47.794 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:33:47.794 NotebookApp] Saving file at /create_application/janken.ipynb
+[W 20:35:00.407 NotebookApp] 400 GET /api/contents/create_application/janken-data.pkl?type=file&format=text&_=1618313700342 (::1): /Users/akira/Desktop/local/develop/LDL/create_application/janken-data.pkl is not UTF-8 encoded
+[W 20:35:00.407 NotebookApp] /Users/akira/Desktop/local/develop/LDL/create_application/janken-data.pkl is not UTF-8 encoded
+[W 20:35:00.408 NotebookApp] 400 GET /api/contents/create_application/janken-data.pkl?type=file&format=text&_=1618313700342 (::1) 3.010000ms referer=http://localhost:8888/edit/create_application/janken-data.pkl
+[I 20:35:47.801 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:37:47.792 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:39:47.791 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:41:47.789 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 20:42:16.574 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 20:42:18.355 NotebookApp] Restoring connection for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 21:29:09.958 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 21:29:11.550 NotebookApp] Restoring connection for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[W 08:29:26.566 NotebookApp] delete /create_application/janken-data.pkl
+[I 08:31:54.869 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:33:54.854 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:34:52.489 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:34:52.920 NotebookApp] Kernel restarted: 21ee85b9-ac07-4154-b8c0-ac2790996cad
+[I 08:34:52.929 NotebookApp] Restoring connection for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:34:53.439 NotebookApp] Replaying 3 buffered messages
+[I 08:35:54.858 NotebookApp] Saving file at /create_application/janken.ipynb
+2021-04-14 08:36:00.090833: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 08:36:00.091648: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 08:36:16.925 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 21ee85b9-ac07-4154-b8c0-ac2790996cad restarted
+[W 08:36:29.160 NotebookApp] Notebook Intuitive_Deep_Learning/vgg_16.ipynb is not trusted
+[I 08:36:33.099 NotebookApp] Starting buffering for 22391418-c2ee-4dc7-b75d-cd2589e42701:fda4b3a6610f44c8a37d6c852befb2f0
+[I 08:36:39.578 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:36:39.794 NotebookApp] Kernel restarted: 21ee85b9-ac07-4154-b8c0-ac2790996cad
+[I 08:36:39.802 NotebookApp] Restoring connection for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:36:40.253 NotebookApp] Replaying 3 buffered messages
+2021-04-14 08:36:41.640047: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 08:36:41.640424: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:37:54.872 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:39:55.503 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:41:54.863 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:42:06.867 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:42:07.407 NotebookApp] Kernel restarted: 21ee85b9-ac07-4154-b8c0-ac2790996cad
+[I 08:42:07.416 NotebookApp] Restoring connection for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:42:07.929 NotebookApp] Replaying 3 buffered messages
+2021-04-14 08:42:09.315462: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 08:42:09.315868: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:43:54.907 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:45:54.922 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:47:54.915 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:49:54.905 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:50:39.664 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:50:40.304 NotebookApp] Kernel restarted: 21ee85b9-ac07-4154-b8c0-ac2790996cad
+[I 08:50:40.314 NotebookApp] Restoring connection for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:50:40.825 NotebookApp] Replaying 3 buffered messages
+2021-04-14 08:50:42.252097: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 08:50:42.252462: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:51:55.585 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:59:00.974 NotebookApp] Saving file at /create_application/janken.ipynb
+[I 08:59:02.634 NotebookApp] Starting buffering for 21ee85b9-ac07-4154-b8c0-ac2790996cad:b4b96913727a48fd90bfdc96b6ec05e1
+[I 08:59:06.517 NotebookApp] Kernel shutdown: 21ee85b9-ac07-4154-b8c0-ac2790996cad
+[I 08:59:09.161 NotebookApp] Creating new notebook in /create_application
+[I 08:59:09.793 NotebookApp] Kernel started: a2e87faa-b67a-4adf-b78a-622fb2de0e51, name: python3
+[I 09:01:09.824 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:03:09.802 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:05:09.802 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:07:09.805 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:13:09.809 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:15:09.803 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:17:09.799 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:19:09.797 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:21:09.802 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:23:09.812 NotebookApp] Saving file at /create_application/ayame.ipynb
+2021-04-14 09:23:10.623877: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 09:23:10.624667: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 09:24:54.435 NotebookApp] Starting buffering for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:24:55.398 NotebookApp] Kernel restarted: a2e87faa-b67a-4adf-b78a-622fb2de0e51
+[I 09:24:55.408 NotebookApp] Restoring connection for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:24:55.920 NotebookApp] Replaying 3 buffered messages
+2021-04-14 09:24:57.625442: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 09:24:57.625884: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 09:25:09.806 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:27:08.415 NotebookApp] Starting buffering for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:27:09.597 NotebookApp] Restoring connection for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:33:09.264 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:35:09.264 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:37:00.241 NotebookApp] Starting buffering for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:37:01.621 NotebookApp] Kernel restarted: a2e87faa-b67a-4adf-b78a-622fb2de0e51
+[I 09:37:01.629 NotebookApp] Restoring connection for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:37:01.958 NotebookApp] Replaying 3 buffered messages
+2021-04-14 09:37:03.816046: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 09:37:03.816558: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 09:37:09.263 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:37:42.142 NotebookApp] Saving file at /create_application/ayame.ipynb
+[I 09:37:43.433 NotebookApp] Starting buffering for a2e87faa-b67a-4adf-b78a-622fb2de0e51:8ba5951d51124f479d62bdc787b97fa8
+[I 09:37:46.096 NotebookApp] Kernel shutdown: a2e87faa-b67a-4adf-b78a-622fb2de0e51
+[I 09:37:48.384 NotebookApp] Creating new notebook in /create_application
+[I 09:37:49.060 NotebookApp] Kernel started: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2, name: python3
+[I 09:39:49.072 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:41:49.061 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:43:49.057 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:45:49.065 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:47:49.060 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:49:49.065 NotebookApp] Saving file at /create_application/mnist.ipynb
+[W 09:50:33.857 NotebookApp] Notebook create_application/ayame.ipynb is not trusted
+[I 09:50:34.030 NotebookApp] Kernel started: 9bc12c30-0f89-4bc2-b574-72c1a11e3a30, name: python3
+[I 09:50:45.868 NotebookApp] Starting buffering for 9bc12c30-0f89-4bc2-b574-72c1a11e3a30:8f24a0bcb7614cec9cd60893311c6d9e
+[I 09:50:49.319 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 09:50:50.169 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 09:50:50.177 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 09:50:50.639 NotebookApp] Replaying 3 buffered messages
+2021-04-14 09:51:41.099445: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 09:51:41.100221: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 09:51:44.171 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2 restarted
+[I 09:51:49.644 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:51:54.333 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 09:51:54.552 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 09:51:54.559 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 09:51:55.075 NotebookApp] Replaying 3 buffered messages
+2021-04-14 09:51:57.932768: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 09:51:57.933220: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 09:53:49.060 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:55:49.062 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:57:49.049 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 09:59:49.077 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:01:07.536 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:01:08.065 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:01:08.074 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:01:09.093 NotebookApp] Replaying 3 buffered messages
+[I 10:01:12.328 NotebookApp] Kernel interrupted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:01:14.043 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:01:14.467 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:01:14.475 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:01:14.781 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:01:17.662281: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:01:17.662619: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:01:49.062 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:03:49.057 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:05:49.058 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:07:49.059 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:08:20.740 NotebookApp] Kernel interrupted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:09:29.345 NotebookApp] Kernel interrupted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:09:49.066 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:09:55.896 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:09:56.435 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:09:56.444 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:09:56.953 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:09:59.842524: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:09:59.842915: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:10:48.273 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:10:48.915 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:10:48.924 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:10:49.284 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:10:52.223708: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:10:52.224067: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:11:06.396 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:11:06.824 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:11:06.831 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:11:07.158 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:11:10.055391: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:11:10.055737: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:11:49.064 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:11:54.288 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:11:54.717 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:11:54.725 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:11:55.110 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:11:58.012971: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:11:58.013360: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:13:49.076 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:14:12.930 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:14:13.461 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:14:13.471 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:14:13.870 NotebookApp] Replaying 3 buffered messages
+[I 10:14:29.997 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:14:30.430 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:14:30.439 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:14:30.951 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:14:33.866883: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:14:33.867264: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:15:49.075 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:16:56.192 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:16:56.725 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:16:56.735 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:16:57.095 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:16:59.956663: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:16:59.957057: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:17:20.143 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:17:20.681 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 10:17:20.690 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:17:21.076 NotebookApp] Replaying 3 buffered messages
+2021-04-14 10:17:23.895114: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 10:17:23.895470: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:17:49.057 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:19:49.055 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:21:49.051 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:23:49.054 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:25:49.060 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:27:49.056 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:29:49.060 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:30:40.450 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:30:41.591 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 10:30:41.591 NotebookApp] Replaying 3 buffered messages
+[I 10:39:42.177 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:41:42.173 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:43:42.171 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:45:42.868 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:45:49.950 NotebookApp] Creating new notebook in /create_application
+[I 10:45:50.650 NotebookApp] Kernel started: dd7308b2-acb1-4999-93cb-05d99a586dba, name: python3
+[I 10:47:42.828 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:47:50.637 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 10:49:42.824 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:49:50.613 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 10:51:50.869 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 10:52:06.761 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:53:42.816 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:53:50.611 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 10:55:42.819 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:55:50.602 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 10:57:50.608 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 10:58:11.811 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 10:59:51.209 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:00:11.808 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:01:50.814 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:02:12.045 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:02:34.129 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:02:34.130 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:02:36.089 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:02:36.101 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:02:36.101 NotebookApp] Replaying 4 buffered messages
+[I 11:04:02.540 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:04:03.165 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:05:55.152 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:06:02.944 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:07:12.706 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:07:13.456 NotebookApp] Kernel restarted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 11:07:13.463 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:07:14.004 NotebookApp] Replaying 3 buffered messages
+[I 11:07:39.993 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:07:40.418 NotebookApp] Kernel restarted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 11:07:40.436 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:07:40.867 NotebookApp] Replaying 3 buffered messages
+2021-04-14 11:07:45.009470: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 11:07:45.010875: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.
+[I 11:07:46.423 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel dd7308b2-acb1-4999-93cb-05d99a586dba restarted
+[I 11:07:55.148 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:07:59.170 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:07:59.392 NotebookApp] Kernel restarted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 11:07:59.401 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:07:59.814 NotebookApp] Replaying 3 buffered messages
+[I 11:08:02.937 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+2021-04-14 11:08:03.938358: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 11:08:03.939151: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 11:09:55.153 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:10:02.945 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:11:55.149 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:12:02.943 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:12:37.962 NotebookApp] Kernel interrupted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 11:14:02.945 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:14:24.148 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:16:01.814 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:16:02.457 NotebookApp] Kernel restarted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 11:16:02.465 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:16:02.830 NotebookApp] Replaying 3 buffered messages
+[I 11:16:02.912 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:16:20.413 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:16:20.953 NotebookApp] Kernel restarted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 11:16:20.963 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:16:21.477 NotebookApp] Replaying 3 buffered messages
+2021-04-14 11:16:24.879078: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 11:16:24.879531: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 11:17:28.580 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:17:29.119 NotebookApp] Kernel restarted: 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2
+[I 11:17:29.132 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:17:29.655 NotebookApp] Replaying 3 buffered messages
+2021-04-14 11:17:33.082260: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-14 11:17:33.082724: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 11:17:55.131 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:18:02.922 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:19:55.122 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:20:02.918 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:21:55.122 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:22:02.915 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:24:03.177 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:24:24.111 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:26:02.902 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:26:24.113 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:28:02.897 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:28:24.107 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:30:02.894 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:30:17.319 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:30:17.319 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:30:19.479 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:30:19.480 NotebookApp] Replaying 4 buffered messages
+[I 11:30:19.493 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:30:19.493 NotebookApp] Replaying 7 buffered messages
+[I 11:30:54.120 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:32:32.908 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:32:54.136 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:34:33.138 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:34:54.111 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:36:26.772 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:36:26.785 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:36:28.305 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:36:28.305 NotebookApp] Replaying 5 buffered messages
+[I 11:36:28.318 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:36:28.318 NotebookApp] Replaying 2 buffered messages
+[I 11:37:45.625 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:38:06.620 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:39:45.405 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:40:06.615 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:41:45.633 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:42:06.609 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:43:45.409 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:44:06.605 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:44:07.143 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:44:07.143 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:44:08.802 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 11:44:08.802 NotebookApp] Replaying 3 buffered messages
+[I 11:44:08.815 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 11:44:08.815 NotebookApp] Replaying 6 buffered messages
+[I 11:45:45.403 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:46:06.602 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:47:45.683 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:48:06.606 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:49:45.389 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:50:06.591 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:51:45.385 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:52:06.591 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:53:45.383 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:54:06.584 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:55:45.373 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:56:06.583 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:57:45.378 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 11:58:06.579 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 11:59:45.368 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 12:00:06.582 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:01:23.635 NotebookApp] Kernel interrupted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 12:01:35.781 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 12:01:36.332 NotebookApp] Kernel restarted: dd7308b2-acb1-4999-93cb-05d99a586dba
+[I 12:01:36.346 NotebookApp] Restoring connection for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 12:01:36.871 NotebookApp] Replaying 3 buffered messages
+[I 12:01:45.759 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 12:01:48.473 NotebookApp] Saving file at /create_application/cifar-10.ipynb
+[I 12:01:49.838 NotebookApp] Starting buffering for dd7308b2-acb1-4999-93cb-05d99a586dba:3cce6cab1874462880b0e594049fd4b7
+[I 12:01:49.864 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:02:02.872 NotebookApp] Creating new notebook in /create_application
+[I 12:02:03.548 NotebookApp] Kernel started: 19124739-77b7-49d4-9c0b-af383a420724, name: python3
+[I 12:03:37.928 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:04:03.525 NotebookApp] Saving file at /create_application/mosaic.ipynb
+[I 12:04:28.948 NotebookApp] Starting buffering for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:04:28.954 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:04:31.010 NotebookApp] Restoring connection for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:04:31.023 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:04:31.023 NotebookApp] Replaying 5 buffered messages
+[I 12:07:23.520 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:07:49.099 NotebookApp] Saving file at /create_application/mosaic.ipynb
+[I 12:09:23.509 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:10:24.778 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:10:24.779 NotebookApp] Starting buffering for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:10:26.923 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:10:26.923 NotebookApp] Replaying 5 buffered messages
+[I 12:10:26.936 NotebookApp] Restoring connection for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:22:02.421 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:24:02.363 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:25:55.362 NotebookApp] Saving file at /create_application/mnist.ipynb
+[I 12:35:33.893 NotebookApp] Starting buffering for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:35:33.895 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:35:35.571 NotebookApp] Restoring connection for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:35:35.591 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:59:37.940 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:59:37.941 NotebookApp] Starting buffering for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 12:59:39.360 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 12:59:39.383 NotebookApp] Restoring connection for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 18:10:37.155 NotebookApp] Starting buffering for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 18:10:37.156 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 18:10:39.340 NotebookApp] Restoring connection for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+[I 18:10:39.360 NotebookApp] Restoring connection for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 18:10:49.393 NotebookApp] Starting buffering for 18dbd0e6-a8d6-4a92-8b47-8fe230b033b2:56727c60d8b0454382f499db70dbfb1f
+[I 18:10:49.394 NotebookApp] Starting buffering for 19124739-77b7-49d4-9c0b-af383a420724:3185017a3b7d4f498fe69a47746bc0ac
+nohup: jupyter: No such file or directory
+[I 20:19:34.712 NotebookApp] Serving notebooks from local directory: /Users/akira/Desktop/local/develop/LDL
+[I 20:19:34.712 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 20:19:34.712 NotebookApp] http://localhost:8888/?token=ed3add376540acbae835f53dca229dd505940156c8ae10eb
+[I 20:19:34.712 NotebookApp]  or http://127.0.0.1:8888/?token=ed3add376540acbae835f53dca229dd505940156c8ae10eb
+[I 20:19:34.712 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:19:34.716 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/akira/Library/Jupyter/runtime/nbserver-2133-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ed3add376540acbae835f53dca229dd505940156c8ae10eb
+     or http://127.0.0.1:8888/?token=ed3add376540acbae835f53dca229dd505940156c8ae10eb
+[I 08:46:39.910 NotebookApp] Creating new directory in 
+[I 08:46:53.563 NotebookApp] Creating new notebook in /keras_deeplearning
+[I 08:46:54.422 NotebookApp] Kernel started: 1cda34c9-51c7-430f-a19c-5b422df3e7c7, name: python3
+[I 08:48:54.379 NotebookApp] Saving file at /keras_deeplearning/mnist.ipynb
+2021-04-15 08:50:37.237120: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-15 08:50:37.238582: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:50:54.345 NotebookApp] Saving file at /keras_deeplearning/mnist.ipynb
+[I 08:52:54.331 NotebookApp] Saving file at /keras_deeplearning/mnist.ipynb
+[I 08:54:06.639 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 08:54:07.283 NotebookApp] Kernel restarted: 1cda34c9-51c7-430f-a19c-5b422df3e7c7
+[I 08:54:07.293 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 08:54:07.764 NotebookApp] Replaying 3 buffered messages
+2021-04-15 08:54:09.695743: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-15 08:54:09.696164: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:54:54.334 NotebookApp] Saving file at /keras_deeplearning/mnist.ipynb
+[I 08:54:57.200 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 08:54:57.732 NotebookApp] Kernel restarted: 1cda34c9-51c7-430f-a19c-5b422df3e7c7
+[I 08:54:57.740 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 08:54:58.075 NotebookApp] Replaying 3 buffered messages
+2021-04-15 08:54:59.652831: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-15 08:54:59.653357: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:56:09.812 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 08:56:10.347 NotebookApp] Kernel restarted: 1cda34c9-51c7-430f-a19c-5b422df3e7c7
+[I 08:56:10.356 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 08:56:10.713 NotebookApp] Replaying 3 buffered messages
+2021-04-15 08:56:12.524688: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-15 08:56:12.525029: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 08:56:54.339 NotebookApp] Saving file at /keras_deeplearning/mnist.ipynb
+[I 09:56:26.926 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 09:56:28.443 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 10:55:51.939 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 10:55:54.706 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 10:58:36.920 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 10:58:39.691 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:01:31.479 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:01:34.382 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:03:17.199 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:03:19.223 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:12:01.169 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:12:02.857 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:14:04.477 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:14:07.263 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:14:28.715 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:14:31.161 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:14:55.189 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:14:57.670 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:15:17.626 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:15:19.451 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:19:02.550 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:19:04.450 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:19:26.669 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:19:29.403 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:19:49.569 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:19:52.453 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:20:12.902 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:20:15.616 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:20:36.234 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:20:38.347 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:21:00.466 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:21:02.399 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:21:25.151 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:21:27.286 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:21:47.140 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:21:49.298 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:22:11.367 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:22:13.316 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:22:39.198 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:22:40.766 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:23:04.323 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:23:06.073 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:25:24.488 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:25:27.009 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:33:57.422 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:33:59.647 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:37:53.119 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:37:55.480 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:38:14.391 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:38:16.347 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:59:29.327 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 11:59:31.833 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:01:30.509 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:01:32.016 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:34:32.215 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:34:34.552 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:43:37.325 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:43:39.069 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:53:23.282 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:53:25.058 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:56:38.492 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 12:56:41.398 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 13:08:30.888 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 13:08:33.362 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 13:17:12.199 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 13:17:14.280 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 14:03:16.590 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 14:03:18.168 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 15:00:11.168 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 15:00:13.389 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 19:17:36.814 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 19:17:38.447 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 19:17:43.076 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 19:17:44.823 NotebookApp] Restoring connection for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 20:01:45.496 NotebookApp] Saving file at /keras_deeplearning/mnist.ipynb
+[I 20:01:46.645 NotebookApp] Starting buffering for 1cda34c9-51c7-430f-a19c-5b422df3e7c7:77a31f54e1e642ee85a05f4e91447163
+[I 20:01:49.394 NotebookApp] Kernel shutdown: 1cda34c9-51c7-430f-a19c-5b422df3e7c7
+[W 20:02:22.879 NotebookApp] Notebook create_application/mosaic.ipynb is not trusted
+[I 20:02:22.968 NotebookApp] Kernel started: 6e862223-f9e5-42c6-9c32-fbd92636e2d9, name: python3
+[I 20:08:24.090 NotebookApp] Saving file at /create_application/mosaic.ipynb
+[I 20:09:00.964 NotebookApp] Starting buffering for 6e862223-f9e5-42c6-9c32-fbd92636e2d9:b727b25009ae495aadfd318654d26db2
+[I 20:09:01.278 NotebookApp] Kernel restarted: 6e862223-f9e5-42c6-9c32-fbd92636e2d9
+[I 20:09:01.287 NotebookApp] Restoring connection for 6e862223-f9e5-42c6-9c32-fbd92636e2d9:b727b25009ae495aadfd318654d26db2
+[I 20:09:01.787 NotebookApp] Replaying 3 buffered messages
+[I 20:10:24.147 NotebookApp] Saving file at /create_application/mosaic.ipynb
+[I 20:12:22.982 NotebookApp] Saving file at /create_application/mosaic.ipynb
+[I 20:12:52.442 NotebookApp] Starting buffering for 6e862223-f9e5-42c6-9c32-fbd92636e2d9:b727b25009ae495aadfd318654d26db2
+[I 20:12:52.765 NotebookApp] Kernel restarted: 6e862223-f9e5-42c6-9c32-fbd92636e2d9
+[I 20:12:52.779 NotebookApp] Restoring connection for 6e862223-f9e5-42c6-9c32-fbd92636e2d9:b727b25009ae495aadfd318654d26db2
+[I 20:12:53.383 NotebookApp] Replaying 3 buffered messages
+[I 20:13:15.031 NotebookApp] Saving file at /create_application/mosaic.ipynb
+[I 20:13:16.307 NotebookApp] Starting buffering for 6e862223-f9e5-42c6-9c32-fbd92636e2d9:b727b25009ae495aadfd318654d26db2
+[I 20:13:18.872 NotebookApp] Kernel shutdown: 6e862223-f9e5-42c6-9c32-fbd92636e2d9
+[I 20:16:10.956 NotebookApp] Creating new notebook in /create_application
+[I 20:16:11.688 NotebookApp] Kernel started: bc5494c7-8b5c-43c6-9626-80ca0ea326f2, name: python3
+[I 20:18:11.690 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 20:27:34.767 NotebookApp] Creating new notebook in 
+[I 20:27:35.408 NotebookApp] Kernel started: 885bb0dd-ce55-43b8-a862-3e714b49c50b, name: python3
+[I 20:29:35.829 NotebookApp] Saving file at /cv2.ipynb
+[I 20:31:35.427 NotebookApp] Saving file at /cv2.ipynb
+[I 20:31:54.882 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 20:31:55.206 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 20:31:55.215 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 20:31:55.746 NotebookApp] Replaying 3 buffered messages
+[I 20:33:35.833 NotebookApp] Saving file at /cv2.ipynb
+[I 20:34:28.687 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 20:34:28.688 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 20:34:29.767 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 20:34:29.790 NotebookApp] Restoring connection for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 20:35:40.870 NotebookApp] Saving file at /cv2.ipynb
+[I 07:37:32.103 NotebookApp] Saving file at /cv2.ipynb
+[I 07:39:32.087 NotebookApp] Saving file at /cv2.ipynb
+[I 07:41:32.093 NotebookApp] Saving file at /cv2.ipynb
+[I 07:43:32.093 NotebookApp] Saving file at /cv2.ipynb
+[I 07:44:31.484 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:44:31.816 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:44:31.823 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:44:32.842 NotebookApp] Replaying 3 buffered messages
+[I 07:45:02.364 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:45:02.688 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:45:02.696 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:45:03.137 NotebookApp] Replaying 3 buffered messages
+[I 07:45:11.753 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:45:12.079 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:45:12.087 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:45:12.490 NotebookApp] Replaying 3 buffered messages
+[I 07:45:32.104 NotebookApp] Saving file at /cv2.ipynb
+[I 07:46:12.021 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:46:12.352 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:46:12.360 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:46:12.874 NotebookApp] Replaying 3 buffered messages
+[I 07:47:32.090 NotebookApp] Saving file at /cv2.ipynb
+[I 07:49:02.231 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:49:02.557 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:49:02.564 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:49:03.045 NotebookApp] Replaying 3 buffered messages
+[I 07:49:32.830 NotebookApp] Saving file at /cv2.ipynb
+[I 07:49:48.028 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:49:48.351 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:49:48.379 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:49:48.892 NotebookApp] Replaying 3 buffered messages
+[I 07:51:32.106 NotebookApp] Saving file at /cv2.ipynb
+[I 07:51:53.069 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:51:53.399 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:51:53.408 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:51:53.791 NotebookApp] Replaying 3 buffered messages
+[I 07:53:32.106 NotebookApp] Saving file at /cv2.ipynb
+[I 07:55:32.515 NotebookApp] Saving file at /cv2.ipynb
+[I 07:57:32.111 NotebookApp] Saving file at /cv2.ipynb
+[I 07:57:55.338 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:57:55.655 NotebookApp] Kernel restarted: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 07:57:55.661 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 07:57:56.172 NotebookApp] Replaying 3 buffered messages
+[I 07:59:32.520 NotebookApp] Saving file at /cv2.ipynb
+[I 08:00:08.380 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 08:03:39.360 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:03:39.686 NotebookApp] Kernel restarted: bc5494c7-8b5c-43c6-9626-80ca0ea326f2
+[I 08:03:39.695 NotebookApp] Restoring connection for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:03:40.718 NotebookApp] Replaying 3 buffered messages
+[I 08:04:08.753 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 08:06:08.372 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 08:07:48.814 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:07:48.814 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 08:07:50.838 NotebookApp] Restoring connection for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:07:50.860 NotebookApp] Restoring connection for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 08:11:09.019 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:11:09.346 NotebookApp] Kernel restarted: bc5494c7-8b5c-43c6-9626-80ca0ea326f2
+[I 08:11:09.353 NotebookApp] Restoring connection for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:11:09.861 NotebookApp] Replaying 3 buffered messages
+[I 08:12:35.520 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 08:13:51.924 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:13:52.245 NotebookApp] Kernel restarted: bc5494c7-8b5c-43c6-9626-80ca0ea326f2
+[I 08:13:52.252 NotebookApp] Restoring connection for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:13:52.728 NotebookApp] Replaying 3 buffered messages
+[I 08:14:35.057 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 08:21:36.846 NotebookApp] Creating new directory in 
+[I 08:21:59.562 NotebookApp] Saving file at /cv2.ipynb
+[I 08:22:00.953 NotebookApp] Starting buffering for 885bb0dd-ce55-43b8-a862-3e714b49c50b:c27db675740345648a7db4dc5f092215
+[I 08:22:02.798 NotebookApp] Saving file at /create_application/zipcode_recognision.ipynb
+[I 08:22:03.943 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
+[I 08:22:08.785 NotebookApp] Kernel shutdown: bc5494c7-8b5c-43c6-9626-80ca0ea326f2
+[I 08:22:09.541 NotebookApp] Kernel shutdown: 885bb0dd-ce55-43b8-a862-3e714b49c50b
