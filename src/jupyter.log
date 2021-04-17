@@ -1492,3 +1492,358 @@ To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriat
 [I 08:22:03.943 NotebookApp] Starting buffering for bc5494c7-8b5c-43c6-9626-80ca0ea326f2:7fab9ff8ca79438cbb781c60a63fca44
 [I 08:22:08.785 NotebookApp] Kernel shutdown: bc5494c7-8b5c-43c6-9626-80ca0ea326f2
 [I 08:22:09.541 NotebookApp] Kernel shutdown: 885bb0dd-ce55-43b8-a862-3e714b49c50b
+[I 08:54:20.428 NotebookApp] Creating new notebook in /src/create_application
+[I 08:54:21.175 NotebookApp] Kernel started: 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d, name: python3
+[I 08:55:44.560 NotebookApp] Saving file at /src/create_application/video.ipynb
+[I 08:56:21.159 NotebookApp] Saving file at /src/create_application/video.ipynb
+[W 08:58:22.795 NotebookApp] 404 GET /api/contents/src/create_application/video.ipynb?content=0&_=1618530861026 (::1): No such file or directory: src/create_application/video.ipynb
+[W 08:58:22.795 NotebookApp] No such file or directory: src/create_application/video.ipynb
+[W 08:58:22.796 NotebookApp] 404 GET /api/contents/src/create_application/video.ipynb?content=0&_=1618530861026 (::1) 4.180000ms referer=http://localhost:8888/notebooks/src/create_application/video.ipynb
+[I 08:58:22.821 NotebookApp] Uploading file to /src/create_application/video.ipynb
+[I 09:04:03.369 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 09:04:05.460 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 09:07:41.116 NotebookApp] Creating new notebook in /src
+[I 09:07:41.729 NotebookApp] Kernel started: 70a24b7e-a672-4d16-856b-2bbf48ff38e9, name: python3
+[W 09:09:06.519 NotebookApp] Notebook src/cv2.ipynb is not trusted
+[I 09:09:06.803 NotebookApp] Kernel started: 0fe26af5-0193-400f-9a2c-8a7028e6d5b4, name: python3
+[I 09:09:42.584 NotebookApp] Saving file at /src/numpy.ipynb
+[I 09:10:01.811 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:10:02.136 NotebookApp] Kernel restarted: 0fe26af5-0193-400f-9a2c-8a7028e6d5b4
+[I 09:10:02.144 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:10:02.578 NotebookApp] Replaying 3 buffered messages
+[I 09:11:06.830 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:12:08.030 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:12:08.357 NotebookApp] Kernel restarted: 0fe26af5-0193-400f-9a2c-8a7028e6d5b4
+[I 09:12:08.364 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:12:08.855 NotebookApp] Replaying 3 buffered messages
+[I 09:13:06.814 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:15:07.361 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:15:21.801 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:15:22.230 NotebookApp] Kernel restarted: 0fe26af5-0193-400f-9a2c-8a7028e6d5b4
+[I 09:15:22.238 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:15:22.642 NotebookApp] Replaying 3 buffered messages
+[I 09:17:07.284 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:19:06.805 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:21:06.803 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:22:29.798 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:22:30.230 NotebookApp] Kernel restarted: 0fe26af5-0193-400f-9a2c-8a7028e6d5b4
+[I 09:22:30.238 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:22:31.257 NotebookApp] Replaying 3 buffered messages
+[I 09:23:04.918 NotebookApp] Saving file at /src/cv2.ipynb
+[I 09:44:13.789 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:44:13.795 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 09:44:13.796 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 09:44:15.305 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 09:44:15.327 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 09:44:15.737 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:49:07.885 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 09:49:07.892 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 09:49:07.893 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 09:49:10.393 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 09:49:10.418 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 09:49:10.503 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:10:46.701 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:10:46.704 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:10:46.705 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:10:49.385 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:10:49.408 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:10:49.425 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:13:59.859 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:13:59.859 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:13:59.860 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:14:01.134 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:14:01.158 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:14:01.177 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:34:51.159 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:34:51.161 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:34:51.162 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:34:53.487 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:34:53.509 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:34:53.528 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:54:33.805 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:54:33.807 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 10:54:33.816 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:54:35.452 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 10:54:35.474 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 10:54:35.493 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 11:30:07.872 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 11:30:07.873 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 11:30:07.875 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 11:30:09.464 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 11:30:09.578 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 11:30:09.598 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 11:57:48.252 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 11:57:48.257 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 11:57:48.259 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 11:57:50.088 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 11:57:50.107 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 11:57:50.127 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:02:52.414 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:02:52.415 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:02:52.416 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:02:54.780 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:02:54.801 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:02:54.818 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:03:18.593 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:03:18.594 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:03:18.594 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:03:20.550 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:03:20.570 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:03:20.585 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:06:57.595 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:06:57.595 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:06:57.596 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:07:00.227 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:07:00.246 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:07:00.263 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:31:41.554 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:31:41.566 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:31:41.567 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:31:43.658 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:31:43.679 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:31:43.696 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:39:47.050 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:39:47.052 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:39:47.052 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:39:48.963 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:39:48.985 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:39:49.012 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:41:09.187 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:41:09.188 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:41:09.189 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:41:10.696 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:41:10.721 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:41:11.307 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:55:39.372 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:55:39.384 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:55:39.384 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 12:55:41.660 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 12:55:41.683 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 12:55:41.699 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 13:47:45.026 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 13:47:45.100 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 13:47:45.112 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 13:47:46.789 NotebookApp] Restoring connection for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 13:47:46.802 NotebookApp] Restoring connection for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 13:47:46.818 NotebookApp] Restoring connection for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 14:23:40.286 NotebookApp] Saving file at /src/create_application/video.ipynb
+[I 14:23:43.423 NotebookApp] Starting buffering for 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d:c09f259628754766a8305b1c0f75eb89
+[I 14:23:54.382 NotebookApp] Kernel shutdown: 2c8d75d8-c1e2-468d-99ac-b7a6327f9d0d
+[I 14:23:56.821 NotebookApp] Creating new notebook in /src/create_application
+[I 14:23:57.512 NotebookApp] Kernel started: b78ba6c2-079f-4579-a317-54f64ee2c19c, name: python3
+[I 14:24:19.045 NotebookApp] Saving file at /src/numpy.ipynb
+[I 14:24:20.492 NotebookApp] Starting buffering for 70a24b7e-a672-4d16-856b-2bbf48ff38e9:e5e6b3b8a3e44f2a8ffe85c0823acc57
+[I 14:24:22.264 NotebookApp] Saving file at /src/cv2.ipynb
+[I 14:24:23.376 NotebookApp] Starting buffering for 0fe26af5-0193-400f-9a2c-8a7028e6d5b4:4d1f6dadb6ff43cc8b0de71baba293b9
+[I 14:25:57.518 NotebookApp] Saving file at /src/create_application/natural_language_processing.ipynb
+[I 16:39:36.151 NotebookApp] Starting buffering for b78ba6c2-079f-4579-a317-54f64ee2c19c:88740b13e97442c381e3cee1fd82cbe8
+[I 16:39:39.429 NotebookApp] Kernel shutdown: b78ba6c2-079f-4579-a317-54f64ee2c19c
+[W 16:40:08.036 NotebookApp] delete /src/create_application/natural_language_processing.ipynb
+[W 16:40:08.230 NotebookApp] delete /src/create_application/video.ipynb
+[W 16:40:08.234 NotebookApp] delete /src/create_application/zipcode_recognision.ipynb
+[W 16:40:08.237 NotebookApp] delete /src/create_application/detect-zip.png
+[W 16:40:08.238 NotebookApp] delete /src/create_application/digits.pkl
+[W 16:40:08.239 NotebookApp] delete /src/create_application/hagaki1.png
+[I 16:41:44.733 NotebookApp] Creating new notebook in /src/create_application
+[I 16:41:45.571 NotebookApp] Kernel started: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37, name: python3
+[I 16:43:46.955 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:01:51.555 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 17:01:51.919 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 17:01:51.952 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 17:01:53.725 NotebookApp] Replaying 3 buffered messages
+[I 17:03:46.035 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:39:45.742 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:41:45.727 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:43:45.722 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:45:45.705 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:46:00.281 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:47:45.711 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:49:45.711 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:51:45.714 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:53:45.721 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:55:46.061 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:57:45.721 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 17:59:46.094 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:05:46.054 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:07:45.690 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:09:46.009 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:13:45.711 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:15:46.147 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:16:34.064 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 18:16:34.400 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 18:16:34.416 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 18:16:34.999 NotebookApp] Replaying 3 buffered messages
+[I 18:17:45.838 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:19:45.831 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 18:21:45.878 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 19:09:14.979 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 19:09:17.306 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 19:57:01.375 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 19:57:01.807 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 19:57:01.815 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 19:57:02.387 NotebookApp] Replaying 3 buffered messages
+[I 19:57:40.651 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 19:59:54.170 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:01:54.179 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:03:54.183 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:05:54.192 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:07:54.193 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:09:54.150 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:11:54.158 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:13:54.148 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:15:54.158 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:17:54.468 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:25:54.149 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:27:54.146 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:29:54.282 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:31:54.149 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:33:54.141 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:35:54.166 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:37:54.460 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:39:55.533 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:41:54.444 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:43:54.445 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:53:54.112 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:55:54.112 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 20:59:54.109 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 21:01:54.102 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 21:03:54.390 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 21:08:22.240 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 21:08:24.961 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[I 08:39:51.543 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:176c0aa33400430f9e0deebe41500787
+[W 08:40:09.318 NotebookApp] Notebook src/create_application/mecab.ipynb is not trusted
+[I 09:00:07.170 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 09:00:09.814 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 09:15:28.075 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:41:27.755 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:43:27.905 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[W 09:43:59.036 NotebookApp] 404 GET /notebooks/src/create_application/ldcc-20140209.tar.gz (::1): No such file or directory: src/create_application/ldcc-20140209.tar.gz
+[W 09:43:59.062 NotebookApp] 404 GET /notebooks/src/create_application/ldcc-20140209.tar.gz (::1) 27.830000ms referer=http://localhost:8888/notebooks/src/create_application/mecab.ipynb
+[I 09:45:27.747 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:47:27.739 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:49:28.117 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:51:28.088 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:53:07.393 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 09:53:07.831 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 09:53:07.839 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 09:53:09.360 NotebookApp] Replaying 3 buffered messages
+[I 09:53:27.743 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:55:27.740 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:57:27.748 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 09:59:27.725 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:01:27.728 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:03:27.729 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:05:27.723 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:07:27.959 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:08:53.948 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:08:54.273 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 10:08:54.281 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:08:54.788 NotebookApp] Replaying 3 buffered messages
+[I 10:09:27.716 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:11:28.001 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:15:09.682 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:15:11.332 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:40:36.398 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:40:36.828 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 10:40:36.836 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:40:37.441 NotebookApp] Replaying 3 buffered messages
+[I 10:40:40.494 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:41:32.445 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 10:41:34.098 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:f59cbe9347b741328aa4bf3f28d01653
+[I 10:45:22.630 NotebookApp] Creating new notebook in /src/create_application
+[I 10:45:23.292 NotebookApp] Kernel started: 759e7ef1-474c-4a33-ab65-3c3c229c37cd, name: python3
+[I 10:47:23.610 NotebookApp] Saving file at /src/create_application/business.ipynb
+[I 10:48:45.903 NotebookApp] Starting buffering for 759e7ef1-474c-4a33-ab65-3c3c229c37cd:071d77612af7421489b3ed5c04025737
+[I 10:48:46.225 NotebookApp] Kernel restarted: 759e7ef1-474c-4a33-ab65-3c3c229c37cd
+[I 10:48:46.233 NotebookApp] Restoring connection for 759e7ef1-474c-4a33-ab65-3c3c229c37cd:071d77612af7421489b3ed5c04025737
+[I 10:48:46.588 NotebookApp] Replaying 3 buffered messages
+[I 10:49:08.584 NotebookApp] Starting buffering for 759e7ef1-474c-4a33-ab65-3c3c229c37cd:071d77612af7421489b3ed5c04025737
+[I 10:49:08.908 NotebookApp] Kernel restarted: 759e7ef1-474c-4a33-ab65-3c3c229c37cd
+[I 10:49:08.916 NotebookApp] Restoring connection for 759e7ef1-474c-4a33-ab65-3c3c229c37cd:071d77612af7421489b3ed5c04025737
+[I 10:49:09.430 NotebookApp] Replaying 3 buffered messages
+[I 10:49:23.274 NotebookApp] Saving file at /src/create_application/business.ipynb
+[I 10:51:23.293 NotebookApp] Saving file at /src/create_application/business.ipynb
+2021-04-17 10:53:11.837994: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-17 10:53:11.838972: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:53:23.281 NotebookApp] Saving file at /src/create_application/business.ipynb
+[I 10:55:23.387 NotebookApp] Saving file at /src/create_application/business.ipynb
+[I 10:56:59.547 NotebookApp] Saving file at /src/create_application/business.ipynb
+[I 10:57:01.385 NotebookApp] Starting buffering for 759e7ef1-474c-4a33-ab65-3c3c229c37cd:071d77612af7421489b3ed5c04025737
+[I 10:57:03.941 NotebookApp] Creating new notebook in /src/create_application
+[I 10:57:04.620 NotebookApp] Kernel started: 3dc509d2-e21a-4e3a-8847-edb1d2967af5, name: python3
+[I 10:58:35.597 NotebookApp] Kernel shutdown: 3dc509d2-e21a-4e3a-8847-edb1d2967af5
+[W 10:58:35.807 NotebookApp] delete /src/create_application/news.ipynb
+[W 10:58:35.833 NotebookApp] 404 DELETE /api/sessions/f36c8d81-08c3-4181-b67c-50c5fa605579 (::1): Session not found: session_id='f36c8d81-08c3-4181-b67c-50c5fa605579'
+[W 10:58:35.834 NotebookApp] Session not found: session_id='f36c8d81-08c3-4181-b67c-50c5fa605579'
+[W 10:58:35.834 NotebookApp] 404 DELETE /api/sessions/f36c8d81-08c3-4181-b67c-50c5fa605579 (::1) 1.480000ms referer=http://localhost:8888/notebooks/src/create_application/news.ipynb
+[W 10:58:37.796 NotebookApp] Notebook src/create_application/mecab.ipynb is not trusted
+[I 11:00:38.185 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:02:38.496 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:04:38.151 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:10:26.479 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:10:27.592 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:16:38.139 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:20:34.055 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:20:35.681 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:27:02.006 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:27:46.684 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:27:47.007 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 11:27:47.017 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:27:47.533 NotebookApp] Replaying 3 buffered messages
+[I 11:29:02.006 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:29:29.852 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:29:30.177 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 11:29:30.185 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:29:30.637 NotebookApp] Replaying 3 buffered messages
+[I 11:31:02.006 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:31:46.018 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:31:48.847 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 11:31:48.855 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:31:49.365 NotebookApp] Replaying 5 buffered messages
+[I 11:33:01.983 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:35:01.980 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:36:32.530 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:36:33.064 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 11:36:33.073 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:36:34.093 NotebookApp] Replaying 3 buffered messages
+[I 11:37:02.404 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:39:01.972 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:43:01.977 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:51:02.439 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:53:01.959 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 11:55:12.073 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:55:13.165 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:59:45.554 NotebookApp] Starting buffering for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:59:45.985 NotebookApp] Kernel restarted: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[I 11:59:45.993 NotebookApp] Restoring connection for 2b1f6342-fbed-438c-a7d0-fc9e55d83e37:fbea3267821d45fa8f5d301e8daeae8f
+[I 11:59:46.542 NotebookApp] Replaying 3 buffered messages
+[I 11:59:53.704 NotebookApp] Creating new notebook in /src/create_application
+[I 11:59:54.285 NotebookApp] Kernel started: c062936a-e469-4145-9319-dafd43ad1c8e, name: python3
+[I 12:01:06.768 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 12:01:54.256 NotebookApp] Saving file at /src/create_application/database.ipynb
+2021-04-17 12:03:04.134716: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-17 12:03:04.135241: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 12:03:54.254 NotebookApp] Saving file at /src/create_application/database.ipynb
+[I 12:05:31.547 NotebookApp] Saving file at /src/create_application/mecab.ipynb
+[I 12:05:54.265 NotebookApp] Saving file at /src/create_application/database.ipynb
+[I 12:07:54.262 NotebookApp] Saving file at /src/create_application/database.ipynb
+[I 12:09:54.260 NotebookApp] Saving file at /src/create_application/database.ipynb
+[I 12:11:07.128 NotebookApp] Starting buffering for c062936a-e469-4145-9319-dafd43ad1c8e:dd0114c91f274b0089b16d39bb0cc9fc
+[I 12:11:07.665 NotebookApp] Kernel restarted: c062936a-e469-4145-9319-dafd43ad1c8e
+[I 12:11:07.674 NotebookApp] Restoring connection for c062936a-e469-4145-9319-dafd43ad1c8e:dd0114c91f274b0089b16d39bb0cc9fc
+[I 12:11:08.144 NotebookApp] Replaying 3 buffered messages
+2021-04-17 12:11:10.144849: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-17 12:11:10.145337: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 12:11:18.741 NotebookApp] Saving file at /src/create_application/database.ipynb
+[I 12:11:21.427 NotebookApp] Starting buffering for c062936a-e469-4145-9319-dafd43ad1c8e:dd0114c91f274b0089b16d39bb0cc9fc
+[W 12:11:25.184 NotebookApp] Notebook src/create_application/business.ipynb is not trusted
+[I 12:11:27.045 NotebookApp] Starting buffering for 759e7ef1-474c-4a33-ab65-3c3c229c37cd:587ec220d9794a8781b336188b23d158
+[I 12:11:31.369 NotebookApp] Kernel shutdown: 759e7ef1-474c-4a33-ab65-3c3c229c37cd
+[I 12:11:32.002 NotebookApp] Kernel shutdown: c062936a-e469-4145-9319-dafd43ad1c8e
+[I 12:11:32.528 NotebookApp] Kernel shutdown: 2b1f6342-fbed-438c-a7d0-fc9e55d83e37
+[W 12:11:33.089 NotebookApp] 404 DELETE /api/sessions/ef116ccd-60c2-4ad9-8081-c7433d1037a8 (::1): Session not found: session_id='ef116ccd-60c2-4ad9-8081-c7433d1037a8'
+[W 12:11:33.089 NotebookApp] Session not found: session_id='ef116ccd-60c2-4ad9-8081-c7433d1037a8'
+[W 12:11:33.089 NotebookApp] 404 DELETE /api/sessions/ef116ccd-60c2-4ad9-8081-c7433d1037a8 (::1) 0.890000ms referer=http://localhost:8888/notebooks/src/create_application/mecab.ipynb
