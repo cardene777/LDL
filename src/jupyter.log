@@ -1897,3 +1897,112 @@ To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriat
 [I 09:33:55.810 NotebookApp] Starting buffering for cac8bbad-63b9-4da6-b531-703f52648fd4:45ed0504cd2145b79f4c6c2f613f9610
 [I 09:33:58.240 NotebookApp] Kernel shutdown: 15044dc6-21f6-45e3-87e7-95774a797257
 [I 09:34:00.381 NotebookApp] Kernel shutdown: cac8bbad-63b9-4da6-b531-703f52648fd4
+[W 09:51:44.879 NotebookApp] Notebook src/model.ipynb is not trusted
+[I 09:51:45.096 NotebookApp] Kernel started: cdbf3a1a-8538-4f69-9e52-8d34ad276012, name: python3
+[I 09:52:23.458 NotebookApp] Saving file at /src/model.ipynb
+[I 09:52:24.318 NotebookApp] Starting buffering for cdbf3a1a-8538-4f69-9e52-8d34ad276012:147141a75334417783fd9c071049b7e5
+[I 09:52:28.090 NotebookApp] Kernel shutdown: 0fe26af5-0193-400f-9a2c-8a7028e6d5b4
+[I 09:52:28.514 NotebookApp] Kernel shutdown: cdbf3a1a-8538-4f69-9e52-8d34ad276012
+[I 09:52:28.726 NotebookApp] Kernel shutdown: 70a24b7e-a672-4d16-856b-2bbf48ff38e9
+[I 09:52:30.103 NotebookApp] Creating new notebook in /src
+[I 09:52:30.669 NotebookApp] Kernel started: 819fcd40-f05d-4bd8-8429-e331f8b17c00, name: python3
+[I 09:52:31.849 NotebookApp] Starting buffering for 819fcd40-f05d-4bd8-8429-e331f8b17c00:1ecb132af6194652b3abaaecfd357fb0
+[W 09:52:47.737 NotebookApp] delete /src/Untitled.ipynb
+[I 09:52:49.963 NotebookApp] Creating new directory in /src
+[I 09:53:21.145 NotebookApp] Creating new notebook in /src/tutorial
+[I 09:53:21.761 NotebookApp] Kernel started: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81, name: python3
+[I 09:54:20.516 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 09:55:21.775 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 09:57:21.755 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 09:59:21.747 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+2021-04-18 10:00:30.392713: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-18 10:00:30.394359: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 8. Tune using inter_op_parallelism_threads for best performance.
+[I 10:01:21.743 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 10:03:22.564 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 10:09:21.738 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 10:11:21.729 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 10:57:22.188 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 10:59:22.455 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:01:21.635 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:03:22.463 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:05:22.447 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:07:22.567 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:21:22.497 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:23:22.477 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:49:22.485 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:51:21.659 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:53:22.570 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:55:22.467 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:57:21.674 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 11:58:37.249 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 12:03:22.557 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:37:21.674 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:39:22.173 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:41:22.241 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:47:21.526 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:49:22.319 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:51:22.276 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:53:22.347 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 13:59:22.346 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:01:22.338 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:03:22.340 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:05:22.333 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:15:22.190 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:26:56.037 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[I 14:26:58.776 NotebookApp] Restoring connection for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[I 14:31:28.591 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[I 14:31:29.441 NotebookApp] Kernel restarted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:31:29.449 NotebookApp] Restoring connection for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[I 14:31:29.896 NotebookApp] Replaying 3 buffered messages
+[I 14:31:30.320 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:31:41.443 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:32:17.767 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[I 14:32:17.990 NotebookApp] Kernel restarted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:32:17.996 NotebookApp] Restoring connection for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[I 14:32:18.511 NotebookApp] Replaying 3 buffered messages
+[I 14:32:20.995 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:32:28.277 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:32:32.869 NotebookApp] Kernel interrupted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:32:33.962 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:32:34.855 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:9f474906bced4df6a2fb11b730ccd793
+[W 14:32:36.857 NotebookApp] Notebook src/tutorial/tensorflow.ipynb is not trusted
+[I 14:32:39.618 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:32:39.840 NotebookApp] Kernel restarted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:32:39.846 NotebookApp] Restoring connection for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:32:40.268 NotebookApp] Replaying 3 buffered messages
+[I 14:32:42.845 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:32:51.870 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:34:37.995 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:41:48.188 NotebookApp] Kernel interrupted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:47:57.506 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:47:57.724 NotebookApp] Kernel restarted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:47:57.730 NotebookApp] Restoring connection for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:47:59.072 NotebookApp] Replaying 3 buffered messages
+[I 14:48:06.725 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:48:15.756 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:48:24.779 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:48:28.476 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:48:28.697 NotebookApp] Kernel restarted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:48:28.704 NotebookApp] Restoring connection for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:48:29.134 NotebookApp] Replaying 3 buffered messages
+[I 14:48:31.701 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:48:37.866 NotebookApp] Saving file at /src/tutorial/tensorflow.ipynb
+[I 14:51:01.535 NotebookApp] Kernel interrupted: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:51:04.729 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 89238c8a-0c0d-44c5-9b91-efb9bb4dea81 restarted
+[I 14:51:21.466 NotebookApp] Starting buffering for 89238c8a-0c0d-44c5-9b91-efb9bb4dea81:e3f56554cc17421caa6d03ff0863932d
+[I 14:51:24.518 NotebookApp] Kernel shutdown: 819fcd40-f05d-4bd8-8429-e331f8b17c00
+[I 14:51:25.337 NotebookApp] Kernel shutdown: 89238c8a-0c0d-44c5-9b91-efb9bb4dea81
+[I 14:51:29.026 NotebookApp] Kernel started: f843445a-5506-4077-bcc8-f2958d67023e, name: python3
+[I 14:51:32.029 NotebookApp] KernelRestarter: restarting kernel (1/5), new random ports
+WARNING:root:kernel f843445a-5506-4077-bcc8-f2958d67023e restarted
+[I 14:51:39.514 NotebookApp] Starting buffering for f843445a-5506-4077-bcc8-f2958d67023e:c160ae87d89e422fbdd936045c1a762b
