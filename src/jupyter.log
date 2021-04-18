@@ -1847,3 +1847,53 @@ To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriat
 [W 12:11:33.089 NotebookApp] 404 DELETE /api/sessions/ef116ccd-60c2-4ad9-8081-c7433d1037a8 (::1): Session not found: session_id='ef116ccd-60c2-4ad9-8081-c7433d1037a8'
 [W 12:11:33.089 NotebookApp] Session not found: session_id='ef116ccd-60c2-4ad9-8081-c7433d1037a8'
 [W 12:11:33.089 NotebookApp] 404 DELETE /api/sessions/ef116ccd-60c2-4ad9-8081-c7433d1037a8 (::1) 0.890000ms referer=http://localhost:8888/notebooks/src/create_application/mecab.ipynb
+[I 09:25:54.817 NotebookApp] Creating new notebook in /doc
+[I 09:25:55.499 NotebookApp] Kernel started: acd39079-ada4-4ff0-9c41-454c8a620c0a, name: python3
+[I 09:25:58.465 NotebookApp] Starting buffering for acd39079-ada4-4ff0-9c41-454c8a620c0a:bfc3f15e191d4099942fc6bd9ce6edfb
+[I 09:26:03.513 NotebookApp] Kernel shutdown: acd39079-ada4-4ff0-9c41-454c8a620c0a
+[W 09:26:03.724 NotebookApp] delete /doc/Untitled.ipynb
+[W 09:30:04.017 NotebookApp] Notebook src/Building_Deep_Learning_from_Scratch/ethical_circuitry.ipynb is not trusted
+[I 09:30:04.236 NotebookApp] Kernel started: 50aae8a4-bc2a-422b-b641-bb91b709f35a, name: python3
+[I 09:30:06.885 NotebookApp] Starting buffering for 50aae8a4-bc2a-422b-b641-bb91b709f35a:c47b9be0a3ba485c852db94dd28b80c8
+[W 09:30:08.766 NotebookApp] Notebook src/Building_Deep_Learning_from_Scratch/neural_network.ipynb is not trusted
+[I 09:30:09.152 NotebookApp] Kernel started: 19952f7d-9ce7-4f77-8f30-67d5ee54bb20, name: python3
+[I 09:30:19.987 NotebookApp] Starting buffering for 19952f7d-9ce7-4f77-8f30-67d5ee54bb20:0f38391ed6984aa387cc638bc31a6815
+[I 09:30:23.890 NotebookApp] Kernel shutdown: 50aae8a4-bc2a-422b-b641-bb91b709f35a
+[I 09:30:24.098 NotebookApp] Kernel shutdown: 19952f7d-9ce7-4f77-8f30-67d5ee54bb20
+[W 09:33:16.503 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V1_Tue_13_Apr_2021_00_14_51
+[W 09:33:16.511 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V1_Tue_13_Apr_2021_01_20_25
+[W 09:33:16.514 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_00_16_32
+[W 09:33:16.519 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_00_17_47
+[W 09:33:16.522 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_00_20_03
+[W 09:33:16.525 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_00_20_45
+[W 09:33:16.530 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_01_22_03
+[W 09:33:16.532 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_01_22_31
+[W 09:33:16.537 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_00_22_43
+[W 09:33:16.539 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_01_23_05
+[W 09:33:16.541 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V2_Tue_13_Apr_2021_01_23_29
+[W 09:33:16.543 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V3_Tue_13_Apr_2021_00_26_00
+[W 09:33:16.546 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V3_Tue_13_Apr_2021_00_28_59
+[W 09:33:16.548 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V3_Tue_13_Apr_2021_00_39_51
+[W 09:33:16.551 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V3_Tue_13_Apr_2021_01_24_08
+[W 09:33:16.553 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V3_Tue_13_Apr_2021_01_24_54
+[W 09:33:16.555 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V3_Tue_13_Apr_2021_01_37_00
+[W 09:33:16.556 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_00_55_01
+[W 09:33:16.559 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_00_56_01
+[W 09:33:16.560 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_00_56_48
+[W 09:33:16.562 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_00_57_49
+[W 09:33:16.564 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_00_58_51
+[W 09:33:16.565 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_05_00
+[W 09:33:16.566 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_06_17
+[W 09:33:16.570 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_52_09
+[W 09:33:16.571 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_52_57
+[W 09:33:16.574 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_53_58
+[W 09:33:16.575 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_55_01
+[W 09:33:16.576 NotebookApp] delete /src/Intuitive_Deep_Learning/keras_MINST_V4_Tue_13_Apr_2021_01_56_04
+[W 09:33:40.708 NotebookApp] Notebook src/create_application/business.ipynb is not trusted
+[I 09:33:40.922 NotebookApp] Kernel started: 15044dc6-21f6-45e3-87e7-95774a797257, name: python3
+[I 09:33:47.218 NotebookApp] Starting buffering for 15044dc6-21f6-45e3-87e7-95774a797257:54f3333a48c2494a8aca36682a8aecf7
+[W 09:33:49.106 NotebookApp] Notebook src/create_application/ayame.ipynb is not trusted
+[I 09:33:49.284 NotebookApp] Kernel started: cac8bbad-63b9-4da6-b531-703f52648fd4, name: python3
+[I 09:33:55.810 NotebookApp] Starting buffering for cac8bbad-63b9-4da6-b531-703f52648fd4:45ed0504cd2145b79f4c6c2f613f9610
+[I 09:33:58.240 NotebookApp] Kernel shutdown: 15044dc6-21f6-45e3-87e7-95774a797257
+[I 09:34:00.381 NotebookApp] Kernel shutdown: cac8bbad-63b9-4da6-b531-703f52648fd4
