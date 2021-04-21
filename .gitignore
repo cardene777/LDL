@@ -1,3 +1,7 @@
 /jupyter.log
 .ipynb_checkpoints/
 .DS_Store/
+images/
+docs.python.jp/
+*/png
+
