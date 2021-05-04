@@ -7,3 +7,5 @@
 [『Pythonによるスクレイピング&機械学習 開発テクニック』のサンプルプログラム](https://github.com/kujirahand/book-python-scraping)
 
 [PythonによるWebスクレイピング](https://github.com/REMitchell/python-scraping)
+
+[Pythonではじめる教師なし学習](https://github.com/aapatel09/handson-unsupervised-learning)
