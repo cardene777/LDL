@@ -9,3 +9,5 @@
 [PythonによるWebスクレイピング](https://github.com/REMitchell/python-scraping)
 
 [Pythonではじめる教師なし学習](https://github.com/aapatel09/handson-unsupervised-learning)
+
+[TensorFlow Developer Certificate in 2021: Zero to Mastery](https://github.com/mrdbourke/tensorflow-deep-learning)
