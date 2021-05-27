@@ -11,3 +11,5 @@
 [Pythonではじめる教師なし学習](https://github.com/aapatel09/handson-unsupervised-learning)
 
 [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://github.com/mrdbourke/tensorflow-deep-learning)
+
+[即戦力になるための ディープラーニング開発 実践ハンズオン](https://gihyo.jp/book/2021/978-4-297-11942-3/support)
