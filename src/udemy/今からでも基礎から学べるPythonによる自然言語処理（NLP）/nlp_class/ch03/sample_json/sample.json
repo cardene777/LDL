@@ -1,0 +1,28 @@
+{
+    "team_name": "読売ジャイアンツ",
+    "home_stadium": "東京ドーム",
+    "director": "原辰徳",
+    "player": {
+        "0": {
+            "player_name": "増田大輝",
+            "position": "内野手",
+            "pitching_batting": "右投右打",
+            "height": 172,
+            "weight": 68
+        },
+        "2": {
+            "player_name": "陽岱鋼",
+            "position": "外野手",
+            "pitching_batting": "右投右打",
+            "height": 184,
+            "weight": 89
+        },
+        "00": {
+            "player_name": "吉川大幾",
+            "position": "内野手",
+            "pitching_batting": "右投右打",
+            "height": 175,
+            "weight": 78
+        }
+    }
+}

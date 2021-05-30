@@ -1,0 +1,9 @@
+# ユーザ辞書への追加
+辞書をコンパイルする。$ /usr/local/libexec/mecab/mecab-dict-index –dシステム辞書のディレクトリ -u 出力されるdicファイル名 -f csvの文字コード -t  辞書の文字コード 作成したcsv
+$ /usr/local/libexec/mecab/mecab-dict-index \
+-d/usr/local/lib/mecab/dic/ipadic \
+-u dic_baseball.dic \
+-f utf-8 -t utf-8 \
+dic_baseball_cost.csv
+/usr/local/lib/mecab/dic/ipadic/dicrc or /usr/local/etc/mecabrc に以下を追加
+userdic = 作成したdicファイルのフルパス。複数ある場合は,区切り

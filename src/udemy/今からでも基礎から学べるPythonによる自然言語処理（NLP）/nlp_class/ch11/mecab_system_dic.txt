@@ -1,0 +1,10 @@
+# システム辞書への追加
+システム辞書の配下に追加したいCSVを追加
+$ cp -i dic_baseball_cost.csv ./mecab-ipadic-2.7.0-20070801
+$ cd mecab-ipadic-2.7.0-20070801
+
+システム辞書を再コンパイルする
+$ make clean
+$ ./configure
+$ make
+$ sudo make install
