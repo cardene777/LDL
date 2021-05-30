@@ -1,0 +1,10 @@
+# WSLのインストール
+・Windowsマークのところで右クリック>アプリと機能を選択する
+・プログラムと機能を選択する
+・Windowsの機能の有効化または無効化を選択する
+・Windows Subsystem for Linuxにチェック。
+・Microsoft Storeでubuntuを検索してインストール
+
+$ sudo apt-get update
+$ sudo apt install build-essential
+$ sudo apt-get install nkf

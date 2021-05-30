@@ -1,0 +1,14 @@
+コスト計算用のモデルファイルをダウンロードする。
+https://drive.google.com/drive/folders/0B4y35FiV1wh7fjQ5SkJETEJEYzlqcUY4WUlpZmR4dDlJMWI5ZUlXN2xZN2s2b0pqT3hMbTQ
+$ bunzip2 mecab-ipadic-2.7.0-20070801.model.bz2
+モデルをutf-8に変換する
+$ nkf --overwrite -w mecab-ipadic-2.7.0-20070801.model
+モデルをエディタで開いてcharsetをeuc-jpからutf-8に変更する。
+
+モデルを使ってコストを推定する
+$ mecab-dict-index -m ＜モデルファイル＞ -d  ＜IPA辞書のディレクトリ＞ -u ＜コスト推定済のCSVファイルの保存先＞ -f utf8 -t utf8 -a ＜作成した追加単語のCSVファイル＞
+$ /usr/local/libexec/mecab/mecab-dict-index -m mecab-ipadic-2.7.0-20070801.model \
+-d ./mecab-ipadic-2.7.0-20070801 \
+-u dic_baseball_cost.csv \
+-f utf8 -t utf8 \
+-a dic_baseball.csv

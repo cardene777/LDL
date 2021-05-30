@@ -1,0 +1,32 @@
+# Source
+https://taku910.github.io/mecab/
+
+# MeCab
+$ tar zxfv mecab-0.996.tar.gz
+$ cd ./mecab-0.996
+$ ./configure
+$ make
+$ make check
+$ sudo make install
+
+もし、下記エラーが出た場合は
+$ sudo ldconfig
+を実行する。
+
+/usr/local/libexec/mecab/mecab-dict-index: error while loading shared libraries: libmecab.so.2: cannot open shared object file: No such file or directory
+
+
+# ipadic
+$ tar zxfv mecab-ipadic-2.7.0-20070801.tar.gz
+$ nkf --overwrite -w mecab-ipadic-2.7.0-20070801/*
+$ cd ./mecab-ipadic-2.7.0-20070801
+・dicrcファイルを開き下記を書き換える
+config-charset = EUC-JP→UTF-8
+$ ./configure
+・Makefileを開き下記を書き換える
+matrix.bin char.bin sys.dic unk.dic:
+        $(mecab_dict_index) -d . -o . -f utf8 -t utf8
+        echo To enable dictionary, rewrite /usr/local/etc/mecabrc as \"dicrc = /usr/local/lib/mecab/dic/ipadic\"
+$ make
+$ sudo make install
+
