@@ -6,3 +6,4 @@ docs.python.jp/
 */png
 models/
 __pycache__/
+.idea/
