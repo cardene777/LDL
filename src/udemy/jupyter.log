@@ -1,0 +1,1369 @@
+[I 18:59:31.098 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 18:59:31.098 NotebookApp] The port 8888 is already in use, trying another port.
+[I 18:59:31.099 NotebookApp] Serving notebooks from local directory: /Users/akira/Desktop/local/develop/LDL/src/udemy
+[I 18:59:31.099 NotebookApp] Jupyter Notebook 6.4.0 is running at:
+[I 18:59:31.099 NotebookApp] http://localhost:8889/?token=f0d03d02c624265846ccc2701ba8cf1a0d4d4dd8e9bfff6b
+[I 18:59:31.099 NotebookApp]  or http://127.0.0.1:8889/?token=f0d03d02c624265846ccc2701ba8cf1a0d4d4dd8e9bfff6b
+[I 18:59:31.099 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:59:31.102 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/akira/Library/Jupyter/runtime/nbserver-46426-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=f0d03d02c624265846ccc2701ba8cf1a0d4d4dd8e9bfff6b
+     or http://127.0.0.1:8889/?token=f0d03d02c624265846ccc2701ba8cf1a0d4d4dd8e9bfff6b
+[W 18:59:32.818 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'rubberband/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/rubberband/rubberband.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/rubberband/rubberband.yaml'
+[W 18:59:32.819 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'scroll_down/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/scroll_down/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/scroll_down/config.yaml'
+[W 18:59:32.820 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hinterland/hinterland' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hinterland/hinterland.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hinterland/hinterland.yaml'
+[W 18:59:32.820 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'snippets/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/snippets/snippets.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/snippets/snippets.yaml'
+[W 18:59:32.820 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'toggle_all_line_numbers/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/toggle_all_line_numbers/main.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/toggle_all_line_numbers/main.yaml'
+[W 18:59:32.821 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'notify/notify' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/notify/notify.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/notify/notify.yaml'
+[W 18:59:32.822 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'runtools/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/runtools/runtools.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/runtools/runtools.yaml'
+[W 18:59:32.822 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'tree-filter/index' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/tree-filter/tree-filter.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/tree-filter/tree-filter.yaml'
+[W 18:59:32.823 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'table_beautifier/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/table_beautifier/table_beautifier.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/table_beautifier/table_beautifier.yaml'
+[W 18:59:32.823 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'freeze/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/freeze/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/freeze/config.yaml'
+[W 18:59:32.823 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'exercise2/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/exercise2/exercise2.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/exercise2/exercise2.yaml'
+[W 18:59:32.824 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'execution_dependencies/execution_dependencies' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/execution_dependencies/execution_dependencies.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/execution_dependencies/execution_dependencies.yml'
+[W 18:59:32.824 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'skill/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/skill/skill.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/skill/skill.yaml'
+[W 18:59:32.824 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'splitcell/splitcell' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/splitcell/splitcell.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/splitcell/splitcell.yaml'
+[W 18:59:32.825 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'autosavetime/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/autosavetime/autosavetime.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/autosavetime/autosavetime.yaml'
+[W 18:59:32.825 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'select_keymap/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/select_keymap/select_keymap.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/select_keymap/select_keymap.yaml'
+[W 18:59:32.826 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'livemdpreview/livemdpreview' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/livemdpreview/livemdpreview.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/livemdpreview/livemdpreview.yml'
+[W 18:59:32.826 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'gist_it/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/gist_it/gist_it.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/gist_it/gist_it.yaml'
+[W 18:59:32.826 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'cell_filter/cell_filter' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/cell_filter/cell_filter.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/cell_filter/cell_filter.yml'
+[W 18:59:32.827 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'scratchpad/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/scratchpad/scratchpad.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/scratchpad/scratchpad.yaml'
+[W 18:59:32.828 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'toc2/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/toc2/toc2.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/toc2/toc2.yaml'
+[W 18:59:32.829 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'nbTranslate/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/nbTranslate/nbTranslate.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/nbTranslate/nbTranslate.yaml'
+[W 18:59:32.830 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'equation-numbering/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/equation-numbering/info.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/equation-numbering/info.yaml'
+[W 18:59:32.830 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'navigation-hotkeys/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/navigation-hotkeys/hotkeys.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/navigation-hotkeys/hotkeys.yaml'
+[W 18:59:32.831 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'snippets_menu/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/snippets_menu/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/snippets_menu/config.yaml'
+[W 18:59:32.832 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'printview/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/printview/printview.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/printview/printview.yaml'
+[W 18:59:32.833 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'export_embedded/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/export_embedded/export_embedded.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/export_embedded/export_embedded.yaml'
+[W 18:59:32.833 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'autoscroll/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/autoscroll/autoscroll.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/autoscroll/autoscroll.yaml'
+[W 18:59:32.834 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_input/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_input/hide-input.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_input/hide-input.yaml'
+[W 18:59:32.834 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_input_all/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_input_all/hide_input_all.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_input_all/hide_input_all.yaml'
+[W 18:59:32.834 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'keyboard_shortcut_editor/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/keyboard_shortcut_editor/keyboard_shortcut_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/keyboard_shortcut_editor/keyboard_shortcut_editor.yaml'
+[W 18:59:32.835 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'help_panel/help_panel' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/help_panel/help_panel.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/help_panel/help_panel.yaml'
+[W 18:59:32.835 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'move_selected_cells/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/move_selected_cells/move_selected_cells.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/move_selected_cells/move_selected_cells.yaml'
+[W 18:59:32.835 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'zenmode/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/zenmode/zenmode.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/zenmode/zenmode.yaml'
+[W 18:59:32.836 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'skip-traceback/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/skip-traceback/skip-traceback.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/skip-traceback/skip-traceback.yaml'
+[W 18:59:32.837 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'python-markdown/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/python-markdown/python-markdown.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/python-markdown/python-markdown.yaml'
+[W 18:59:32.837 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codefolding/edit' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codefolding/codefolding_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codefolding/codefolding_editor.yaml'
+[W 18:59:32.837 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codefolding/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codefolding/codefolding.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codefolding/codefolding.yaml'
+[W 18:59:32.839 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'collapsible_headings/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/collapsible_headings/collapsible_headings.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/collapsible_headings/collapsible_headings.yaml'
+[W 18:59:32.839 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'exercise/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/exercise/exercise.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/exercise/exercise.yaml'
+[W 18:59:32.840 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codemirror_mode_extensions/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codemirror_mode_extensions/codemirror_mode_extensions.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codemirror_mode_extensions/codemirror_mode_extensions.yaml'
+[W 18:59:32.840 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'ruler/edit' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/ruler/ruler_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/ruler/ruler_editor.yaml'
+[W 18:59:32.840 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'ruler/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/ruler/ruler.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/ruler/ruler.yaml'
+[W 18:59:32.842 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'highlight_selected_word/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/highlight_selected_word/configurator.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/highlight_selected_word/configurator.yaml'
+[W 18:59:32.842 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'contrib_nbextensions_help_item/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/contrib_nbextensions_help_item/contrib_nbextensions_help_item.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/contrib_nbextensions_help_item/contrib_nbextensions_help_item.yaml'
+[W 18:59:32.843 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'datestamper/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/datestamper/main.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/datestamper/main.yaml'
+[W 18:59:32.843 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'init_cell/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/init_cell/init_cell.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/init_cell/init_cell.yaml'
+[W 18:59:32.844 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'limit_output/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/limit_output/limit-output.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/limit_output/limit-output.yaml'
+[W 18:59:32.844 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'qtconsole/qtconsole' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/qtconsole/qtconsole.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/qtconsole/qtconsole.yaml'
+[W 18:59:32.844 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'addbefore/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/addbefore/addbefore.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/addbefore/addbefore.yaml'
+[W 18:59:32.845 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'highlighter/highlighter' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/highlighter/highlighter.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/highlighter/highlighter.yaml'
+[W 18:59:32.845 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'comment-uncomment/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/comment-uncomment/comment-uncomment.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/comment-uncomment/comment-uncomment.yaml'
+[W 18:59:32.845 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_font_size/code_font_size' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_font_size/code_font_size.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_font_size/code_font_size.yaml'
+[W 18:59:32.846 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'varInspector/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/varInspector/varInspector.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/varInspector/varInspector.yaml'
+[W 18:59:32.847 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'latex_envs/latex_envs' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/latex_envs/latex_envs.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/latex_envs/latex_envs.yaml'
+[W 18:59:32.848 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'execute_time/ExecuteTime' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/execute_time/ExecuteTime.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/execute_time/ExecuteTime.yaml'
+[W 18:59:32.849 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'spellchecker/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/spellchecker/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/spellchecker/config.yaml'
+[W 18:59:32.850 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/2to3' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/2to3.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/2to3.yaml'
+[W 18:59:32.850 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/code_prettify' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/code_prettify.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/code_prettify.yaml'
+[W 18:59:32.851 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/autopep8' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/autopep8.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/autopep8.yaml'
+[W 18:59:32.851 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/isort' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/isort.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/isort.yaml'
+[W 18:59:32.851 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'load_tex_macros/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/load_tex_macros/load_tex_macros.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/load_tex_macros/load_tex_macros.yaml'
+[W 18:59:32.852 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_header/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_header/hide_header.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_header/hide_header.yaml'
+[W 19:01:46.173 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'rubberband/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/rubberband/rubberband.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/rubberband/rubberband.yaml'
+[W 19:01:46.174 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'scroll_down/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/scroll_down/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/scroll_down/config.yaml'
+[W 19:01:46.175 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hinterland/hinterland' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hinterland/hinterland.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hinterland/hinterland.yaml'
+[W 19:01:46.175 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'snippets/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/snippets/snippets.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/snippets/snippets.yaml'
+[W 19:01:46.175 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'toggle_all_line_numbers/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/toggle_all_line_numbers/main.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/toggle_all_line_numbers/main.yaml'
+[W 19:01:46.176 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'notify/notify' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/notify/notify.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/notify/notify.yaml'
+[W 19:01:46.176 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'runtools/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/runtools/runtools.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/runtools/runtools.yaml'
+[W 19:01:46.177 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'tree-filter/index' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/tree-filter/tree-filter.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/tree-filter/tree-filter.yaml'
+[W 19:01:46.177 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'table_beautifier/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/table_beautifier/table_beautifier.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/table_beautifier/table_beautifier.yaml'
+[W 19:01:46.177 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'freeze/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/freeze/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/freeze/config.yaml'
+[W 19:01:46.178 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'exercise2/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/exercise2/exercise2.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/exercise2/exercise2.yaml'
+[W 19:01:46.178 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'execution_dependencies/execution_dependencies' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/execution_dependencies/execution_dependencies.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/execution_dependencies/execution_dependencies.yml'
+[W 19:01:46.178 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'skill/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/skill/skill.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/skill/skill.yaml'
+[W 19:01:46.179 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'splitcell/splitcell' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/splitcell/splitcell.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/splitcell/splitcell.yaml'
+[W 19:01:46.179 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'autosavetime/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/autosavetime/autosavetime.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/autosavetime/autosavetime.yaml'
+[W 19:01:46.180 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'select_keymap/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/select_keymap/select_keymap.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/select_keymap/select_keymap.yaml'
+[W 19:01:46.180 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'livemdpreview/livemdpreview' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/livemdpreview/livemdpreview.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/livemdpreview/livemdpreview.yml'
+[W 19:01:46.181 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'gist_it/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/gist_it/gist_it.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/gist_it/gist_it.yaml'
+[W 19:01:46.181 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'cell_filter/cell_filter' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/cell_filter/cell_filter.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/cell_filter/cell_filter.yml'
+[W 19:01:46.181 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'scratchpad/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/scratchpad/scratchpad.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/scratchpad/scratchpad.yaml'
+[W 19:01:46.183 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'toc2/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/toc2/toc2.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/toc2/toc2.yaml'
+[W 19:01:46.183 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'nbTranslate/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/nbTranslate/nbTranslate.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/nbTranslate/nbTranslate.yaml'
+[W 19:01:46.184 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'equation-numbering/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/equation-numbering/info.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/equation-numbering/info.yaml'
+[W 19:01:46.184 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'navigation-hotkeys/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/navigation-hotkeys/hotkeys.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/navigation-hotkeys/hotkeys.yaml'
+[W 19:01:46.185 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'snippets_menu/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/snippets_menu/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/snippets_menu/config.yaml'
+[W 19:01:46.185 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'printview/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/printview/printview.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/printview/printview.yaml'
+[W 19:01:46.186 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'export_embedded/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/export_embedded/export_embedded.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/export_embedded/export_embedded.yaml'
+[W 19:01:46.186 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'autoscroll/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/autoscroll/autoscroll.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/autoscroll/autoscroll.yaml'
+[W 19:01:46.187 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_input/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_input/hide-input.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_input/hide-input.yaml'
+[W 19:01:46.187 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_input_all/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_input_all/hide_input_all.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_input_all/hide_input_all.yaml'
+[W 19:01:46.187 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'keyboard_shortcut_editor/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/keyboard_shortcut_editor/keyboard_shortcut_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/keyboard_shortcut_editor/keyboard_shortcut_editor.yaml'
+[W 19:01:46.187 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'help_panel/help_panel' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/help_panel/help_panel.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/help_panel/help_panel.yaml'
+[W 19:01:46.188 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'move_selected_cells/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/move_selected_cells/move_selected_cells.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/move_selected_cells/move_selected_cells.yaml'
+[W 19:01:46.188 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'zenmode/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/zenmode/zenmode.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/zenmode/zenmode.yaml'
+[W 19:01:46.189 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'skip-traceback/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/skip-traceback/skip-traceback.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/skip-traceback/skip-traceback.yaml'
+[W 19:01:46.189 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'python-markdown/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/python-markdown/python-markdown.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/python-markdown/python-markdown.yaml'
+[W 19:01:46.189 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codefolding/edit' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codefolding/codefolding_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codefolding/codefolding_editor.yaml'
+[W 19:01:46.190 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codefolding/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codefolding/codefolding.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codefolding/codefolding.yaml'
+[W 19:01:46.191 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'collapsible_headings/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/collapsible_headings/collapsible_headings.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/collapsible_headings/collapsible_headings.yaml'
+[W 19:01:46.192 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'exercise/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/exercise/exercise.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/exercise/exercise.yaml'
+[W 19:01:46.192 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codemirror_mode_extensions/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codemirror_mode_extensions/codemirror_mode_extensions.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codemirror_mode_extensions/codemirror_mode_extensions.yaml'
+[W 19:01:46.192 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'ruler/edit' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/ruler/ruler_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/ruler/ruler_editor.yaml'
+[W 19:01:46.193 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'ruler/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/ruler/ruler.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/ruler/ruler.yaml'
+[W 19:01:46.194 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'highlight_selected_word/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/highlight_selected_word/configurator.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/highlight_selected_word/configurator.yaml'
+[W 19:01:46.195 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'contrib_nbextensions_help_item/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/contrib_nbextensions_help_item/contrib_nbextensions_help_item.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/contrib_nbextensions_help_item/contrib_nbextensions_help_item.yaml'
+[W 19:01:46.195 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'datestamper/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/datestamper/main.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/datestamper/main.yaml'
+[W 19:01:46.195 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'init_cell/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/init_cell/init_cell.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/init_cell/init_cell.yaml'
+[W 19:01:46.196 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'limit_output/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/limit_output/limit-output.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/limit_output/limit-output.yaml'
+[W 19:01:46.196 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'qtconsole/qtconsole' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/qtconsole/qtconsole.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/qtconsole/qtconsole.yaml'
+[W 19:01:46.197 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'addbefore/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/addbefore/addbefore.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/addbefore/addbefore.yaml'
+[W 19:01:46.197 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'highlighter/highlighter' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/highlighter/highlighter.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/highlighter/highlighter.yaml'
+[W 19:01:46.197 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'comment-uncomment/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/comment-uncomment/comment-uncomment.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/comment-uncomment/comment-uncomment.yaml'
+[W 19:01:46.197 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_font_size/code_font_size' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_font_size/code_font_size.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_font_size/code_font_size.yaml'
+[W 19:01:46.198 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'varInspector/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/varInspector/varInspector.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/varInspector/varInspector.yaml'
+[W 19:01:46.199 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'latex_envs/latex_envs' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/latex_envs/latex_envs.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/latex_envs/latex_envs.yaml'
+[W 19:01:46.200 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'execute_time/ExecuteTime' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/execute_time/ExecuteTime.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/execute_time/ExecuteTime.yaml'
+[W 19:01:46.200 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'spellchecker/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/spellchecker/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/spellchecker/config.yaml'
+[W 19:01:46.201 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/2to3' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/2to3.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/2to3.yaml'
+[W 19:01:46.202 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/code_prettify' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/code_prettify.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/code_prettify.yaml'
+[W 19:01:46.203 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/autopep8' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/autopep8.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/autopep8.yaml'
+[W 19:01:46.203 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/isort' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/isort.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/isort.yaml'
+[W 19:01:46.203 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'load_tex_macros/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/load_tex_macros/load_tex_macros.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/load_tex_macros/load_tex_macros.yaml'
+[W 19:01:46.203 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_header/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_header/hide_header.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_header/hide_header.yaml'
+[I 19:01:49.310 NotebookApp] Creating new notebook in /julia
+[W 19:01:49.529 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.535 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.558 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.561 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.573 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.579 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.592 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.598 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.620 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.641 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.729 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.733 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.790 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.796 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.817 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.821 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.830 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.837 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.848 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.854 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.876 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.880 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.970 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 19:01:49.974 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 19:01:50.243 NotebookApp] Kernel started: 00eb1b58-e6cf-4568-acf8-4b2518166688, name: julia-1.6
+[I 19:01:55.188 NotebookApp] Adapting from protocol version 5.0 (kernel 00eb1b58-e6cf-4568-acf8-4b2518166688) to 5.3 (client).
+[I 19:03:50.207 NotebookApp] Saving file at /julia/Untitled.ipynb
+[I 19:05:52.356 NotebookApp] Saving file at /julia/Untitled.ipynb
+[I 19:06:50.561 NotebookApp] Starting buffering for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 19:06:52.215 NotebookApp] Adapting from protocol version 5.0 (kernel 00eb1b58-e6cf-4568-acf8-4b2518166688) to 5.3 (client).
+[I 19:06:52.216 NotebookApp] Restoring connection for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 07:36:21.780 NotebookApp] Starting buffering for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 07:36:23.223 NotebookApp] Adapting from protocol version 5.0 (kernel 00eb1b58-e6cf-4568-acf8-4b2518166688) to 5.3 (client).
+[I 07:36:23.226 NotebookApp] Restoring connection for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 08:17:43.614 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:18:56.546 NotebookApp] Starting buffering for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+Starting kernel event loops.
+[I 08:18:59.357 NotebookApp] Kernel restarted: 00eb1b58-e6cf-4568-acf8-4b2518166688
+[I 08:18:59.366 NotebookApp] Adapting from protocol version 5.0 (kernel 00eb1b58-e6cf-4568-acf8-4b2518166688) to 5.3 (client).
+[I 08:18:59.367 NotebookApp] Restoring connection for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 08:18:59.367 NotebookApp] Replaying 1 buffered messages
+[I 08:19:19.134 NotebookApp] Starting buffering for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+Starting kernel event loops.
+[I 08:19:21.936 NotebookApp] Kernel restarted: 00eb1b58-e6cf-4568-acf8-4b2518166688
+[I 08:19:21.945 NotebookApp] Adapting from protocol version 5.0 (kernel 00eb1b58-e6cf-4568-acf8-4b2518166688) to 5.3 (client).
+[I 08:19:21.946 NotebookApp] Restoring connection for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[W 08:19:26.488 NotebookApp] Nudge: attempt 10 on kernel 00eb1b58-e6cf-4568-acf8-4b2518166688
+[I 08:19:42.665 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:21:42.417 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:23:42.409 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:25:42.401 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:27:42.985 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:29:43.528 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:38:45.086 NotebookApp] Starting buffering for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+Starting kernel event loops.
+[I 08:38:47.898 NotebookApp] Kernel restarted: 00eb1b58-e6cf-4568-acf8-4b2518166688
+[I 08:38:47.915 NotebookApp] Adapting from protocol version 5.0 (kernel 00eb1b58-e6cf-4568-acf8-4b2518166688) to 5.3 (client).
+[I 08:38:47.916 NotebookApp] Restoring connection for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 08:38:48.549 NotebookApp] Creating new notebook in /julia
+[W 08:38:48.673 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.682 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.702 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.706 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.715 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.720 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.732 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.737 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.760 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.763 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.844 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.848 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.893 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.898 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.918 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.921 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.930 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.936 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.947 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.953 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.973 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:48.976 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:49.053 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 08:38:49.056 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 08:38:49.266 NotebookApp] Kernel started: eb745b50-2382-44e7-b8ad-9161fb8853ff, name: julia-1.6
+[W 08:38:52.605 NotebookApp] Nudge: attempt 10 on kernel 00eb1b58-e6cf-4568-acf8-4b2518166688
+[I 08:38:54.474 NotebookApp] Adapting from protocol version 5.0 (kernel eb745b50-2382-44e7-b8ad-9161fb8853ff) to 5.3 (client).
+[I 08:39:04.005 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:39:05.551 NotebookApp] Saving file at /julia/julia01.ipynb
+[I 08:39:06.785 NotebookApp] Starting buffering for 00eb1b58-e6cf-4568-acf8-4b2518166688:983e279978e14b0d806d315fef4f83fa
+[I 08:40:50.319 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:42:49.249 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:44:49.256 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:46:49.232 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:48:49.275 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:50:50.718 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:52:49.222 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:54:50.031 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 08:58:49.207 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 09:00:49.192 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 09:00:54.451 NotebookApp] Starting buffering for eb745b50-2382-44e7-b8ad-9161fb8853ff:f75ffd82f162480496060e7a2fb874ae
+Starting kernel event loops.
+[I 09:00:57.269 NotebookApp] Kernel restarted: eb745b50-2382-44e7-b8ad-9161fb8853ff
+[I 09:00:57.279 NotebookApp] Adapting from protocol version 5.0 (kernel eb745b50-2382-44e7-b8ad-9161fb8853ff) to 5.3 (client).
+[I 09:00:57.279 NotebookApp] Restoring connection for eb745b50-2382-44e7-b8ad-9161fb8853ff:f75ffd82f162480496060e7a2fb874ae
+[I 09:00:57.279 NotebookApp] Replaying 1 buffered messages
+[I 09:01:11.107 NotebookApp] Saving file at /julia/julia02.ipynb
+[I 09:01:12.644 NotebookApp] Starting buffering for eb745b50-2382-44e7-b8ad-9161fb8853ff:f75ffd82f162480496060e7a2fb874ae
+[I 09:01:15.216 NotebookApp] Creating new notebook in /julia
+[W 09:01:15.340 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.347 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.369 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.372 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.382 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.387 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.399 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.404 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.427 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.430 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.517 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.521 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.570 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.575 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.596 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.600 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.609 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.615 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.627 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.633 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.655 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.658 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.739 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:01:15.743 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 09:01:15.983 NotebookApp] Kernel started: c67087a2-acd0-4ad3-aae5-56bf4f5af26e, name: julia-1.6
+[I 09:01:20.932 NotebookApp] Adapting from protocol version 5.0 (kernel c67087a2-acd0-4ad3-aae5-56bf4f5af26e) to 5.3 (client).
+[I 09:03:15.950 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:05:15.938 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:07:15.930 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:09:15.933 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:11:16.617 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:13:15.913 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:15:14.500 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:29:14.173 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:31:14.145 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:33:14.167 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:35:14.134 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:37:14.156 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:39:14.710 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:41:53.969 NotebookApp] Starting buffering for c67087a2-acd0-4ad3-aae5-56bf4f5af26e:2641ef6e04a949db902f66a8f43510d8
+Starting kernel event loops.
+[I 09:41:56.786 NotebookApp] Kernel restarted: c67087a2-acd0-4ad3-aae5-56bf4f5af26e
+[I 09:41:56.803 NotebookApp] Adapting from protocol version 5.0 (kernel c67087a2-acd0-4ad3-aae5-56bf4f5af26e) to 5.3 (client).
+[I 09:41:56.804 NotebookApp] Restoring connection for c67087a2-acd0-4ad3-aae5-56bf4f5af26e:2641ef6e04a949db902f66a8f43510d8
+[I 09:41:56.972 NotebookApp] Creating new notebook in /julia
+[W 09:41:57.131 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.139 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.161 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.165 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.174 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.180 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.192 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.198 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.219 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.223 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.305 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.309 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.354 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.359 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.380 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.383 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.392 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.398 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.409 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.414 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.435 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.439 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.519 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:41:57.523 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 09:41:57.751 NotebookApp] Kernel started: e3b290a2-6fd6-4dca-9716-3b6811c185ad, name: julia-1.6
+[W 09:42:01.570 NotebookApp] Nudge: attempt 10 on kernel c67087a2-acd0-4ad3-aae5-56bf4f5af26e
+[I 09:42:03.073 NotebookApp] Adapting from protocol version 5.0 (kernel e3b290a2-6fd6-4dca-9716-3b6811c185ad) to 5.3 (client).
+[I 09:42:06.283 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:42:08.933 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:42:10.411 NotebookApp] Saving file at /julia/Julia03.ipynb
+[I 09:42:11.710 NotebookApp] Starting buffering for c67087a2-acd0-4ad3-aae5-56bf4f5af26e:2641ef6e04a949db902f66a8f43510d8
+[I 09:43:59.219 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:45:59.827 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:48:01.401 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:50:00.733 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:52:00.791 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:53:59.761 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:56:00.666 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 09:58:00.757 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:00:00.260 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:01:59.789 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:03:59.779 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:05:59.787 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:08:00.656 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:10:00.542 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:12:01.351 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:17:44.900 NotebookApp] Starting buffering for e3b290a2-6fd6-4dca-9716-3b6811c185ad:c9c8271c69384eba91b46a051022b910
+Starting kernel event loops.
+[I 10:17:47.721 NotebookApp] Kernel restarted: e3b290a2-6fd6-4dca-9716-3b6811c185ad
+[I 10:17:47.730 NotebookApp] Creating new notebook in /julia
+[I 10:17:47.741 NotebookApp] Adapting from protocol version 5.0 (kernel e3b290a2-6fd6-4dca-9716-3b6811c185ad) to 5.3 (client).
+[I 10:17:47.742 NotebookApp] Restoring connection for e3b290a2-6fd6-4dca-9716-3b6811c185ad:c9c8271c69384eba91b46a051022b910
+[W 10:17:47.881 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.888 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.908 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.911 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.920 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.925 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.936 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.941 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.961 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:47.965 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.047 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.050 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.095 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.099 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.120 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.123 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.133 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.138 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.150 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.171 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.191 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.195 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.275 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:17:48.279 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 10:17:48.535 NotebookApp] Kernel started: 5acf112f-cf2f-46e8-bfbb-17fd17710df2, name: julia-1.6
+[W 10:17:52.327 NotebookApp] Nudge: attempt 10 on kernel e3b290a2-6fd6-4dca-9716-3b6811c185ad
+[I 10:17:53.831 NotebookApp] Adapting from protocol version 5.0 (kernel 5acf112f-cf2f-46e8-bfbb-17fd17710df2) to 5.3 (client).
+[I 10:18:00.491 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:19:49.882 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:21:50.292 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:23:49.943 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:25:48.542 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:27:50.342 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:31:49.488 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:33:49.782 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:35:48.511 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:37:35.322 NotebookApp] Starting buffering for 5acf112f-cf2f-46e8-bfbb-17fd17710df2:55da52921c2148fa8732bf93bf12c75f
+Starting kernel event loops.
+[I 10:37:38.140 NotebookApp] Kernel restarted: 5acf112f-cf2f-46e8-bfbb-17fd17710df2
+[I 10:37:38.146 NotebookApp] Adapting from protocol version 5.0 (kernel 5acf112f-cf2f-46e8-bfbb-17fd17710df2) to 5.3 (client).
+[I 10:37:38.147 NotebookApp] Restoring connection for 5acf112f-cf2f-46e8-bfbb-17fd17710df2:55da52921c2148fa8732bf93bf12c75f
+[I 10:37:38.147 NotebookApp] Replaying 1 buffered messages
+[I 10:37:39.519 NotebookApp] Saving file at /julia/Julia04.ipynb
+[I 10:37:40.690 NotebookApp] Starting buffering for e3b290a2-6fd6-4dca-9716-3b6811c185ad:c9c8271c69384eba91b46a051022b910
+[I 10:37:43.278 NotebookApp] Creating new notebook in /julia
+[W 10:37:43.392 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.399 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.419 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.422 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.431 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.436 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.448 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.454 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.476 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.480 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.557 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.561 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.605 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.609 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.628 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.631 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.640 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.645 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.655 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.661 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.680 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.683 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.755 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:37:43.758 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 10:37:44.012 NotebookApp] Kernel started: e978a89e-df61-4bba-a945-4cc30bd4df4f, name: julia-1.6
+[I 10:37:49.107 NotebookApp] Adapting from protocol version 5.0 (kernel e978a89e-df61-4bba-a945-4cc30bd4df4f) to 5.3 (client).
+[I 10:37:49.410 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:37:51.689 NotebookApp] Saving file at /julia/Julia05.ipynb
+[I 10:37:53.191 NotebookApp] Starting buffering for 5acf112f-cf2f-46e8-bfbb-17fd17710df2:55da52921c2148fa8732bf93bf12c75f
+[I 10:39:43.980 NotebookApp] Saving file at /julia/Julia06.ipynb
+[I 10:41:44.338 NotebookApp] Saving file at /julia/Julia06.ipynb
+[I 10:43:45.632 NotebookApp] Saving file at /julia/Julia06.ipynb
+[I 10:44:50.260 NotebookApp] Saving file at /julia/Julia06.ipynb
+[I 10:44:54.204 NotebookApp] Starting buffering for e978a89e-df61-4bba-a945-4cc30bd4df4f:845767206d96486d8d90eb3757ed60e2
+[I 10:44:56.561 NotebookApp] Creating new notebook in /julia
+[W 10:44:56.694 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.719 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.739 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.742 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.751 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.756 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.768 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.773 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.793 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.796 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.874 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.878 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.920 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.929 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.947 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.950 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.959 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.965 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.976 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:56.981 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:57.000 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:57.003 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:57.077 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 10:44:57.080 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 10:44:57.290 NotebookApp] Kernel started: f69905a2-775a-4de1-9ede-3c1c295fc3fb, name: julia-1.6
+[I 10:45:02.293 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 10:46:58.542 NotebookApp] Saving file at /julia/Julia08.ipynb
+[I 10:52:58.044 NotebookApp] Saving file at /julia/Julia08.ipynb
+[I 10:54:57.846 NotebookApp] Saving file at /julia/Julia08.ipynb
+[I 10:56:58.303 NotebookApp] Saving file at /julia/Julia08.ipynb
+[I 11:02:57.850 NotebookApp] Saving file at /julia/Julia08.ipynb
+[I 11:04:57.256 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:06:57.249 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:08:57.247 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:10:57.378 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:12:57.252 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:14:57.233 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:16:57.647 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:18:57.231 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:20:57.470 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:22:57.562 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:24:57.235 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:26:57.230 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:28:57.219 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:30:57.481 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:39:40.460 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:39:42.551 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:39:42.554 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:51:23.314 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:51:45.155 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[32m[1m    Updating[22m[39m registry at `~/.julia/registries/General`
+[32m[1m   Resolving[22m[39m package versions...
+[32m[1m   Installed[22m[39m Reexport ────────── v1.1.0
+[32m[1m   Installed[22m[39m Colors ──────────── v0.12.8
+[32m[1m   Installed[22m[39m PyPlot ──────────── v2.9.0
+[32m[1m   Installed[22m[39m LaTeXStrings ────── v1.2.1
+[32m[1m   Installed[22m[39m FixedPointNumbers ─ v0.8.4
+[32m[1m   Installed[22m[39m MacroTools ──────── v0.5.6
+[32m[1m   Installed[22m[39m PyCall ──────────── v1.92.3
+[32m[1m   Installed[22m[39m ColorTypes ──────── v0.11.0
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Project.toml`
+ [90m [d330b81b] [39m[92m+ PyPlot v2.9.0[39m
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Manifest.toml`
+ [90m [3da002f7] [39m[92m+ ColorTypes v0.11.0[39m
+ [90m [5ae59095] [39m[92m+ Colors v0.12.8[39m
+ [90m [53c48c17] [39m[92m+ FixedPointNumbers v0.8.4[39m
+ [90m [b964fa9f] [39m[92m+ LaTeXStrings v1.2.1[39m
+ [90m [1914dd2f] [39m[92m+ MacroTools v0.5.6[39m
+ [90m [438e738f] [39m[92m+ PyCall v1.92.3[39m
+ [90m [d330b81b] [39m[92m+ PyPlot v2.9.0[39m
+ [90m [189a3867] [39m[92m+ Reexport v1.1.0[39m
+ [90m [37e2e46d] [39m[92m+ LinearAlgebra[39m
+ [90m [2f01184e] [39m[92m+ SparseArrays[39m
+ [90m [10745b16] [39m[92m+ Statistics[39m
+[32m[1m    Building[22m[39m PyCall → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/169bb8ea6b1b143c5cf57df6d34d022a7b60c6db/build.log`
+[32m[1mPrecompiling[22m[39m project...
+[32m  ✓ [39m[90mLaTeXStrings[39m
+[32m  ✓ [39m[90mReexport[39m
+[32m  ✓ [39m[90mFixedPointNumbers[39m
+[32m  ✓ [39m[90mMacroTools[39m
+[32m  ✓ [39m[90mPyCall[39m
+[32m  ✓ [39m[90mColorTypes[39m
+[32m  ✓ [39m[90mColors[39m
+[32m  ✓ [39mPyPlot
+  8 dependencies successfully precompiled in 12 seconds (15 already precompiled)
+[32m[1m   Resolving[22m[39m package versions...
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Project.toml`
+ [90m [53c48c17] [39m[92m+ FixedPointNumbers v0.8.4[39m
+[32m[1m  No Changes[22m[39m to `~/.julia/environments/v1.6/Manifest.toml`
+Starting kernel event loops.
+[I 11:51:48.077 NotebookApp] Kernel restarted: f69905a2-775a-4de1-9ede-3c1c295fc3fb
+[I 11:51:48.087 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:51:48.087 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:51:48.087 NotebookApp] Replaying 1 buffered messages
+[I 11:52:12.080 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb restarted
+[I 11:53:23.735 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:54:26.460 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+Starting kernel event loops.
+[I 11:54:29.274 NotebookApp] Kernel restarted: f69905a2-775a-4de1-9ede-3c1c295fc3fb
+[I 11:54:29.399 NotebookApp] Kernel restarted: f69905a2-775a-4de1-9ede-3c1c295fc3fb
+[I 11:54:29.406 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:54:29.539 NotebookApp] Kernel restarted: f69905a2-775a-4de1-9ede-3c1c295fc3fb
+[I 11:54:29.544 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:29.545 NotebookApp] Replaying 2 buffered messages
+[W 11:54:29.559 NotebookApp] Replacing stale connection: f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:29.560 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:29.561 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:54:29.561 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[W 11:54:29.576 NotebookApp] Replacing stale connection: f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:29.577 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:29.578 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:54:29.578 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:29.586 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:30.571 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:54:30.572 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:30.588 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:30.590 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:54:30.591 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:31.733 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[91m[1mERROR: [22m[39mLoadError: InterruptException:
+Stacktrace:
+ [1] top-level scope
+[90m   @ [39m[90m~/.julia/packages/IJulia/e8kqU/src/[39m[90;4mkernel.jl:24[0m
+in expression starting at /Users/akira/.julia/packages/IJulia/e8kqU/src/kernel.jl:24
+[0m[0m[I 11:54:32.580 NotebookApp] Kernel restarted: f69905a2-775a-4de1-9ede-3c1c295fc3fb
+[I 11:54:32.587 NotebookApp] Adapting from protocol version 5.0 (kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb) to 5.3 (client).
+[I 11:54:32.587 NotebookApp] Restoring connection for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:54:45.418 NotebookApp] Creating new notebook in /julia
+[W 11:54:45.533 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.542 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.563 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.567 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.578 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.585 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.599 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.606 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.659 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.662 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.748 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.753 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.799 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.804 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.824 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.828 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.837 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.843 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.853 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.859 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.879 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.882 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.961 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 11:54:45.965 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 11:54:46.206 NotebookApp] Kernel started: 933c7c0d-8449-4371-adc3-6737e6bee1d2, name: julia-1.6
+[I 11:54:47.584 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb restarted
+[I 11:54:51.504 NotebookApp] Adapting from protocol version 5.0 (kernel 933c7c0d-8449-4371-adc3-6737e6bee1d2) to 5.3 (client).
+[I 11:54:54.123 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 11:55:23.296 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:55:41.595 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel f69905a2-775a-4de1-9ede-3c1c295fc3fb restarted
+[I 11:56:46.179 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 11:57:16.410 NotebookApp] Saving file at /julia/Julia09.ipynb
+[I 11:57:19.397 NotebookApp] Starting buffering for f69905a2-775a-4de1-9ede-3c1c295fc3fb:235b079e31e54822805c595da2cbe3ef
+[I 11:58:47.751 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:00:47.243 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:02:47.031 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:04:46.172 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:06:46.959 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:07:48.281 NotebookApp] Starting buffering for 933c7c0d-8449-4371-adc3-6737e6bee1d2:eb515da3b8014f44a0b4f8f760865f71
+[I 12:07:49.934 NotebookApp] Adapting from protocol version 5.0 (kernel 933c7c0d-8449-4371-adc3-6737e6bee1d2) to 5.3 (client).
+[I 12:07:49.936 NotebookApp] Restoring connection for 933c7c0d-8449-4371-adc3-6737e6bee1d2:eb515da3b8014f44a0b4f8f760865f71
+[I 12:44:04.027 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:46:03.999 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:48:03.991 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:50:04.019 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:52:04.740 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:54:04.016 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:56:03.990 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:57:25.531 NotebookApp] Saving file at /julia/Julia10.ipynb
+[I 12:57:30.529 NotebookApp] Starting buffering for 933c7c0d-8449-4371-adc3-6737e6bee1d2:eb515da3b8014f44a0b4f8f760865f71
+[I 12:57:39.606 NotebookApp] Kernel shutdown: 00eb1b58-e6cf-4568-acf8-4b2518166688
+Starting kernel event loops.
+[I 12:57:42.400 NotebookApp] Kernel shutdown: eb745b50-2382-44e7-b8ad-9161fb8853ff
+Starting kernel event loops.
+[I 12:57:45.188 NotebookApp] Kernel shutdown: 5acf112f-cf2f-46e8-bfbb-17fd17710df2
+Starting kernel event loops.
+[I 12:57:47.975 NotebookApp] Kernel shutdown: e978a89e-df61-4bba-a945-4cc30bd4df4f
+[32m[1m    Updating[22m[39m registry at `~/.julia/registries/General`
+Starting kernel event loops.
+[I 12:57:50.774 NotebookApp] Kernel shutdown: c67087a2-acd0-4ad3-aae5-56bf4f5af26e
+Starting kernel event loops.
+[I 12:57:53.563 NotebookApp] Kernel shutdown: e3b290a2-6fd6-4dca-9716-3b6811c185ad
+Starting kernel event loops.
+[I 12:57:56.368 NotebookApp] Kernel shutdown: 933c7c0d-8449-4371-adc3-6737e6bee1d2
+[32m[1m    Updating[22m[39m registry at `~/.julia/registries/General`
+[32m[1m   Resolving[22m[39m package versions...
+[32m[1m   Installed[22m[39m PooledArrays ──────────────── v1.2.1
+[32m[1m   Installed[22m[39m DataValueInterfaces ───────── v1.0.0
+[32m[1m   Installed[22m[39m InvertedIndices ───────────── v1.0.0
+[32m[1m   Installed[22m[39m OrderedCollections ────────── v1.4.1
+[32m[1m   Installed[22m[39m TableTraits ───────────────── v1.0.1
+[32m[1m   Installed[22m[39m SortingAlgorithms ─────────── v1.0.0
+[32m[1m   Installed[22m[39m DataStructures ────────────── v0.18.9
+[32m[1m   Installed[22m[39m DataFrames ────────────────── v1.1.1
+[32m[1m   Installed[22m[39m Missings ──────────────────── v1.0.0
+[32m[1m   Installed[22m[39m IteratorInterfaceExtensions ─ v1.0.0
+[32m[1m   Installed[22m[39m Tables ────────────────────── v1.4.3
+[32m[1m   Installed[22m[39m Crayons ───────────────────── v4.0.4
+[32m[1m   Installed[22m[39m Compat ────────────────────── v3.30.0
+[32m[1m   Installed[22m[39m DataAPI ───────────────────── v1.6.0
+[32m[1m   Installed[22m[39m Formatting ────────────────── v0.4.2
+[32m[1m   Installed[22m[39m PrettyTables ──────────────── v1.1.0
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Project.toml`
+ [90m [a93c6f00] [39m[92m+ DataFrames v1.1.1[39m
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Manifest.toml`
+ [90m [34da2185] [39m[92m+ Compat v3.30.0[39m
+ [90m [a8cc5b0e] [39m[92m+ Crayons v4.0.4[39m
+ [90m [9a962f9c] [39m[92m+ DataAPI v1.6.0[39m
+ [90m [a93c6f00] [39m[92m+ DataFrames v1.1.1[39m
+ [90m [864edb3b] [39m[92m+ DataStructures v0.18.9[39m
+ [90m [e2d170a0] [39m[92m+ DataValueInterfaces v1.0.0[39m
+ [90m [59287772] [39m[92m+ Formatting v0.4.2[39m
+ [90m [41ab1584] [39m[92m+ InvertedIndices v1.0.0[39m
+ [90m [82899510] [39m[92m+ IteratorInterfaceExtensions v1.0.0[39m
+ [90m [e1d29d7a] [39m[92m+ Missings v1.0.0[39m
+ [90m [bac558e1] [39m[92m+ OrderedCollections v1.4.1[39m
+ [90m [2dfb63ee] [39m[92m+ PooledArrays v1.2.1[39m
+ [90m [08abe8d2] [39m[92m+ PrettyTables v1.1.0[39m
+ [90m [a2af1166] [39m[92m+ SortingAlgorithms v1.0.0[39m
+ [90m [3783bdb8] [39m[92m+ TableTraits v1.0.1[39m
+ [90m [bd369af6] [39m[92m+ Tables v1.4.3[39m
+ [90m [8bb1440f] [39m[92m+ DelimitedFiles[39m
+ [90m [8ba89e20] [39m[92m+ Distributed[39m
+ [90m [9fa8497b] [39m[92m+ Future[39m
+ [90m [1a1011a3] [39m[92m+ SharedArrays[39m
+[32m[1mPrecompiling[22m[39m project...
+[32m  ✓ [39m[90mDataValueInterfaces[39m
+[32m  ✓ [39m[90mIteratorInterfaceExtensions[39m
+[32m  ✓ [39m[90mDataAPI[39m
+[32m  ✓ [39m[90mFormatting[39m
+[32m  ✓ [39m[90mInvertedIndices[39m
+[32m  ✓ [39m[90mOrderedCollections[39m
+[32m  ✓ [39m[90mCompat[39m
+[32m  ✓ [39m[90mTableTraits[39m
+[32m  ✓ [39m[90mCrayons[39m
+[32m  ✓ [39m[90mMissings[39m
+[32m  ✓ [39m[90mPooledArrays[39m
+[32m  ✓ [39m[90mTables[39m
+[32m  ✓ [39m[90mDataStructures[39m
+[32m  ✓ [39m[90mSortingAlgorithms[39m
+[32m  ✓ [39m[90mPrettyTables[39m
+[32m  ✓ [39mDataFrames
+  16 dependencies successfully precompiled in 21 seconds (23 already precompiled)
+[32m[1m   Resolving[22m[39m package versions...
+[32m[1m   Installed[22m[39m SentinelArrays ─ v1.3.2
+[32m[1m   Installed[22m[39m CSV ──────────── v0.8.5
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Project.toml`
+ [90m [336ed68f] [39m[92m+ CSV v0.8.5[39m
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Manifest.toml`
+ [90m [336ed68f] [39m[92m+ CSV v0.8.5[39m
+ [90m [91c51154] [39m[92m+ SentinelArrays v1.3.2[39m
+[32m[1mPrecompiling[22m[39m project...
+[32m  ✓ [39m[90mSentinelArrays[39m
+[32m  ✓ [39mCSV
+  2 dependencies successfully precompiled in 5 seconds (39 already precompiled)
+[32m[1m   Resolving[22m[39m package versions...
+[32m[1m  No Changes[22m[39m to `~/.julia/environments/v1.6/Project.toml`
+[32m[1m  No Changes[22m[39m to `~/.julia/environments/v1.6/Manifest.toml`
+[32m[1m   Resolving[22m[39m package versions...
+[32m[1m   Installed[22m[39m IntelOpenMP_jll ────────────── v2018.0.3+2
+[32m[1m   Installed[22m[39m Arpack_jll ─────────────────── v3.5.0+3
+[32m[1m   Installed[22m[39m libvorbis_jll ──────────────── v1.3.7+0
+[32m[1m   Installed[22m[39m Requires ───────────────────── v1.1.3
+[32m[1m   Installed[22m[39m DataValues ─────────────────── v0.4.13
+[32m[1m   Installed[22m[39m StatsPlots ─────────────────── v0.14.22
+[32m[1m   Installed[22m[39m RecipesPipeline ────────────── v0.3.2
+[32m[1m   Installed[22m[39m Expat_jll ──────────────────── v2.2.10+0
+[32m[1m   Installed[22m[39m Xorg_xkbcomp_jll ───────────── v1.4.2+4
+[32m[1m   Installed[22m[39m Ratios ─────────────────────── v0.4.0
+[32m[1m   Installed[22m[39m NearestNeighbors ───────────── v0.4.8
+[32m[1m   Installed[22m[39m OffsetArrays ───────────────── v1.9.2
+[32m[1m   Installed[22m[39m XSLT_jll ───────────────────── v1.1.34+0
+[32m[1m   Installed[22m[39m Libtiff_jll ────────────────── v4.3.0+0
+[32m[1m   Installed[22m[39m QuadGK ─────────────────────── v2.4.1
+[32m[1m   Installed[22m[39m Pixman_jll ─────────────────── v0.40.1+0
+[32m[1m   Installed[22m[39m FriBidi_jll ────────────────── v1.0.10+0
+[32m[1m   Installed[22m[39m LAME_jll ───────────────────── v3.100.1+0
+[32m[1m   Installed[22m[39m Libgcrypt_jll ──────────────── v1.8.7+0
+[32m[1m   Installed[22m[39m IterTools ──────────────────── v1.3.0
+[32m[1m   Installed[22m[39m EarCut_jll ─────────────────── v2.1.5+1
+[32m[1m   Installed[22m[39m NaNMath ────────────────────── v0.3.5
+[32m[1m   Installed[22m[39m Xorg_libXext_jll ───────────── v1.3.4+4
+[32m[1m   Installed[22m[39m MKL_jll ────────────────────── v2021.1.1+1
+[32m[1m   Installed[22m[39m OpenSpecFun_jll ────────────── v0.5.5+0
+[32m[1m   Installed[22m[39m PDMats ─────────────────────── v0.11.1
+[32m[1m   Installed[22m[39m SpecialFunctions ───────────── v1.5.1
+[32m[1m   Installed[22m[39m LZO_jll ────────────────────── v2.10.1+0
+[32m[1m   Installed[22m[39m Xorg_libX11_jll ────────────── v1.6.9+4
+[32m[1m   Installed[22m[39m Widgets ────────────────────── v0.6.3
+[32m[1m   Installed[22m[39m Qt5Base_jll ────────────────── v5.15.3+0
+[32m[1m   Installed[22m[39m Libmount_jll ───────────────── v2.35.0+0
+[32m[1m   Installed[22m[39m Xorg_xcb_util_jll ──────────── v0.4.0+1
+[32m[1m   Installed[22m[39m Opus_jll ───────────────────── v1.3.2+0
+[32m[1m   Installed[22m[39m Xorg_xtrans_jll ────────────── v1.4.0+3
+[32m[1m   Installed[22m[39m Measures ───────────────────── v0.3.1
+[32m[1m   Installed[22m[39m libpng_jll ─────────────────── v1.6.38+0
+[32m[1m   Installed[22m[39m FreeType2_jll ──────────────── v2.10.1+5
+[32m[1m   Installed[22m[39m FillArrays ─────────────────── v0.11.7
+[32m[1m   Installed[22m[39m StatsBase ──────────────────── v0.33.8
+[32m[1m   Installed[22m[39m Libffi_jll ─────────────────── v3.2.2+0
+[32m[1m   Installed[22m[39m Xorg_libxkbfile_jll ────────── v1.1.0+4
+[32m[1m   Installed[22m[39m Wayland_protocols_jll ──────── v1.18.0+4
+[32m[1m   Installed[22m[39m x264_jll ───────────────────── v2020.7.14+2
+[32m[1m   Installed[22m[39m PlotThemes ─────────────────── v2.0.1
+[32m[1m   Installed[22m[39m XML2_jll ───────────────────── v2.9.12+0
+[32m[1m   Installed[22m[39m PCRE_jll ───────────────────── v8.44.0+0
+[32m[1m   Installed[22m[39m Libgpg_error_jll ───────────── v1.42.0+0
+[32m[1m   Installed[22m[39m Rmath_jll ──────────────────── v0.3.0+0
+[32m[1m   Installed[22m[39m xkbcommon_jll ──────────────── v0.9.1+5
+[32m[1m   Installed[22m[39m libfdk_aac_jll ─────────────── v0.1.6+4
+[32m[1m   Installed[22m[39m MultivariateStats ──────────── v0.8.0
+[32m[1m   Installed[22m[39m Glib_jll ───────────────────── v2.68.1+0
+[32m[1m   Installed[22m[39m KernelDensity ──────────────── v0.6.3
+[32m[1m   Installed[22m[39m Xorg_xcb_util_renderutil_jll ─ v0.3.9+1
+[32m[1m   Installed[22m[39m Scratch ────────────────────── v1.1.0
+[32m[1m   Installed[22m[39m RecipesBase ────────────────── v1.1.1
+[32m[1m   Installed[22m[39m OpenSSL_jll ────────────────── v1.1.10+0
+[32m[1m   Installed[22m[39m IniFile ────────────────────── v0.5.0
+[32m[1m   Installed[22m[39m PlotUtils ──────────────────── v1.0.10
+[32m[1m   Installed[22m[39m Observables ────────────────── v0.4.0
+[32m[1m   Installed[22m[39m FFMPEG ─────────────────────── v0.4.1
+[32m[1m   Installed[22m[39m Gettext_jll ────────────────── v0.21.0+0
+[32m[1m   Installed[22m[39m Wayland_jll ────────────────── v1.17.0+4
+[32m[1m   Installed[22m[39m StructArrays ───────────────── v0.5.1
+[32m[1m   Installed[22m[39m Plots ──────────────────────── v1.16.5
+[32m[1m   Installed[22m[39m x265_jll ───────────────────── v3.0.0+3
+[32m[1m   Installed[22m[39m Xorg_xkeyboard_config_jll ──── v2.27.0+4
+[32m[1m   Installed[22m[39m Showoff ────────────────────── v1.0.3
+[32m[1m   Installed[22m[39m Xorg_libXau_jll ────────────── v1.0.9+4
+[32m[1m   Installed[22m[39m Contour ────────────────────── v0.5.7
+[32m[1m   Installed[22m[39m Interpolations ─────────────── v0.13.2
+[32m[1m   Installed[22m[39m FFTW_jll ───────────────────── v3.3.9+7
+[32m[1m   Installed[22m[39m Xorg_libXfixes_jll ─────────── v5.0.3+4
+[32m[1m   Installed[22m[39m Rmath ──────────────────────── v0.7.0
+[32m[1m   Installed[22m[39m JpegTurbo_jll ──────────────── v2.1.0+0
+[32m[1m   Installed[22m[39m WoodburyMatrices ───────────── v0.5.3
+[32m[1m   Installed[22m[39m Latexify ───────────────────── v0.15.6
+[32m[1m   Installed[22m[39m Libuuid_jll ────────────────── v2.36.0+0
+[32m[1m   Installed[22m[39m Xorg_xcb_util_image_jll ────── v0.4.0+1
+[32m[1m   Installed[22m[39m Libiconv_jll ───────────────── v1.16.1+0
+[32m[1m   Installed[22m[39m Cairo_jll ──────────────────── v1.16.0+6
+[32m[1m   Installed[22m[39m GLFW_jll ───────────────────── v3.3.5+0
+[32m[1m   Installed[22m[39m Distances ──────────────────── v0.10.3
+[32m[1m   Installed[22m[39m libass_jll ─────────────────── v0.14.0+4
+[32m[1m   Installed[22m[39m Xorg_libXi_jll ─────────────── v1.7.10+4
+[32m[1m   Installed[22m[39m Arpack ─────────────────────── v0.4.0
+[32m[1m   Installed[22m[39m Xorg_libXrandr_jll ─────────── v1.5.2+4
+[32m[1m   Installed[22m[39m Libglvnd_jll ───────────────── v1.3.0+3
+[32m[1m   Installed[22m[39m GeometryBasics ─────────────── v0.3.12
+[32m[1m   Installed[22m[39m Xorg_libXdmcp_jll ──────────── v1.1.3+4
+[32m[1m   Installed[22m[39m Grisu ──────────────────────── v1.0.2
+[32m[1m   Installed[22m[39m FFMPEG_jll ─────────────────── v4.3.1+4
+[32m[1m   Installed[22m[39m TableOperations ────────────── v1.0.0
+[32m[1m   Installed[22m[39m GR_jll ─────────────────────── v0.57.3+0
+[32m[1m   Installed[22m[39m Ogg_jll ────────────────────── v1.3.5+0
+[32m[1m   Installed[22m[39m Xorg_libXrender_jll ────────── v0.9.10+4
+[32m[1m   Installed[22m[39m HTTP ───────────────────────── v0.9.10
+[32m[1m   Installed[22m[39m Bzip2_jll ──────────────────── v1.0.6+5
+[32m[1m   Installed[22m[39m Adapt ──────────────────────── v3.3.1
+[32m[1m   Installed[22m[39m Xorg_libxcb_jll ────────────── v1.13.0+3
+[32m[1m   Installed[22m[39m Fontconfig_jll ─────────────── v2.13.1+14
+[32m[1m   Installed[22m[39m StatsAPI ───────────────────── v1.0.0
+[32m[1m   Installed[22m[39m URIs ───────────────────────── v1.3.0
+[32m[1m   Installed[22m[39m Xorg_xcb_util_keysyms_jll ──── v0.4.0+1
+[32m[1m   Installed[22m[39m Xorg_libpthread_stubs_jll ──── v0.1.0+3
+[32m[1m   Installed[22m[39m LogExpFunctions ────────────── v0.2.4
+[32m[1m   Installed[22m[39m Zstd_jll ───────────────────── v1.5.0+0
+[32m[1m   Installed[22m[39m ChainRulesCore ─────────────── v0.10.4
+[32m[1m   Installed[22m[39m StaticArrays ───────────────── v1.2.2
+[32m[1m   Installed[22m[39m DocStringExtensions ────────── v0.8.5
+[32m[1m   Installed[22m[39m LibVPX_jll ─────────────────── v1.10.0+0
+[32m[1m   Installed[22m[39m Xorg_libXinerama_jll ───────── v1.1.4+4
+[32m[1m   Installed[22m[39m StatsFuns ──────────────────── v0.9.8
+[32m[1m   Installed[22m[39m Xorg_libXcursor_jll ────────── v1.2.0+4
+[32m[1m   Installed[22m[39m AxisAlgorithms ─────────────── v1.0.0
+[32m[1m   Installed[22m[39m AbstractFFTs ───────────────── v1.0.1
+[32m[1m   Installed[22m[39m Distributions ──────────────── v0.25.3
+[32m[1m   Installed[22m[39m FFTW ───────────────────────── v1.4.2
+[32m[1m   Installed[22m[39m Xorg_xcb_util_wm_jll ───────── v0.4.1+1
+[32m[1m   Installed[22m[39m Clustering ─────────────────── v0.14.2
+[32m[1m   Installed[22m[39m GR ─────────────────────────── v0.57.5
+[32m[1m   Installed[22m[39m ColorSchemes ───────────────── v3.12.1
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Project.toml`
+ [90m [f3b207a7] [39m[92m+ StatsPlots v0.14.22[39m
+[32m[1m    Updating[22m[39m `~/.julia/environments/v1.6/Manifest.toml`
+ [90m [621f4979] [39m[92m+ AbstractFFTs v1.0.1[39m
+ [90m [79e6a3ab] [39m[92m+ Adapt v3.3.1[39m
+ [90m [7d9fca2a] [39m[92m+ Arpack v0.4.0[39m
+ [90m [13072b0f] [39m[92m+ AxisAlgorithms v1.0.0[39m
+ [90m [d360d2e6] [39m[92m+ ChainRulesCore v0.10.4[39m
+ [90m [aaaa29a8] [39m[92m+ Clustering v0.14.2[39m
+ [90m [35d6a980] [39m[92m+ ColorSchemes v3.12.1[39m
+ [90m [d38c429a] [39m[92m+ Contour v0.5.7[39m
+ [90m [e7dc6d0d] [39m[92m+ DataValues v0.4.13[39m
+ [90m [b4f34e82] [39m[92m+ Distances v0.10.3[39m
+ [90m [31c24e10] [39m[92m+ Distributions v0.25.3[39m
+ [90m [ffbed154] [39m[92m+ DocStringExtensions v0.8.5[39m
+ [90m [c87230d0] [39m[92m+ FFMPEG v0.4.1[39m
+ [90m [7a1cc6ca] [39m[92m+ FFTW v1.4.2[39m
+ [90m [1a297f60] [39m[92m+ FillArrays v0.11.7[39m
+ [90m [28b8d3ca] [39m[92m+ GR v0.57.5[39m
+ [90m [5c1252a2] [39m[92m+ GeometryBasics v0.3.12[39m
+ [90m [42e2da0e] [39m[92m+ Grisu v1.0.2[39m
+ [90m [cd3eb016] [39m[92m+ HTTP v0.9.10[39m
+ [90m [83e8ac13] [39m[92m+ IniFile v0.5.0[39m
+ [90m [a98d9a8b] [39m[92m+ Interpolations v0.13.2[39m
+ [90m [c8e1da08] [39m[92m+ IterTools v1.3.0[39m
+ [90m [5ab0869b] [39m[92m+ KernelDensity v0.6.3[39m
+ [90m [23fbe1c1] [39m[92m+ Latexify v0.15.6[39m
+ [90m [2ab3a3ac] [39m[92m+ LogExpFunctions v0.2.4[39m
+ [90m [442fdcdd] [39m[92m+ Measures v0.3.1[39m
+ [90m [6f286f6a] [39m[92m+ MultivariateStats v0.8.0[39m
+ [90m [77ba4419] [39m[92m+ NaNMath v0.3.5[39m
+ [90m [b8a86587] [39m[92m+ NearestNeighbors v0.4.8[39m
+ [90m [510215fc] [39m[92m+ Observables v0.4.0[39m
+ [90m [6fe1bfb0] [39m[92m+ OffsetArrays v1.9.2[39m
+ [90m [90014a1f] [39m[92m+ PDMats v0.11.1[39m
+ [90m [ccf2f8ad] [39m[92m+ PlotThemes v2.0.1[39m
+ [90m [995b91a9] [39m[92m+ PlotUtils v1.0.10[39m
+ [90m [91a5bcdd] [39m[92m+ Plots v1.16.5[39m
+ [90m [1fd47b50] [39m[92m+ QuadGK v2.4.1[39m
+ [90m [c84ed2f1] [39m[92m+ Ratios v0.4.0[39m
+ [90m [3cdcf5f2] [39m[92m+ RecipesBase v1.1.1[39m
+ [90m [01d81517] [39m[92m+ RecipesPipeline v0.3.2[39m
+ [90m [ae029012] [39m[92m+ Requires v1.1.3[39m
+ [90m [79098fc4] [39m[92m+ Rmath v0.7.0[39m
+ [90m [6c6a2e73] [39m[92m+ Scratch v1.1.0[39m
+ [90m [992d4aef] [39m[92m+ Showoff v1.0.3[39m
+ [90m [276daf66] [39m[92m+ SpecialFunctions v1.5.1[39m
+ [90m [90137ffa] [39m[92m+ StaticArrays v1.2.2[39m
+ [90m [82ae8749] [39m[92m+ StatsAPI v1.0.0[39m
+ [90m [2913bbd2] [39m[92m+ StatsBase v0.33.8[39m
+ [90m [4c63d2b9] [39m[92m+ StatsFuns v0.9.8[39m
+ [90m [f3b207a7] [39m[92m+ StatsPlots v0.14.22[39m
+ [90m [09ab397b] [39m[92m+ StructArrays v0.5.1[39m
+ [90m [ab02a1b2] [39m[92m+ TableOperations v1.0.0[39m
+ [90m [5c2747f8] [39m[92m+ URIs v1.3.0[39m
+ [90m [cc8bc4a8] [39m[92m+ Widgets v0.6.3[39m
+ [90m [efce3f68] [39m[92m+ WoodburyMatrices v0.5.3[39m
+ [90m [68821587] [39m[92m+ Arpack_jll v3.5.0+3[39m
+ [90m [6e34b625] [39m[92m+ Bzip2_jll v1.0.6+5[39m
+ [90m [83423d85] [39m[92m+ Cairo_jll v1.16.0+6[39m
+ [90m [5ae413db] [39m[92m+ EarCut_jll v2.1.5+1[39m
+ [90m [2e619515] [39m[92m+ Expat_jll v2.2.10+0[39m
+ [90m [b22a6f82] [39m[92m+ FFMPEG_jll v4.3.1+4[39m
+ [90m [f5851436] [39m[92m+ FFTW_jll v3.3.9+7[39m
+ [90m [a3f928ae] [39m[92m+ Fontconfig_jll v2.13.1+14[39m
+ [90m [d7e528f0] [39m[92m+ FreeType2_jll v2.10.1+5[39m
+ [90m [559328eb] [39m[92m+ FriBidi_jll v1.0.10+0[39m
+ [90m [0656b61e] [39m[92m+ GLFW_jll v3.3.5+0[39m
+ [90m [d2c73de3] [39m[92m+ GR_jll v0.57.3+0[39m
+ [90m [78b55507] [39m[92m+ Gettext_jll v0.21.0+0[39m
+ [90m [7746bdde] [39m[92m+ Glib_jll v2.68.1+0[39m
+ [90m [1d5cc7b8] [39m[92m+ IntelOpenMP_jll v2018.0.3+2[39m
+ [90m [aacddb02] [39m[92m+ JpegTurbo_jll v2.1.0+0[39m
+ [90m [c1c5ebd0] [39m[92m+ LAME_jll v3.100.1+0[39m
+ [90m [dd4b983a] [39m[92m+ LZO_jll v2.10.1+0[39m
+ [90m [dd192d2f] [39m[92m+ LibVPX_jll v1.10.0+0[39m
+ [90m [e9f186c6] [39m[92m+ Libffi_jll v3.2.2+0[39m
+ [90m [d4300ac3] [39m[92m+ Libgcrypt_jll v1.8.7+0[39m
+ [90m [7e76a0d4] [39m[92m+ Libglvnd_jll v1.3.0+3[39m
+ [90m [7add5ba3] [39m[92m+ Libgpg_error_jll v1.42.0+0[39m
+ [90m [94ce4f54] [39m[92m+ Libiconv_jll v1.16.1+0[39m
+ [90m [4b2f31a3] [39m[92m+ Libmount_jll v2.35.0+0[39m
+ [90m [89763e89] [39m[92m+ Libtiff_jll v4.3.0+0[39m
+ [90m [38a345b3] [39m[92m+ Libuuid_jll v2.36.0+0[39m
+ [90m [856f044c] [39m[92m+ MKL_jll v2021.1.1+1[39m
+ [90m [e7412a2a] [39m[92m+ Ogg_jll v1.3.5+0[39m
+ [90m [458c3c95] [39m[92m+ OpenSSL_jll v1.1.10+0[39m
+ [90m [efe28fd5] [39m[92m+ OpenSpecFun_jll v0.5.5+0[39m
+ [90m [91d4177d] [39m[92m+ Opus_jll v1.3.2+0[39m
+ [90m [2f80f16e] [39m[92m+ PCRE_jll v8.44.0+0[39m
+ [90m [30392449] [39m[92m+ Pixman_jll v0.40.1+0[39m
+ [90m [ea2cea3b] [39m[92m+ Qt5Base_jll v5.15.3+0[39m
+ [90m [f50d1b31] [39m[92m+ Rmath_jll v0.3.0+0[39m
+ [90m [a2964d1f] [39m[92m+ Wayland_jll v1.17.0+4[39m
+ [90m [2381bf8a] [39m[92m+ Wayland_protocols_jll v1.18.0+4[39m
+ [90m [02c8fc9c] [39m[92m+ XML2_jll v2.9.12+0[39m
+ [90m [aed1982a] [39m[92m+ XSLT_jll v1.1.34+0[39m
+ [90m [4f6342f7] [39m[92m+ Xorg_libX11_jll v1.6.9+4[39m
+ [90m [0c0b7dd1] [39m[92m+ Xorg_libXau_jll v1.0.9+4[39m
+ [90m [935fb764] [39m[92m+ Xorg_libXcursor_jll v1.2.0+4[39m
+ [90m [a3789734] [39m[92m+ Xorg_libXdmcp_jll v1.1.3+4[39m
+ [90m [1082639a] [39m[92m+ Xorg_libXext_jll v1.3.4+4[39m
+ [90m [d091e8ba] [39m[92m+ Xorg_libXfixes_jll v5.0.3+4[39m
+ [90m [a51aa0fd] [39m[92m+ Xorg_libXi_jll v1.7.10+4[39m
+ [90m [d1454406] [39m[92m+ Xorg_libXinerama_jll v1.1.4+4[39m
+ [90m [ec84b674] [39m[92m+ Xorg_libXrandr_jll v1.5.2+4[39m
+ [90m [ea2f1a96] [39m[92m+ Xorg_libXrender_jll v0.9.10+4[39m
+ [90m [14d82f49] [39m[92m+ Xorg_libpthread_stubs_jll v0.1.0+3[39m
+ [90m [c7cfdc94] [39m[92m+ Xorg_libxcb_jll v1.13.0+3[39m
+ [90m [cc61e674] [39m[92m+ Xorg_libxkbfile_jll v1.1.0+4[39m
+ [90m [12413925] [39m[92m+ Xorg_xcb_util_image_jll v0.4.0+1[39m
+ [90m [2def613f] [39m[92m+ Xorg_xcb_util_jll v0.4.0+1[39m
+ [90m [975044d2] [39m[92m+ Xorg_xcb_util_keysyms_jll v0.4.0+1[39m
+ [90m [0d47668e] [39m[92m+ Xorg_xcb_util_renderutil_jll v0.3.9+1[39m
+ [90m [c22f9ab0] [39m[92m+ Xorg_xcb_util_wm_jll v0.4.1+1[39m
+ [90m [35661453] [39m[92m+ Xorg_xkbcomp_jll v1.4.2+4[39m
+ [90m [33bec58e] [39m[92m+ Xorg_xkeyboard_config_jll v2.27.0+4[39m
+ [90m [c5fb5394] [39m[92m+ Xorg_xtrans_jll v1.4.0+3[39m
+ [90m [3161d3a3] [39m[92m+ Zstd_jll v1.5.0+0[39m
+ [90m [0ac62f75] [39m[92m+ libass_jll v0.14.0+4[39m
+ [90m [f638f0a6] [39m[92m+ libfdk_aac_jll v0.1.6+4[39m
+ [90m [b53b4c65] [39m[92m+ libpng_jll v1.6.38+0[39m
+ [90m [f27f6e37] [39m[92m+ libvorbis_jll v1.3.7+0[39m
+ [90m [1270edf5] [39m[92m+ x264_jll v2020.7.14+2[39m
+ [90m [dfaa095f] [39m[92m+ x265_jll v3.0.0+3[39m
+ [90m [d8fb68d0] [39m[92m+ xkbcommon_jll v0.9.1+5[39m
+ [90m [4af54fe1] [39m[92m+ LazyArtifacts[39m
+ [90m [4607b0f0] [39m[92m+ SuiteSparse[39m
+ [90m [e66e0078] [39m[92m+ CompilerSupportLibraries_jll[39m
+ [90m [4536629a] [39m[92m+ OpenBLAS_jll[39m
+[32m[1m    Building[22m[39m GR → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/b83e3125048a9c3158cbb7ca423790c7b1b57bea/build.log`
+[32m[1mPrecompiling[22m[39m project...
+[32m  ✓ [39m[90mStatsAPI[39m
+[32m  ✓ [39m[90mURIs[39m
+[32m  ✓ [39m[90mRecipesBase[39m
+[32m  ✓ [39m[90mDocStringExtensions[39m
+[32m  ✓ [39m[90mIterTools[39m
+[32m  ✓ [39m[90mCompilerSupportLibraries_jll[39m
+[32m  ✓ [39m[90mPDMats[39m
+[32m  ✓ [39m[90mRequires[39m
+[32m  ✓ [39m[90mNaNMath[39m
+[32m  ✓ [39m[90mDataValues[39m
+[32m  ✓ [39m[90mRatios[39m
+[32m  ✓ [39m[90mWoodburyMatrices[39m
+[32m  ✓ [39m[90mMeasures[39m
+[32m  ✓ [39m[90mFillArrays[39m
+[32m  ✓ [39m[90mLogExpFunctions[39m
+[32m  ✓ [39m[90mIniFile[39m
+[32m  ✓ [39m[90mGrisu[39m
+[32m  ✓ [39m[90mAbstractFFTs[39m
+[32m  ✓ [39m[90mScratch[39m
+[32m  ✓ [39m[90mObservables[39m
+[32m  ✓ [39m[90mChainRulesCore[39m
+[32m  ✓ [39m[90mBzip2_jll[39m
+[32m  ✓ [39m[90mXorg_libpthread_stubs_jll[39m
+[32m  ✓ [39m[90mXorg_libXdmcp_jll[39m
+[32m  ✓ [39m[90mEarCut_jll[39m
+[32m  ✓ [39m[90mIntelOpenMP_jll[39m
+[32m  ✓ [39m[90mExpat_jll[39m
+[32m  ✓ [39m[90mZstd_jll[39m
+[32m  ✓ [39m[90mLZO_jll[39m
+[32m  ✓ [39m[90mPCRE_jll[39m
+[32m  ✓ [39m[90mx265_jll[39m
+[32m  ✓ [39m[90mXorg_libXau_jll[39m
+[32m  ✓ [39m[90mOpus_jll[39m
+[32m  ✓ [39m[90mlibpng_jll[39m
+[32m  ✓ [39m[90mFFTW_jll[39m
+[32m  ✓ [39m[90mLibiconv_jll[39m
+[32m  ✓ [39m[90mlibfdk_aac_jll[39m
+[32m  ✓ [39m[90mXorg_xtrans_jll[39m
+[32m  ✓ [39m[90mLibuuid_jll[39m
+[32m  ✓ [39m[90mLibffi_jll[39m
+[32m  ✓ [39m[90mLibgpg_error_jll[39m
+[32m  ✓ [39m[90mFriBidi_jll[39m
+[32m  ✓ [39m[90mOgg_jll[39m
+[32m  ✓ [39m[90mLibVPX_jll[39m
+[32m  ✓ [39m[90mLibmount_jll[39m
+[32m  ✓ [39m[90mTableOperations[39m
+[32m  ✓ [39m[90mPixman_jll[39m
+[32m  ✓ [39m[90mRmath_jll[39m
+[32m  ✓ [39m[90mJpegTurbo_jll[39m
+[32m  ✓ [39m[90mOpenSSL_jll[39m
+[32m  ✓ [39m[90mLAME_jll[39m
+[32m  ✓ [39m[90mx264_jll[39m
+[32m  ✓ [39m[90mQuadGK[39m
+[32m  ✓ [39m[90mAdapt[39m
+[32m  ✓ [39m[90mDistances[39m
+[32m  ✓ [39m[90mOpenBLAS_jll[39m
+[32m  ✓ [39m[90mAxisAlgorithms[39m
+[32m  ✓ [39m[90mShowoff[39m
+[32m  ✓ [39m[90mStaticArrays[39m
+[32m  ✓ [39m[90mOpenSpecFun_jll[39m
+[32m  ✓ [39m[90mLatexify[39m
+[32m  ✓ [39m[90mWidgets[39m
+[32m  ✓ [39m[90mStatsBase[39m
+[32m  ✓ [39m[90mFreeType2_jll[39m
+[32m  ✓ [39m[90mMKL_jll[39m
+[32m  ✓ [39m[90mXML2_jll[39m
+[32m  ✓ [39m[90mLibgcrypt_jll[39m
+[32m  ✓ [39m[90mRmath[39m
+[32m  ✓ [39m[90mlibvorbis_jll[39m
+[32m  ✓ [39m[90mHTTP[39m
+[32m  ✓ [39m[90mStructArrays[39m
+[32m  ✓ [39m[90mOffsetArrays[39m
+[32m  ✓ [39m[90mArpack_jll[39m
+[32m  ✓ [39m[90mLibtiff_jll[39m
+[32m  ✓ [39m[90mNearestNeighbors[39m
+[32m  ✓ [39m[90mContour[39m
+[32m  ✓ [39m[90mWayland_jll[39m
+[32m  ✓ [39m[90mlibass_jll[39m
+[32m  ✓ [39m[90mFontconfig_jll[39m
+[32m  ✓ [39m[90mGettext_jll[39m
+[32m  ✓ [39m[90mWayland_protocols_jll[39m
+[32m  ✓ [39m[90mXSLT_jll[39m
+[32m  ✓ [39m[90mArpack[39m
+[32m  ✓ [39m[90mXorg_libxcb_jll[39m
+[32m  ✓ [39m[90mClustering[39m
+[32m  ✓ [39m[90mSpecialFunctions[39m
+[32m  ✓ [39m[90mInterpolations[39m
+[32m  ✓ [39m[90mGlib_jll[39m
+[32m  ✓ [39m[90mMultivariateStats[39m
+[32m  ✓ [39m[90mXorg_xcb_util_jll[39m
+[32m  ✓ [39m[90mXorg_libX11_jll[39m
+[32m  ✓ [39m[90mFFMPEG_jll[39m
+[32m  ✓ [39m[90mStatsFuns[39m
+[32m  ✓ [39m[90mXorg_xcb_util_renderutil_jll[39m
+[32m  ✓ [39m[90mXorg_xcb_util_wm_jll[39m
+[32m  ✓ [39m[90mXorg_xcb_util_keysyms_jll[39m
+[32m  ✓ [39m[90mXorg_xcb_util_image_jll[39m
+[32m  ✓ [39m[90mXorg_libXrender_jll[39m
+[32m  ✓ [39m[90mXorg_libXfixes_jll[39m
+[32m  ✓ [39m[90mXorg_libXext_jll[39m
+[32m  ✓ [39m[90mXorg_libxkbfile_jll[39m
+[32m  ✓ [39m[90mColorSchemes[39m
+[32m  ✓ [39m[90mXorg_libXcursor_jll[39m
+[32m  ✓ [39m[90mLibglvnd_jll[39m
+[32m  ✓ [39m[90mXorg_libXrandr_jll[39m
+[32m  ✓ [39m[90mXorg_libXinerama_jll[39m
+[32m  ✓ [39m[90mGeometryBasics[39m
+[32m  ✓ [39m[90mFFTW[39m
+[32m  ✓ [39m[90mXorg_libXi_jll[39m
+[32m  ✓ [39m[90mXorg_xkbcomp_jll[39m
+[32m  ✓ [39m[90mFFMPEG[39m
+[32m  ✓ [39m[90mGLFW_jll[39m
+[32m  ✓ [39m[90mXorg_xkeyboard_config_jll[39m
+[32m  ✓ [39m[90mCairo_jll[39m
+[32m  ✓ [39m[90mxkbcommon_jll[39m
+[32m  ✓ [39m[90mDistributions[39m
+[32m  ✓ [39m[90mQt5Base_jll[39m
+[32m  ✓ [39m[90mKernelDensity[39m
+[32m  ✓ [39m[90mPlotUtils[39m
+[32m  ✓ [39m[90mRecipesPipeline[39m
+[32m  ✓ [39m[90mGR_jll[39m
+[32m  ✓ [39m[90mPlotThemes[39m
+[32m  ✓ [39m[90mGR[39m
+[32m  ✓ [39m[90mPlots[39m
+[32m  ✓ [39mStatsPlots
+  125 dependencies successfully precompiled in 53 seconds (41 already precompiled)
+Starting kernel event loops.
+[I 12:57:59.174 NotebookApp] Kernel shutdown: f69905a2-775a-4de1-9ede-3c1c295fc3fb
+Starting kernel event loops.
+[I 18:37:59.702 NotebookApp] Creating new notebook in /julia
+[W 18:37:59.831 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.839 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.861 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.864 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.873 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.878 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.889 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.895 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.916 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.919 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:37:59.997 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.014 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.057 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.061 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.080 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.083 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.093 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.099 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.110 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.116 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.136 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.139 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.216 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 18:38:00.219 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 18:38:00.434 NotebookApp] Kernel started: c1acc723-1799-4c7a-a7b2-aa67056f59e6, name: julia-1.6
+[I 18:38:05.900 NotebookApp] Adapting from protocol version 5.0 (kernel c1acc723-1799-4c7a-a7b2-aa67056f59e6) to 5.3 (client).
+[I 18:40:02.103 NotebookApp] Saving file at /julia/Julia11.ipynb
+[I 18:42:01.677 NotebookApp] Saving file at /julia/Julia11.ipynb
+[I 18:44:00.420 NotebookApp] Saving file at /julia/Julia11.ipynb
+[I 18:46:01.384 NotebookApp] Saving file at /julia/Julia11.ipynb
+[I 18:54:01.234 NotebookApp] Saving file at /julia/Julia11.ipynb
+[I 19:05:23.243 NotebookApp] Starting buffering for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:05:25.657 NotebookApp] Adapting from protocol version 5.0 (kernel c1acc723-1799-4c7a-a7b2-aa67056f59e6) to 5.3 (client).
+[I 19:05:25.659 NotebookApp] Restoring connection for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:05:26.704 NotebookApp] Starting buffering for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:05:28.097 NotebookApp] Adapting from protocol version 5.0 (kernel c1acc723-1799-4c7a-a7b2-aa67056f59e6) to 5.3 (client).
+[I 19:05:28.098 NotebookApp] Restoring connection for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:05:47.736 NotebookApp] Starting buffering for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:05:50.441 NotebookApp] Adapting from protocol version 5.0 (kernel c1acc723-1799-4c7a-a7b2-aa67056f59e6) to 5.3 (client).
+[I 19:05:50.442 NotebookApp] Restoring connection for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:14:35.006 NotebookApp] Saving file at /julia/Julia11.ipynb
+[I 19:14:36.516 NotebookApp] Starting buffering for c1acc723-1799-4c7a-a7b2-aa67056f59e6:a7887ec00b204d108fb842ee7072df15
+[I 19:14:39.863 NotebookApp] Kernel shutdown: c1acc723-1799-4c7a-a7b2-aa67056f59e6
+Starting kernel event loops.
+[I 19:14:47.016 NotebookApp] Shutting down on /api/shutdown request.
+[I 19:14:47.021 NotebookApp] Shutting down 0 kernels
+[I 19:14:47.021 NotebookApp] Shutting down 0 terminals
+[I 09:45:31.358 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 09:45:31.359 NotebookApp] The port 8888 is already in use, trying another port.
+[I 09:45:31.359 NotebookApp] Serving notebooks from local directory: /Users/akira/Desktop/local/develop/LDL/src/udemy
+[I 09:45:31.359 NotebookApp] Jupyter Notebook 6.4.0 is running at:
+[I 09:45:31.359 NotebookApp] http://localhost:8889/?token=d5c7aaa65273d7c84f2c79e4e38c49763df0a4ebeb322288
+[I 09:45:31.359 NotebookApp]  or http://127.0.0.1:8889/?token=d5c7aaa65273d7c84f2c79e4e38c49763df0a4ebeb322288
+[I 09:45:31.359 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:45:31.364 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/akira/Library/Jupyter/runtime/nbserver-53215-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=d5c7aaa65273d7c84f2c79e4e38c49763df0a4ebeb322288
+     or http://127.0.0.1:8889/?token=d5c7aaa65273d7c84f2c79e4e38c49763df0a4ebeb322288
+[W 09:45:33.156 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'rubberband/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/rubberband/rubberband.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/rubberband/rubberband.yaml'
+[W 09:45:33.157 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'scroll_down/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/scroll_down/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/scroll_down/config.yaml'
+[W 09:45:33.158 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hinterland/hinterland' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hinterland/hinterland.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hinterland/hinterland.yaml'
+[W 09:45:33.158 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'snippets/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/snippets/snippets.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/snippets/snippets.yaml'
+[W 09:45:33.159 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'toggle_all_line_numbers/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/toggle_all_line_numbers/main.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/toggle_all_line_numbers/main.yaml'
+[W 09:45:33.159 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'notify/notify' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/notify/notify.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/notify/notify.yaml'
+[W 09:45:33.160 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'runtools/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/runtools/runtools.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/runtools/runtools.yaml'
+[W 09:45:33.161 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'tree-filter/index' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/tree-filter/tree-filter.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/tree-filter/tree-filter.yaml'
+[W 09:45:33.161 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'table_beautifier/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/table_beautifier/table_beautifier.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/table_beautifier/table_beautifier.yaml'
+[W 09:45:33.161 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'freeze/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/freeze/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/freeze/config.yaml'
+[W 09:45:33.162 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'exercise2/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/exercise2/exercise2.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/exercise2/exercise2.yaml'
+[W 09:45:33.162 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'execution_dependencies/execution_dependencies' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/execution_dependencies/execution_dependencies.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/execution_dependencies/execution_dependencies.yml'
+[W 09:45:33.163 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'skill/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/skill/skill.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/skill/skill.yaml'
+[W 09:45:33.163 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'splitcell/splitcell' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/splitcell/splitcell.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/splitcell/splitcell.yaml'
+[W 09:45:33.164 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'autosavetime/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/autosavetime/autosavetime.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/autosavetime/autosavetime.yaml'
+[W 09:45:33.164 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'select_keymap/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/select_keymap/select_keymap.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/select_keymap/select_keymap.yaml'
+[W 09:45:33.165 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'livemdpreview/livemdpreview' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/livemdpreview/livemdpreview.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/livemdpreview/livemdpreview.yml'
+[W 09:45:33.165 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'gist_it/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/gist_it/gist_it.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/gist_it/gist_it.yaml'
+[W 09:45:33.166 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'cell_filter/cell_filter' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/cell_filter/cell_filter.yml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/cell_filter/cell_filter.yml'
+[W 09:45:33.166 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'scratchpad/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/scratchpad/scratchpad.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/scratchpad/scratchpad.yaml'
+[W 09:45:33.167 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'toc2/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/toc2/toc2.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/toc2/toc2.yaml'
+[W 09:45:33.168 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'nbTranslate/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/nbTranslate/nbTranslate.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/nbTranslate/nbTranslate.yaml'
+[W 09:45:33.168 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'equation-numbering/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/equation-numbering/info.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/equation-numbering/info.yaml'
+[W 09:45:33.169 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'navigation-hotkeys/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/navigation-hotkeys/hotkeys.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/navigation-hotkeys/hotkeys.yaml'
+[W 09:45:33.170 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'snippets_menu/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/snippets_menu/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/snippets_menu/config.yaml'
+[W 09:45:33.171 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'printview/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/printview/printview.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/printview/printview.yaml'
+[W 09:45:33.171 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'export_embedded/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/export_embedded/export_embedded.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/export_embedded/export_embedded.yaml'
+[W 09:45:33.171 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'autoscroll/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/autoscroll/autoscroll.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/autoscroll/autoscroll.yaml'
+[W 09:45:33.172 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_input/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_input/hide-input.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_input/hide-input.yaml'
+[W 09:45:33.172 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_input_all/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_input_all/hide_input_all.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_input_all/hide_input_all.yaml'
+[W 09:45:33.172 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'keyboard_shortcut_editor/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/keyboard_shortcut_editor/keyboard_shortcut_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/keyboard_shortcut_editor/keyboard_shortcut_editor.yaml'
+[W 09:45:33.173 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'help_panel/help_panel' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/help_panel/help_panel.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/help_panel/help_panel.yaml'
+[W 09:45:33.173 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'move_selected_cells/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/move_selected_cells/move_selected_cells.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/move_selected_cells/move_selected_cells.yaml'
+[W 09:45:33.174 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'zenmode/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/zenmode/zenmode.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/zenmode/zenmode.yaml'
+[W 09:45:33.174 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'skip-traceback/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/skip-traceback/skip-traceback.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/skip-traceback/skip-traceback.yaml'
+[W 09:45:33.175 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'python-markdown/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/python-markdown/python-markdown.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/python-markdown/python-markdown.yaml'
+[W 09:45:33.175 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codefolding/edit' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codefolding/codefolding_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codefolding/codefolding_editor.yaml'
+[W 09:45:33.175 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codefolding/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codefolding/codefolding.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codefolding/codefolding.yaml'
+[W 09:45:33.177 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'collapsible_headings/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/collapsible_headings/collapsible_headings.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/collapsible_headings/collapsible_headings.yaml'
+[W 09:45:33.178 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'exercise/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/exercise/exercise.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/exercise/exercise.yaml'
+[W 09:45:33.178 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'codemirror_mode_extensions/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/codemirror_mode_extensions/codemirror_mode_extensions.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/codemirror_mode_extensions/codemirror_mode_extensions.yaml'
+[W 09:45:33.179 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'ruler/edit' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/ruler/ruler_editor.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/ruler/ruler_editor.yaml'
+[W 09:45:33.179 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'ruler/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/ruler/ruler.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/ruler/ruler.yaml'
+[W 09:45:33.181 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'highlight_selected_word/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/highlight_selected_word/configurator.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/highlight_selected_word/configurator.yaml'
+[W 09:45:33.181 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'contrib_nbextensions_help_item/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/contrib_nbextensions_help_item/contrib_nbextensions_help_item.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/contrib_nbextensions_help_item/contrib_nbextensions_help_item.yaml'
+[W 09:45:33.182 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'datestamper/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/datestamper/main.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/datestamper/main.yaml'
+[W 09:45:33.182 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'init_cell/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/init_cell/init_cell.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/init_cell/init_cell.yaml'
+[W 09:45:33.183 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'limit_output/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/limit_output/limit-output.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/limit_output/limit-output.yaml'
+[W 09:45:33.183 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'qtconsole/qtconsole' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/qtconsole/qtconsole.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/qtconsole/qtconsole.yaml'
+[W 09:45:33.183 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'addbefore/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/addbefore/addbefore.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/addbefore/addbefore.yaml'
+[W 09:45:33.184 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'highlighter/highlighter' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/highlighter/highlighter.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/highlighter/highlighter.yaml'
+[W 09:45:33.184 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'comment-uncomment/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/comment-uncomment/comment-uncomment.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/comment-uncomment/comment-uncomment.yaml'
+[W 09:45:33.184 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_font_size/code_font_size' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_font_size/code_font_size.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_font_size/code_font_size.yaml'
+[W 09:45:33.185 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'varInspector/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/varInspector/varInspector.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/varInspector/varInspector.yaml'
+[W 09:45:33.186 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'latex_envs/latex_envs' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/latex_envs/latex_envs.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/latex_envs/latex_envs.yaml'
+[W 09:45:33.187 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'execute_time/ExecuteTime' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/execute_time/ExecuteTime.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/execute_time/ExecuteTime.yaml'
+[W 09:45:33.187 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'spellchecker/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/spellchecker/config.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/spellchecker/config.yaml'
+[W 09:45:33.188 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/2to3' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/2to3.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/2to3.yaml'
+[W 09:45:33.189 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/code_prettify' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/code_prettify.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/code_prettify.yaml'
+[W 09:45:33.189 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/autopep8' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/autopep8.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/autopep8.yaml'
+[W 09:45:33.190 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'code_prettify/isort' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/code_prettify/isort.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/code_prettify/isort.yaml'
+[W 09:45:33.190 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'load_tex_macros/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/load_tex_macros/load_tex_macros.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/load_tex_macros/load_tex_macros.yaml'
+[W 09:45:33.190 NotebookApp] [jupyter_nbextensions_configurator] nbextension 'hide_header/main' has duplicate listings in both '/usr/local/share/jupyter/nbextensions/hide_header/hide_header.yaml' and '/opt/anaconda3/envs/local/share/jupyter/nbextensions/hide_header/hide_header.yaml'
+[W 09:46:03.278 NotebookApp] delete /自然言語処理とチャットボット/nlp_bot/Section_3
+[W 09:46:07.219 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.224 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.244 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.248 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.258 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.264 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.275 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.281 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.301 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.305 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.386 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.390 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.434 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.438 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.457 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.460 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.469 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.475 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.485 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.490 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.510 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.513 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.586 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.589 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:46:07.821 NotebookApp] Notebook 自然言語処理とチャットボット/nlp_bot/Section_4/math_basic.ipynb is not trusted
+[I 09:46:08.167 NotebookApp] Kernel started: 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6, name: python3
+[I 09:46:12.569 NotebookApp] Starting buffering for 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6:4b45fe52e02c4d42b4e46ab45a0b1f05
+[W 09:58:31.199 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.207 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.228 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.231 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.239 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.245 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.256 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.261 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.302 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.305 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.381 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.385 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.426 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.431 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.450 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.453 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.461 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.466 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.476 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.481 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.500 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.503 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.575 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.579 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:31.810 NotebookApp] Notebook 自然言語処理とチャットボット/nlp_bot/Section_4/math_basic.ipynb is not trusted
+[I 09:58:34.951 NotebookApp] Starting buffering for 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6:35780ab7f802442d9bea2da4fc0141b3
+[I 09:58:35.169 NotebookApp] Kernel restarted: 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6
+[I 09:58:35.177 NotebookApp] Restoring connection for 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6:35780ab7f802442d9bea2da4fc0141b3
+[I 09:58:35.660 NotebookApp] Replaying 3 buffered messages
+[I 09:58:38.392 NotebookApp] Saving file at /自然言語処理とチャットボット/nlp_bot/Section_4/math_basic.ipynb
+[I 09:58:39.755 NotebookApp] Starting buffering for 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6:35780ab7f802442d9bea2da4fc0141b3
+[W 09:58:43.259 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.265 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.288 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.291 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.301 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.306 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.317 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.323 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.346 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.350 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.448 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.452 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.503 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.508 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.529 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.532 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.542 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.548 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.584 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.591 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.612 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.615 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.696 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.699 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:43.932 NotebookApp] Notebook 自然言語処理とチャットボット/nlp_bot/Section_4/liner.ipynb is not trusted
+[I 09:58:44.462 NotebookApp] Kernel started: f0214061-4bc8-4af4-8465-09e38a3eefa7, name: python3
+[I 09:58:44.471 NotebookApp] 302 GET /notebooks/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%A8%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9B%E3%82%99%E3%83%83%E3%83%88/nlp_bot/Section_4/images/matrix.png (::1) 5.470000ms
+[I 09:58:44.473 NotebookApp] 302 GET /notebooks/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%A8%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9B%E3%82%99%E3%83%83%E3%83%88/nlp_bot/Section_4/images/tensor.png (::1) 2.010000ms
+[I 09:58:44.474 NotebookApp] 302 GET /notebooks/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%A8%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9B%E3%82%99%E3%83%83%E3%83%88/nlp_bot/Section_4/images/matrix_product_1.png (::1) 2.180000ms
+[I 09:58:44.475 NotebookApp] 302 GET /notebooks/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%A8%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9B%E3%82%99%E3%83%83%E3%83%88/nlp_bot/Section_4/images/matrix_product_2.png (::1) 0.990000ms
+[I 09:58:46.939 NotebookApp] Starting buffering for f0214061-4bc8-4af4-8465-09e38a3eefa7:18f3654aa13a44418236c296446c8917
+[I 09:58:47.158 NotebookApp] Kernel restarted: f0214061-4bc8-4af4-8465-09e38a3eefa7
+[I 09:58:47.164 NotebookApp] Restoring connection for f0214061-4bc8-4af4-8465-09e38a3eefa7:18f3654aa13a44418236c296446c8917
+[I 09:58:47.672 NotebookApp] Replaying 3 buffered messages
+[W 09:58:50.662 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.667 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.689 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.692 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.701 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.707 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.718 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.723 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.743 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.746 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.822 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.825 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.870 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.874 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.893 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.897 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.905 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.911 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.921 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.927 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.946 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:50.949 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:51.021 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:51.025 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:58:51.231 NotebookApp] Notebook 自然言語処理とチャットボット/nlp_bot/Section_4/differentiation.ipynb is not trusted
+[I 09:58:51.581 NotebookApp] Kernel started: 5badbb20-def7-47b7-9775-77aeb2fbab4e, name: python3
+[I 09:58:55.717 NotebookApp] Saving file at /自然言語処理とチャットボット/nlp_bot/Section_4/liner.ipynb
+[I 09:58:56.957 NotebookApp] Starting buffering for f0214061-4bc8-4af4-8465-09e38a3eefa7:18f3654aa13a44418236c296446c8917
+[I 09:58:59.526 NotebookApp] Starting buffering for 5badbb20-def7-47b7-9775-77aeb2fbab4e:fbf5681057b2460abc6db54a492afd5e
+[I 09:58:59.749 NotebookApp] Kernel restarted: 5badbb20-def7-47b7-9775-77aeb2fbab4e
+[I 09:58:59.756 NotebookApp] Restoring connection for 5badbb20-def7-47b7-9775-77aeb2fbab4e:fbf5681057b2460abc6db54a492afd5e
+[I 09:59:00.182 NotebookApp] Replaying 3 buffered messages
+[I 09:59:04.679 NotebookApp] Saving file at /自然言語処理とチャットボット/nlp_bot/Section_4/differentiation.ipynb
+[I 09:59:06.017 NotebookApp] Starting buffering for 5badbb20-def7-47b7-9775-77aeb2fbab4e:fbf5681057b2460abc6db54a492afd5e
+[W 09:59:07.649 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.655 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.678 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.681 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.690 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.695 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.706 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.711 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.732 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.735 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.808 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.812 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.854 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.858 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.878 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.881 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.890 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.895 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.905 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.910 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.931 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:07.934 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:08.008 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:08.012 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 09:59:08.217 NotebookApp] Notebook 自然言語処理とチャットボット/nlp_bot/Section_4/normal.ipynb is not trusted
+[I 09:59:08.507 NotebookApp] Kernel started: 72cb7afe-fe1b-4320-9d03-191bf952e566, name: python3
+[I 09:59:08.514 NotebookApp] 302 GET /notebooks/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%A8%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9B%E3%82%99%E3%83%83%E3%83%88/nlp_bot/Section_4/images/normal.png (::1) 1.070000ms
+[I 09:59:11.229 NotebookApp] Starting buffering for 72cb7afe-fe1b-4320-9d03-191bf952e566:1dd6889748964f03881deeffe17cdf31
+[I 09:59:11.449 NotebookApp] Kernel restarted: 72cb7afe-fe1b-4320-9d03-191bf952e566
+[I 09:59:11.455 NotebookApp] Restoring connection for 72cb7afe-fe1b-4320-9d03-191bf952e566:1dd6889748964f03881deeffe17cdf31
+[I 09:59:11.978 NotebookApp] Replaying 3 buffered messages
+[I 09:59:15.292 NotebookApp] Saving file at /自然言語処理とチャットボット/nlp_bot/Section_4/normal.ipynb
+[I 09:59:16.623 NotebookApp] Starting buffering for 72cb7afe-fe1b-4320-9d03-191bf952e566:1dd6889748964f03881deeffe17cdf31
+[I 09:59:20.988 NotebookApp] Kernel shutdown: 5badbb20-def7-47b7-9775-77aeb2fbab4e
+[I 09:59:21.197 NotebookApp] Kernel shutdown: f0214061-4bc8-4af4-8465-09e38a3eefa7
+[I 09:59:21.409 NotebookApp] Kernel shutdown: 44da250b-a6c3-43e6-9256-a4fa1f8e5cb6
+[I 09:59:21.619 NotebookApp] Kernel shutdown: 72cb7afe-fe1b-4320-9d03-191bf952e566
