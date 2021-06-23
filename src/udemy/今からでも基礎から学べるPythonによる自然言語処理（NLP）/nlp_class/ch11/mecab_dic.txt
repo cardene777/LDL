@@ -11,4 +11,4 @@ $ mecab-dict-index -m ＜モデルファイル＞ -d  ＜IPA辞書のディレ�
 -d ./mecab-ipadic-2.7.0-20070801 \
 -u dic_baseball_cost.csv \
 -f utf8 -t utf8 \
--a dic_baseball.csv
+-a ch11/dic_baseball.csv
